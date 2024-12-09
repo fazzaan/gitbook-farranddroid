@@ -11,23 +11,28 @@
 ## Windows Configuration
 
 * [Setting up a new Windows 11 system](windows-configuration/setting-up-a-new-windows-11-system/README.md)
-  * [Windows Settings app](windows-configuration/setting-up-a-new-windows-11-system/windows-settings-app/README.md)
-    * [Multi-tasking settings](windows-configuration/setting-up-a-new-windows-11-system/windows-settings-app/multi-tasking-settings.md)
-    * [Taskbar settings](windows-configuration/setting-up-a-new-windows-11-system/windows-settings-app/taskbar-settings.md)
-    * [Page](windows-configuration/setting-up-a-new-windows-11-system/windows-settings-app/page.md)
-  * [Windows Upgrade](windows-configuration/setting-up-a-new-windows-11-system/windows-upgrade.md)
+  * [Upgrade Windows Edition](windows-configuration/setting-up-a-new-windows-11-system/upgrade-windows-edition.md)
+  * [Multi-tasking settings](windows-configuration/setting-up-a-new-windows-11-system/multi-tasking-settings.md)
+  * [Taskbar settings](windows-configuration/setting-up-a-new-windows-11-system/taskbar-settings.md)
+  * [Disable Advertising tracking](windows-configuration/setting-up-a-new-windows-11-system/disable-advertising-tracking.md)
   * [Disable Widgets](windows-configuration/setting-up-a-new-windows-11-system/disable-widgets.md)
   * [Driver Installation](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/README.md)
     * [General drivers](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/general-drivers.md)
     * [Graphics](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/graphics.md)
     * [Audio](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/audio.md)
+* [Startup Apps](windows-configuration/startup-apps.md)
 * [PowerToys Configuration](windows-configuration/powertoys-configuration.md)
-* [Third-party apps](windows-configuration/third-party-apps.md)
+* [Third-party apps](windows-configuration/third-party-apps/README.md)
+  * [Software management](windows-configuration/third-party-apps/software-management.md)
 
 ## Windows Usage
 
 * [Windows Tools](windows-usage/windows-tools.md)
 * [Tips on handling bugs](windows-usage/tips-on-handling-bugs.md)
+
+## Internet Browser Setup
+
+* [Browser Extensions](internet-browser-setup/browser-extensions.md)
 
 ## Typing Tips
 

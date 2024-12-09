@@ -1,6 +1,8 @@
 # Third-party apps
 
-## _G-Helper_ alternative to Asus's _Armoury Crate_
+## For ASUS
+
+### _G-Helper_ alternative to Asus's _Armoury Crate_
 
 Asus ROG laptops have the infamous "Armoury Crate". Somehow, Asus forgot to include any way of locking the Fn keys on or off — and it does seem to be a genuine oversight because some people have got it locked on, and for others it's off!
 
