@@ -47,6 +47,22 @@
 * [Privacy & telemetry](web-browser-setup/privacy-and-telemetry.md)
 * [Passwords & security](web-browser-setup/passwords-and-security.md)
 
+## Application setup
+
+* [Application setup](application-setup/application-setup.md)
+* [Getting the apps you need](application-setup/getting-the-apps-you-need.md)
+* [Popular apps for purposes](application-setup/popular-apps-for-purposes.md)
+* [Underrated useful apps](application-setup/underrated-useful-apps.md)
+* [Configuring large, complex apps](application-setup/configuring-large-complex-apps.md)
+
+## File Management
+
+* [Intro to storage hygiene](file-management/intro-to-storage-hygiene.md)
+* [Monitoring storage usage](file-management/monitoring-storage-usage.md)
+* [Sync & backup files](file-management/sync-and-backup-files.md)
+* [Folder hierarchy and file naming](file-management/folder-hierarchy-and-file-naming.md)
+* [Where should I store different types of files?](file-management/where-should-i-store-different-types-of-files.md)
+
 ## Typing Tips
 
 * [Home Keys method](typing-tips/home-keys-method.md)
