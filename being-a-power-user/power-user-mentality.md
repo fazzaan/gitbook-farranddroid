@@ -1,7 +1,7 @@
 # Power User mentality
 
 1. As a power user, you want to <mark style="color:red;">automate simple & repetitive tasks</mark>, either to reflexive repeated sequences of actions, or to an actual automated service.
-2. As a power user, you want to <mark style="color:orange;">use a combination of input methods</mark> (mouse, touchpad, touchscreen, keyboard), and you want to use each of them to their fullest potential.
+2. As a power user, you want to <mark style="color:orange;">use a combination of input methods</mark> (mouse, touchpad, touchscreen, keyboard, keyboard layouts), and you want to use each of them to their fullest potential.
 3. As a power user, you want to <mark style="color:yellow;">be capable of using either hand for any input device at any moment</mark>, able to use both hands with equal dexterity, speed and accuracy.
 4. As a power user, you want to <mark style="color:green;">minimize external & internal distractions</mark>, and you also want to <mark style="color:green;">be adaptable and imperturbable</mark>.
 
@@ -25,7 +25,23 @@ Learn the shortcuts, plan the repetative sequences, consolidate them into muscle
 
 #### Actual automation
 
-There are also actual automation solutions available — after all, this is a computer! Windows has Task Scheduler built in, other OSes have similar options.&#x20;
+There are also actual automation solutions available — after all, this is a computer!&#x20;
+
+* Windows has Task Scheduler built in, other OSes have similar options.&#x20;
+* Microsoft Office has recordable macros in which you carry out a sequence of edits, which gets recorded and attached to a function, and the function can be started usually by a keyboard shortcut. I usually create an "insert new table row" macro bound to <mark style="color:yellow;">`Ctrl+Alt+Shift+Enter`</mark>.
+* IFTTT (If This Then That) allows for all kinds of automated tasks run via your personal internet accounts. I don't use it but it is exceptionally useful and highly featureful.
+
+***
+
+### 2. Using a combination of input methods
+
+As listed above, input methods include:
+
+* mouse
+* touchpad
+* touchscreen
+* keyboard
+* keyboard layouts
 
 
 

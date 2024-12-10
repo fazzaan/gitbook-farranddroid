@@ -71,13 +71,17 @@ There's a lot of info on here.&#x20;
 
 ## Becoming a “power user”
 
+Introduction to [Broken link](broken-reference "mention") → [power-user-mentality.md](../being-a-power-user/power-user-mentality.md "mention").
+
 <details>
 
-<summary>Keyboard shortcuts</summary>
+<summary>Keyboard shortcuts </summary>
 
-* [keyboard-shortcuts-global.md](../shortcuts/keyboard-shortcuts-global.md "mention")&#x20;
-* [keyboard-shortcuts-windows.md](../shortcuts/keyboard-shortcuts-windows.md "mention")&#x20;
-* [keyboard-shortcuts-linux.md](../shortcuts/keyboard-shortcuts-linux.md "mention")&#x20;
+[keyboard-shortcuts](../being-a-power-user/keyboard-shortcuts/ "mention") introduction
+
+* [global.md](../being-a-power-user/keyboard-shortcuts/global.md "mention")&#x20;
+* [windows.md](../being-a-power-user/keyboard-shortcuts/windows.md "mention")&#x20;
+* [linux.md](../being-a-power-user/keyboard-shortcuts/linux.md "mention")&#x20;
 
 </details>
 
@@ -85,7 +89,7 @@ There's a lot of info on here.&#x20;
 
 <summary>Touchpad gestures</summary>
 
-
+[touchpad-gestures](../being-a-power-user/touchpad-gestures/ "mention")
 
 </details>
 

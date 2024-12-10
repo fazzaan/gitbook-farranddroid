@@ -47,10 +47,6 @@
 * [Privacy & telemetry](web-browser-setup/privacy-and-telemetry.md)
 * [Passwords & security](web-browser-setup/passwords-and-security.md)
 
-## &#x20;Being a Power User
-
-* [Power User mentality](being-a-power-user/power-user-mentality.md)
-
 ## Typing Tips
 
 * [Home Keys method](typing-tips/home-keys-method.md)
@@ -60,8 +56,17 @@
 * [Input Methods](typing-tips/input-methods.md)
 * [Apps for typing features](typing-tips/apps-for-typing-features.md)
 
-## Shortcuts
+## &#x20;Being a Power User
 
-* [Keyboard Shortcuts (Global)](shortcuts/keyboard-shortcuts-global.md)
-* [Keyboard Shortcuts (Windows)](shortcuts/keyboard-shortcuts-windows.md)
-* [Keyboard Shortcuts (Linux)](shortcuts/keyboard-shortcuts-linux.md)
+* [Power User mentality](being-a-power-user/power-user-mentality.md)
+* [Keyboard shortcuts](being-a-power-user/keyboard-shortcuts/README.md)
+  * [Global](being-a-power-user/keyboard-shortcuts/global.md)
+  * [Windows](being-a-power-user/keyboard-shortcuts/windows.md)
+  * [Linux](being-a-power-user/keyboard-shortcuts/linux.md)
+* [Touchpad gestures](being-a-power-user/touchpad-gestures/README.md)
+  * [My setup (Windows)](being-a-power-user/touchpad-gestures/my-setup-windows.md)
+  * [Windows (default)](being-a-power-user/touchpad-gestures/windows-default.md)
+  * [Mac OS](being-a-power-user/touchpad-gestures/mac-os.md)
+  * [Linux (GNOME, KDE)](being-a-power-user/touchpad-gestures/linux-gnome-kde.md)
+* [Window manager features](being-a-power-user/window-manager-features.md)
+* [Dual screens](being-a-power-user/dual-screens.md)
