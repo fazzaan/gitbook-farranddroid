@@ -13,6 +13,7 @@
 * [Hardware Selection](principles-of-setup/hardware-selection/README.md)
   * [Mouse](principles-of-setup/hardware-selection/mouse.md)
 * [Crafting Your Environment](principles-of-setup/crafting-your-environment.md)
+* [Back up everything you spend time creating](principles-of-setup/back-up-everything-you-spend-time-creating.md)
 
 ## Windows Configuration
 
@@ -45,6 +46,10 @@
 * [Browser Extensions](web-browser-setup/browser-extensions.md)
 * [Privacy & telemetry](web-browser-setup/privacy-and-telemetry.md)
 * [Passwords & security](web-browser-setup/passwords-and-security.md)
+
+## &#x20;Being a Power User
+
+* [Power User mentality](being-a-power-user/power-user-mentality.md)
 
 ## Typing Tips
 
