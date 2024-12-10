@@ -1,8 +1,14 @@
 # Table of contents
 
+## FarrAndDroid Website
+
+* [Home](README.md)
+* [What's this site for?](farranddroid-website/whats-this-site-for.md)
+* [Website Map](farranddroid-website/website-map.md)
+
 ## Principles of Setup
 
-* [Decreasing Distraction](README.md)
+* [Decreasing Distraction](<README (1).md>)
 * [Software & OS Configuration](principles-of-setup/software-and-os-configuration.md)
 * [Hardware Selection](principles-of-setup/hardware-selection/README.md)
   * [Mouse](principles-of-setup/hardware-selection/mouse.md)
@@ -33,17 +39,19 @@
 * [PowerToys Tools](windows-usage/powertoys-tools.md)
 * [Tips on handling bugs](windows-usage/tips-on-handling-bugs.md)
 
-## Internet Browser Setup
+## Web Browser Setup
 
-* [Browser Extensions](internet-browser-setup/browser-extensions.md)
+* [Browser Extensions](web-browser-setup/browser-extensions.md)
 
 ## Typing Tips
 
-* [Like a piano](typing-tips/like-a-piano.md)
-* [Rhythmic training](typing-tips/rhythmic-training.md)
+* [Home Keys method](typing-tips/home-keys-method.md)
+* [Rhythmic method](typing-tips/rhythmic-method.md)
+* [Like a Piano method](typing-tips/like-a-piano-method.md)
+* [Custom keyboard layouts](typing-tips/custom-keyboard-layouts.md)
 
 ## Shortcuts
 
 * [Keyboard Shortcuts (Global)](shortcuts/keyboard-shortcuts-global.md)
 * [Keyboard Shortcuts (Windows)](shortcuts/keyboard-shortcuts-windows.md)
-* [Page 1](shortcuts/page-1.md)
+* [Keyboard Shortcuts (Linux)](shortcuts/keyboard-shortcuts-linux.md)
