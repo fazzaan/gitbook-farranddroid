@@ -6,7 +6,7 @@ Look at each one properly and think about what it is and if it needs to start up
 
 Here is my Startup apps list:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 I have only 5 apps enabled in Startup.&#x20;
 

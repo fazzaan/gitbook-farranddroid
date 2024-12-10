@@ -24,6 +24,6 @@ This feature also does not work consistently across all apps that have tabs, whi
 
 Unless you actually like this and are already familiar with using it, turn it off. You will have fewer headaches and will be able to reflexively find things.&#x20;
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Interestingly, this is yet another example of new features from Microsoft which serve to disable our reflexive functions and force us to operate instead via observation and processing. Another example of this is their centring of the Taskbar items, untethering the Start button from a static, predictable and infinitely large location (again, see [_Fitts's Law_](https://en.wikipedia.org/wiki/Fitts's_law)).

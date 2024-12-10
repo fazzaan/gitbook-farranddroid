@@ -41,7 +41,10 @@
 
 ## Web Browser Setup
 
+* [My default settings](web-browser-setup/my-default-settings.md)
 * [Browser Extensions](web-browser-setup/browser-extensions.md)
+* [Privacy & telemetry](web-browser-setup/privacy-and-telemetry.md)
+* [Passwords & security](web-browser-setup/passwords-and-security.md)
 
 ## Typing Tips
 
@@ -49,6 +52,8 @@
 * [Rhythmic method](typing-tips/rhythmic-method.md)
 * [Like a Piano method](typing-tips/like-a-piano-method.md)
 * [Custom keyboard layouts](typing-tips/custom-keyboard-layouts.md)
+* [Input Methods](typing-tips/input-methods.md)
+* [Apps for typing features](typing-tips/apps-for-typing-features.md)
 
 ## Shortcuts
 
