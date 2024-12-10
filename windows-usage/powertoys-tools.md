@@ -57,7 +57,7 @@ I also use it to remap several shortcut sequences:&#x20;
 
 A pinned window will also have a thick border outlining it, which you can customize.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -65,7 +65,7 @@ A pinned window will also have a thick border outlining it, which you can custom
 
 Sometimes I stream media from my laptop to my TV or Android devices, but the media software doesn't keep Windows awake. There are numerous other reasons to keep your computer awake too! You can use this PowerToys module to keep your computer awake indefinitely, for a time interval, or until a specific expiration time.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Awake modes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Awake modes</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Awake for time interval setting</p></figcaption></figure>
 

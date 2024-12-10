@@ -20,9 +20,12 @@
     * [General drivers](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/general-drivers.md)
     * [Graphics](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/graphics.md)
     * [Audio](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/audio.md)
+  * [Installing keyboard & language packs](windows-configuration/setting-up-a-new-windows-11-system/installing-keyboard-and-language-packs.md)
 * [Startup Apps](windows-configuration/startup-apps.md)
 * [Third-party apps](windows-configuration/third-party-apps/README.md)
   * [Software management](windows-configuration/third-party-apps/software-management.md)
+* [Edge: Make It Stop](windows-configuration/edge-make-it-stop.md)
+* [Removing Bloatware](windows-configuration/removing-bloatware.md)
 
 ## Windows Usage
 

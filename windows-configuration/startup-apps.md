@@ -4,7 +4,13 @@ Disable as many as possible!
 
 Look at each one properly and think about what it is and if it needs to start up automatically.
 
-If you don't recognize anything, search for it online!
+Here is my Startup apps list:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+I have only 5 apps enabled in Startup.&#x20;
+
+If you don't recognize anything in yours, search for it online!
 
 Some of the startup apps are necessary, such as audio controllers and antivirus apps.
 
