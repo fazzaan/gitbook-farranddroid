@@ -30,6 +30,6 @@ Disable as many as possible!
 
 Also check the top-right corner of the window to see the "Last BIOS time".
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 If this is more than a few seconds, research further to find out what the problem could be.
