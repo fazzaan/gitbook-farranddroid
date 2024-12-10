@@ -21,13 +21,13 @@
     * [Graphics](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/graphics.md)
     * [Audio](windows-configuration/setting-up-a-new-windows-11-system/driver-installation/audio.md)
 * [Startup Apps](windows-configuration/startup-apps.md)
-* [PowerToys Configuration](windows-configuration/powertoys-configuration.md)
 * [Third-party apps](windows-configuration/third-party-apps/README.md)
   * [Software management](windows-configuration/third-party-apps/software-management.md)
 
 ## Windows Usage
 
 * [Windows Tools](windows-usage/windows-tools.md)
+* [PowerToys Tools](windows-usage/powertoys-tools.md)
 * [Tips on handling bugs](windows-usage/tips-on-handling-bugs.md)
 
 ## Internet Browser Setup
