@@ -1,12 +1,12 @@
-# Website Map
+# Site map
 
 There's a lot of info on here.&#x20;
 
 ## Main Sections
 
-* [Setting up a computer to be useable and useful ↴](website-map.md#setting-up-a-computer-to-be-useable-and-useful)&#x20;
-* [Typing tips ↴](website-map.md#typing-tips)&#x20;
-* [Becoming a "power user" ↴](website-map.md#becoming-a-power-user) — shortcuts, gestures, etc
+* [Setting up a computer to be useable and useful ↴](site-map.md#setting-up-a-computer-to-be-useable-and-useful)&#x20;
+* [Typing tips ↴](site-map.md#typing-tips)&#x20;
+* [Becoming a "power user" ↴](site-map.md#becoming-a-power-user) — shortcuts, gestures, etc
 
 
 
@@ -90,7 +90,7 @@ Introduction to good file management — personal data storage hygiene! (diff be
 * [home-keys-method.md](../typing-tips/home-keys-method.md "mention")&#x20;
 * [rhythmic-method.md](../typing-tips/rhythmic-method.md "mention")&#x20;
 * [like-a-piano-method.md](../typing-tips/like-a-piano-method.md "mention")&#x20;
-* [custom-keyboard-layouts.md](../typing-tips/custom-keyboard-layouts.md "mention")&#x20;
+* [custom-keyboard-layouts](../typing-tips/custom-keyboard-layouts/ "mention")&#x20;
 * [input-methods.md](../typing-tips/input-methods.md "mention") for other languages and scripts
 * [apps-for-typing-features.md](../typing-tips/apps-for-typing-features.md "mention")
 
@@ -98,7 +98,7 @@ Introduction to good file management — personal data storage hygiene! (diff be
 
 ## Becoming a “power user”
 
-Introduction to [Broken link](broken-reference "mention") → [power-user-mentality.md](../being-a-power-user/power-user-mentality.md "mention").
+Introduction to [Broken link](broken-reference "mention") → [power-user-mentality](../being-a-power-user/power-user-mentality/ "mention").
 
 <details>
 
