@@ -6,7 +6,7 @@ Look at each one properly and think about what it is and if it needs to start up
 
 Here is my Startup apps list:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I have only 5 apps enabled in Startup.&#x20;
 
@@ -36,6 +36,6 @@ Disable as many as possible!
 
 Also check the top-right corner of the window to see the "Last BIOS time".
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If this is more than a few seconds, research further to find out what the problem could be.

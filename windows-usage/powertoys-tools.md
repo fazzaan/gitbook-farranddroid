@@ -31,11 +31,11 @@ I use Color Picker for my graphic design work.
 
 Press 🪟+Shift+C to launch Color Picker.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Its settings page allows you to enable a wide range of colour format, as well as define your own.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -57,7 +57,7 @@ I also use it to remap several shortcut sequences:&#x20;
 
 A pinned window will also have a thick border outlining it, which you can customize.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -65,11 +65,11 @@ A pinned window will also have a thick border outlining it, which you can custom
 
 Sometimes I stream media from my laptop to my TV or Android devices, but the media software doesn't keep Windows awake. There are numerous other reasons to keep your computer awake too! You can use this PowerToys module to keep your computer awake indefinitely, for a time interval, or until a specific expiration time.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Awake modes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Awake modes</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Awake for time interval setting</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Awake for time interval setting</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Awake until expiration settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Awake until expiration settings</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Choose if the screen should stay on or not</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Choose if the screen should stay on or not</p></figcaption></figure>
 

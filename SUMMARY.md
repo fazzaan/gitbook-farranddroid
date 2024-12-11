@@ -17,7 +17,7 @@
 
 ## Windows Configuration
 
-* [Setting up a new Windows 11 system](windows-configuration/setting-up-a-new-windows-11-system/README.md)
+* [Setting up a new Windows 11 system](windows-configuration/setting-up-a-new-windows-11-system/README.md)
   * [Upgrade Windows Edition](windows-configuration/setting-up-a-new-windows-11-system/upgrade-windows-edition.md)
   * [Multi-tasking settings](windows-configuration/setting-up-a-new-windows-11-system/multi-tasking-settings.md)
   * [Taskbar settings](windows-configuration/setting-up-a-new-windows-11-system/taskbar-settings.md)
@@ -33,6 +33,8 @@
   * [Software management](windows-configuration/third-party-apps/software-management.md)
 * [Edge: Make It Stop](windows-configuration/edge-make-it-stop.md)
 * [Removing Bloatware](windows-configuration/removing-bloatware.md)
+* [Automating tasks](windows-configuration/automating-tasks/README.md)
+  * [Time Synchronization](windows-configuration/automating-tasks/time-synchronization.md)
 
 ## Windows Usage
 
