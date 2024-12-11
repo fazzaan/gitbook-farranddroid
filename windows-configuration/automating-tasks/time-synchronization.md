@@ -90,7 +90,9 @@ Type <mark style="color:red;">`w32tm`</mark> in the Program box, and <mark style
 
 Check the summary on the Finish page.
 
-Check the&#x20;
+Tick the checkbox for "Open the Properties dialog for this task when I click Finish",
+
+then click Finish.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
