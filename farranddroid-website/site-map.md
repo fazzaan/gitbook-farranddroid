@@ -12,6 +12,8 @@ There's a lot of info on here.&#x20;
 
 ## Setting up a computer to be useable and useful
 
+Click each item below to expand. <mark style="color:yellow;">**↓**</mark>
+
 <details>
 
 <summary>My principles for setting up a computer</summary>
@@ -20,6 +22,7 @@ There's a lot of info on here.&#x20;
 * [software-and-os-configuration.md](../principles-of-setup/software-and-os-configuration.md "mention") — Configuring the operating system to be uninvasive
 * [hardware-selection](../principles-of-setup/hardware-selection/ "mention") — Choosing hardware that is ergonomic and unobtrusive
 * [crafting-your-environment.md](../principles-of-setup/crafting-your-environment.md "mention") — Crafting your computer environment for focus.
+* [back-up-everything-you-spend-time-creating.md](../principles-of-setup/back-up-everything-you-spend-time-creating.md "mention")<mark style="color:red;">!!!</mark>
 
 </details>
 
@@ -27,11 +30,15 @@ There's a lot of info on here.&#x20;
 
 <summary>Windows configuration</summary>
 
-* Setting up a new Windows installation
-* Checking Startup Apps
-* Useful third-party apps
-* Nuking Edge
-* Removing bloatware
+* [setting-up-a-new-windows-11-system](../windows-configuration/setting-up-a-new-windows-11-system/ "mention")
+* [startup-apps.md](../windows-configuration/startup-apps.md "mention")
+* [third-party-apps](../windows-configuration/third-party-apps/ "mention")
+  * Apps for special features
+  * [software-management.md](../windows-configuration/third-party-apps/software-management.md "mention") — Uninstaller apps
+* [edge-make-it-stop.md](../windows-configuration/edge-make-it-stop.md "mention") — Simple ways to make Microsoft Edge shut the fucking fuck up
+* [removing-bloatware.md](../windows-configuration/removing-bloatware.md "mention")
+* [automating-tasks](../windows-configuration/automating-tasks/ "mention")
+  * [time-synchronization.md](../windows-configuration/automating-tasks/time-synchronization.md "mention")
 
 </details>
 
@@ -39,9 +46,9 @@ There's a lot of info on here.&#x20;
 
 <summary>Windows usage</summary>
 
-* Tools built in to Windows
-* PowerToys — tools to power up your computer
-* Handling bugs
+* [windows-tools.md](../windows-usage/windows-tools.md "mention") — tools that are already built in!
+* [powertoys-tools.md](../windows-usage/powertoys-tools.md "mention") — tools to power up your computer
+* [tips-on-handling-bugs.md](../windows-usage/tips-on-handling-bugs.md "mention")
 
 </details>
 
@@ -49,10 +56,10 @@ There's a lot of info on here.&#x20;
 
 <summary>Web browser setup</summary>
 
-* My default browser settings
-* Good extensions
-* Privacy & telemetry
-* Passwords & security
+* [my-default-settings.md](../web-browser-setup/my-default-settings.md "mention")
+* Good [browser-extensions.md](../web-browser-setup/browser-extensions.md "mention")
+* [privacy-and-telemetry.md](../web-browser-setup/privacy-and-telemetry.md "mention")
+* [passwords-and-security.md](../web-browser-setup/passwords-and-security.md "mention")
 
 </details>
 
@@ -73,13 +80,14 @@ Introduction to [Broken link](broken-reference "mention").
 
 <summary>File management — sync, space, etc</summary>
 
-Introduction to good file management — personal data storage hygiene! (diff between storage and memory)
+[intro-to-storage-hygiene.md](../file-management/intro-to-storage-hygiene.md "mention") — good management of files and personal data; difference between data storage (disks: HDDs, SSDs, flash, etc) and memory (RAM)
 
-* Storage usage — windirstat \&sim
-* Backup, sync, file streaming — reasons, services, pros & cons
-* Directory hierarchy, file nomenclature
-* Long-term vs short-term files and what type of hard drive to put them on
-* Shortest term: scratch disks, pagefile.sys, swap space
+* [monitoring-storage-usage.md](../file-management/monitoring-storage-usage.md "mention") — windirstat \&simlr
+* [sync-and-backup-files.md](../file-management/sync-and-backup-files.md "mention") — Backup, sync, file streaming — reasons, services, pros & cons
+* [folder-hierarchy-and-file-naming.md](../file-management/folder-hierarchy-and-file-naming.md "mention") — Making it easier to find your files in the future
+* [where-should-i-store-different-types-of-files.md](../file-management/where-should-i-store-different-types-of-files.md "mention")
+  * Long-term vs short-term files and what type of hard drive to put them on
+  * Shortest term: scratch disks (apps like Photoshop), pagefile.sys, swap space
 
 </details>
 
