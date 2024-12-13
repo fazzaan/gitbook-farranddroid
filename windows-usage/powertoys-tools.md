@@ -100,3 +100,6 @@ Here you can see its Behaviour settings:
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+It even captures my custom touchpad gestures!
+
+Well, the gestures which invoke keyboard shortcuts — which I can see is the case, because the remote touchpad can control administrator windows, whereas the local touchpad cannot. Therefore, the software must be sending the touchpad gestures which are based on keyboard shortcuts. Strange though that the local gestures get prevented...
