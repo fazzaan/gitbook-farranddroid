@@ -2,6 +2,8 @@
 
 There's a lot of info on here.&#x20;
 
+Firstly, you can use <mark style="color:yellow;">`Ctrl+K`</mark> or <mark style="color:yellow;">`⌘+K`</mark> to invoke the Search box.
+
 ## Main Sections
 
 * [Setting up a computer to be useable and useful ↴](site-map.md#setting-up-a-computer-to-be-useable-and-useful)&#x20;

@@ -10,6 +10,7 @@ I use several of the tools on a daily basis, they are indispensible to my workfl
 * [Keyboard Manager ↴](powertoys-tools.md#keyboard-manager) — remapping keys and shortcuts.
 * [Always On Top ↴](powertoys-tools.md#always-on-top) — keey selected windows on top.
 * [Awake ↴](powertoys-tools.md#awake) — keep the computer awake.
+* Mouse Without Borders ↴ — Share your mouse _and keyboard_ with another computer.
 
 Others I use occasionally:
 
@@ -65,6 +66,8 @@ A pinned window will also have a thick border outlining it, which you can custom
 
 Sometimes I stream media from my laptop to my TV or Android devices, but the media software doesn't keep Windows awake. There are numerous other reasons to keep your computer awake too! You can use this PowerToys module to keep your computer awake indefinitely, for a time interval, or until a specific expiration time.
 
+Check out the screenshots below to see how you can configure Awake to work for you.
+
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Awake modes</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Awake for time interval setting</p></figcaption></figure>
@@ -72,4 +75,28 @@ Sometimes I stream media from my laptop to my TV or Android devices, but the med
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Awake until expiration settings</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Choose if the screen should stay on or not</p></figcaption></figure>
+
+***
+
+## Mouse Without Borders
+
+This module is honestly incredible!
+
+I just had to buy a second laptop because my primary machine is starting to break 😢 The screen cable is damaged so sometimes the screen flickers. I decided to stop driving around with it in my backpack.&#x20;
+
+My new laptop is a very cheap, refurbished laptop, so it's not powerful enough for my regular work, which includes Photoshop and Blender and DaVinci and BitWig, all of which are rather heavy to run.
+
+So now I find myself sometimes needing to use two laptops at the same time 🤨
+
+_How did we come to this..._
+
+Anyway,
+
+I'll post some screenshots and explanations of my setup soon.
+
+But the settings page is really quite self-explanatory. Some of the settings automatically sync between the connected machines.
+
+Here you can see its Behaviour settings:
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
