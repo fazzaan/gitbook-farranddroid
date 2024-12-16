@@ -1,7 +1,5 @@
 # Laptop
 
-
-
 Think of features that you really want, need, and depend on in a laptop.
 
 
@@ -82,6 +80,8 @@ First things that come to mind for me are:
 * Ethernet — this is the raw internet connectivity. WiFi can have issues sometimes. WiFi is also always limited by physics, so ethernet will guarantee you a solid, fast and stable connection. Some companies require that their employees have access to ethernet.
 
 </details>
+
+***
 
 ## Computing components
 

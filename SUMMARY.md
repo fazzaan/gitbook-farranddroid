@@ -37,19 +37,13 @@
 * [Removing Bloatware](windows-configuration/removing-bloatware.md)
 * [Automating tasks](windows-configuration/automating-tasks/README.md)
   * [Time Synchronization](windows-configuration/automating-tasks/time-synchronization.md)
+* [External links](windows-configuration/external-links.md)
 
 ## Windows Usage
 
 * [Windows Tools](windows-usage/windows-tools.md)
 * [PowerToys Tools](windows-usage/powertoys-tools.md)
 * [Tips on handling bugs](windows-usage/tips-on-handling-bugs.md)
-
-## Web Browser Setup
-
-* [My default settings](web-browser-setup/my-default-settings.md)
-* [Browser Extensions](web-browser-setup/browser-extensions.md)
-* [Privacy & telemetry](web-browser-setup/privacy-and-telemetry.md)
-* [Passwords & security](web-browser-setup/passwords-and-security.md)
 
 ## Application setup
 
@@ -58,6 +52,13 @@
 * [Popular apps for purposes](application-setup/popular-apps-for-purposes.md)
 * [Underrated useful apps](application-setup/underrated-useful-apps.md)
 * [Configuring large, complex apps](application-setup/configuring-large-complex-apps.md)
+
+## Web Browser Setup
+
+* [My default settings](web-browser-setup/my-default-settings.md)
+* [Browser Extensions](web-browser-setup/browser-extensions.md)
+* [Privacy & telemetry](web-browser-setup/privacy-and-telemetry.md)
+* [Passwords & security](web-browser-setup/passwords-and-security.md)
 
 ## File Management
 

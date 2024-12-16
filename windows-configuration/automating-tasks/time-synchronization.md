@@ -147,4 +147,18 @@ Your time synchronization task is complete!
 
 I can't remember clearly but I _think_ Windows asked me for my password on the first time the task was automatically run. This is because the programme <mark style="color:red;">`w32tm`</mark> needs Administrator privileges to operate.
 
+
+
+<details>
+
+<summary>Sources I used</summary>
+
+* [How do I force sync the time on Windows Workstation or Server?](https://serverfault.com/questions/294787/how-do-i-force-sync-the-time-on-windows-workstation-or-server) — Server Fault Stack Exchange
+* [Automatic Windows Resync time after reboot setup](https://answers.microsoft.com/en-us/windows/forum/all/automatic-windows-resync-time-after-reboot-setup/7a762b13-6a90-4731-9287-bdab328da78c) — Microsoft Answers community help forum. (Check the comment by Marcell Harmaci too)
+* [Preferred NTP Servers? on r/sysadmin](https://www.reddit.com/r/sysadmin/comments/qjrvlf/preferred_ntp_servers/) — custom time sync servers
+
+</details>
+
+
+
 [^1]: Internet Service Provider
