@@ -60,6 +60,11 @@
 * [Privacy & telemetry](web-browser-setup/privacy-and-telemetry.md)
 * [Passwords & security](web-browser-setup/passwords-and-security.md)
 
+## Internet Safety
+
+* [DNS to get around blocks](internet-safety/dns-to-get-around-blocks.md)
+* [Page](internet-safety/page.md)
+
 ## File Management
 
 * [Intro to storage hygiene](file-management/intro-to-storage-hygiene.md)
