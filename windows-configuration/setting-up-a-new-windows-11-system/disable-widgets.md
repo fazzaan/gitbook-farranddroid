@@ -20,7 +20,13 @@ The most extreme would be to uninstall them, but I'm not sure if future Windows 
 
 ## Uninstall Widgets using WinGet
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+Go to Terminal or CMD and run this command:
+
+```powershell
+Winget uninstall "Windows Web Experience pack"
+```
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 
 
