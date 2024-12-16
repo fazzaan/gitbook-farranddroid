@@ -26,7 +26,7 @@ Go to Terminal or CMD and run this command:
 Winget uninstall "Windows Web Experience pack"
 ```
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 
 

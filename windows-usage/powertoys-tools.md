@@ -32,11 +32,11 @@ I use Color Picker for my graphic design work.
 
 Press 🪟+Shift+C to launch Color Picker.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Its settings page allows you to enable a wide range of colour format, as well as define your own.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -58,7 +58,7 @@ I also use it to remap several shortcut sequences:&#x20;
 
 A pinned window will also have a thick border outlining it, which you can customize.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -68,13 +68,13 @@ Sometimes I stream media from my laptop to my TV or Android devices, but the med
 
 Check out the screenshots below to see how you can configure Awake to work for you.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Awake modes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Awake modes</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Awake for time interval setting</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Awake for time interval setting</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Awake until expiration settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Awake until expiration settings</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Choose if the screen should stay on or not</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Choose if the screen should stay on or not</p></figcaption></figure>
 
 ***
 
@@ -98,7 +98,7 @@ But the settings page is really quite self-explanatory. Some of the settings aut
 
 Here you can see its Behaviour settings:
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 It even captures my custom touchpad gestures!
 

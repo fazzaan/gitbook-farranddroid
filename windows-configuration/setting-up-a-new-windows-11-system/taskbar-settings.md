@@ -6,7 +6,7 @@
 
 These are my Taskbar items settings.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 1. The Search box is entirely unecessary unless you are using a touchscreen, in which case it is a quicker way to search for the app or file that you want to open. If you do want it shown, I recommend that you use "Search icon only", because the wide search box is an advertising channel for Microsoft to attract your attention, using interesting little pictures and animations. Reclaim your attention by removing as many distracting things as possible.
 2. Task view is a useful overview screen, showing all your open windows and all your virtual desktops. This is especially useful if you're using a touchscreen instead of a keyboard. I use <mark style="color:yellow;">`🪟+Tab`</mark> instead of the button because I use keyboard shortcuts all the time. However, I keep the button because hovering over it allows you to see your other desktops and quickly switch to them.
@@ -18,7 +18,7 @@ These are my Taskbar items settings.
 
 These are my Taskbar behaviours settings.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 1. Always align taskbar to the left. This gives you infinite distance to reach the Start button (you don't have to aim for it) and it is in a 100%-predictable location.
 2. Hide the taskbar — up to you. I like to keep it visible, to see what's open and click it immediately.

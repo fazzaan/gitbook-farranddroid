@@ -22,7 +22,7 @@ Click each item below to expand. <mark style="color:yellow;">**↓**</mark>
 
 <summary>My principles for setting up a computer</summary>
 
-* [README (1).md](<../README (1).md> "mention")
+* [decreasing-distraction.md](../principles-of-setup/decreasing-distraction.md "mention")
 * [software-and-os-configuration.md](../principles-of-setup/software-and-os-configuration.md "mention") — Configuring the operating system to be uninvasive
 * [hardware-selection](../principles-of-setup/hardware-selection/ "mention") — Choosing hardware that is ergonomic and unobtrusive
 * [crafting-your-environment.md](../principles-of-setup/crafting-your-environment.md "mention") — Crafting your computer environment for focus.

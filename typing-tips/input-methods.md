@@ -10,7 +10,7 @@ _Windows Settings → Time & language → **Language & region**_&#x20;
 
 and click "Add a language".
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Here, you can choose almost any widely-spoken language in the world, and Windows will automatically install the keyboard layout, the language pack, and possibly speech files and handwriting files if they are available.&#x20;
 

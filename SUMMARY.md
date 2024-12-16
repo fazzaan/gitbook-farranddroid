@@ -8,7 +8,7 @@
 
 ## Principles of Setup
 
-* [Decreasing Distraction](<README (1).md>)
+* [Decreasing Distraction](principles-of-setup/decreasing-distraction.md)
 * [Software & OS Configuration](principles-of-setup/software-and-os-configuration.md)
 * [Hardware Selection](principles-of-setup/hardware-selection/README.md)
   * [Mouse](principles-of-setup/hardware-selection/mouse.md)
