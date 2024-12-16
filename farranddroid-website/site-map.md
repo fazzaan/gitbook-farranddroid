@@ -1,5 +1,7 @@
 # Site map
 
+_<mark style="color:blue;">This website focusses on Windows and Web browsing. I will make separate websites for Android and Linux later.</mark>_
+
 There's a lot of info on here.&#x20;
 
 Firstly, you can use <mark style="color:yellow;">`Ctrl+K`</mark> or <mark style="color:yellow;">`⌘+K`</mark> to invoke the Search box.

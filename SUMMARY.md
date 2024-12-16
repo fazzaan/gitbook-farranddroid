@@ -31,6 +31,7 @@
 * [Startup Apps](windows-configuration/startup-apps.md)
 * [Third-party apps](windows-configuration/third-party-apps/README.md)
   * [Software management](windows-configuration/third-party-apps/software-management.md)
+  * [Registry editors](windows-configuration/third-party-apps/registry-editors.md)
 * [Edge: Make It Stop](windows-configuration/edge-make-it-stop.md)
 * [Removing Bloatware](windows-configuration/removing-bloatware.md)
 * [Automating tasks](windows-configuration/automating-tasks/README.md)

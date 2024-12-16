@@ -1,5 +1,7 @@
 # What's this site for?
 
+_<mark style="color:blue;">This website focusses on Windows and Web browsing. I will make separate websites for Android and Linux later.</mark>_
+
 I suppose this is a kind of compendium of my personal refined choices of how I use a computer.
 
 I really craft a computer to fit my needs, which greatly helps me with maintaining focus, completing my tasks and achieving my goals.
