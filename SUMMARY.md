@@ -12,6 +12,7 @@
 * [Software & OS Configuration](principles-of-setup/software-and-os-configuration.md)
 * [Hardware Selection](principles-of-setup/hardware-selection/README.md)
   * [Mouse](principles-of-setup/hardware-selection/mouse.md)
+  * [Laptop](principles-of-setup/hardware-selection/laptop.md)
 * [Crafting Your Environment](principles-of-setup/crafting-your-environment.md)
 * [Back up everything you spend time creating](principles-of-setup/back-up-everything-you-spend-time-creating.md)
 
