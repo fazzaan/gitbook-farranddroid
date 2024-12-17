@@ -2,7 +2,7 @@
 
 ## Being a Power User
 
-* [Power User mentality](power-user-mentality/README.md)
+* [Power User mentality](README.md)
   * [1. Automating tasks](power-user-mentality/1.-automating-tasks.md)
   * [2. Combining input methods](power-user-mentality/2.-combining-input-methods.md)
   * [3. Ambidexterity](power-user-mentality/3.-ambidexterity.md)
