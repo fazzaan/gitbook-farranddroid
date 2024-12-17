@@ -17,22 +17,18 @@
 [1.-automating-tasks.md](power-user-mentality/1.-automating-tasks.md)
 {% endcontent-ref %}
 
-{% content-ref url="1.-automating-tasks.md" %}
-[1.-automating-tasks.md](1.-automating-tasks.md)
+{% content-ref url="power-user-mentality/2.-combining-input-methods.md" %}
+[2.-combining-input-methods.md](power-user-mentality/2.-combining-input-methods.md)
 {% endcontent-ref %}
 
-{% content-ref url="2.-combining-input-methods.md" %}
-[2.-combining-input-methods.md](2.-combining-input-methods.md)
+{% content-ref url="power-user-mentality/3.-ambidexterity.md" %}
+[3.-ambidexterity.md](power-user-mentality/3.-ambidexterity.md)
 {% endcontent-ref %}
 
-{% content-ref url="3.-ambidexterity.md" %}
-[3.-ambidexterity.md](3.-ambidexterity.md)
+{% content-ref url="power-user-mentality/4.-focussed-adaptable-imperturbable.md" %}
+[4.-focussed-adaptable-imperturbable.md](power-user-mentality/4.-focussed-adaptable-imperturbable.md)
 {% endcontent-ref %}
 
-{% content-ref url="4.-focussed-adaptable-imperturbable.md" %}
-[4.-focussed-adaptable-imperturbable.md](4.-focussed-adaptable-imperturbable.md)
-{% endcontent-ref %}
-
-{% content-ref url="5.-everything-can-be-edited-and-customized.md" %}
-[5.-everything-can-be-edited-and-customized.md](5.-everything-can-be-edited-and-customized.md)
+{% content-ref url="power-user-mentality/5.-everything-can-be-edited-and-customized.md" %}
+[5.-everything-can-be-edited-and-customized.md](power-user-mentality/5.-everything-can-be-edited-and-customized.md)
 {% endcontent-ref %}
