@@ -73,6 +73,17 @@
 * [Folder hierarchy and file naming](file-management/folder-hierarchy-and-file-naming.md)
 * [Where should I store different types of files?](file-management/where-should-i-store-different-types-of-files.md)
 
+## Typing Tips
+
+* [Typing tips](typing-tips/README.md)
+* [Home Keys method](typing-tips/home-keys-method.md)
+* [Rhythmic method](typing-tips/rhythmic-method.md)
+* [Like a Piano method](typing-tips/like-a-piano-method.md)
+* [Custom keyboard layouts](typing-tips/custom-keyboard-layouts/README.md)
+  * [MSKLC (MicroSoft Keyboard Layout Creator)](typing-tips/custom-keyboard-layouts/msklc-microsoft-keyboard-layout-creator.md)
+* [Input Methods](typing-tips/input-methods.md)
+* [Apps for typing features](typing-tips/apps-for-typing-features.md)
+
 ## Being a Power User
 
 * [Power User mentality](being-a-power-user/power-user-mentality/README.md)
