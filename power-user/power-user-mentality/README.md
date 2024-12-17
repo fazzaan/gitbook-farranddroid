@@ -1,5 +1,7 @@
 # Power User mentality
 
+subdir/test
+
 1. As a power user, you want to <mark style="color:red;">automate simple & repetitive tasks</mark>, either to reflexive repeated sequences of actions, or to an actual automated service.\
    [1.-automating-tasks.md](1.-automating-tasks.md "mention")
 2. As a power user, you want to <mark style="color:orange;">use a combination of input methods</mark> (mouse, touchpad, touchscreen, keyboard, keyboard layouts), and you want to use each of them to their fullest potential.\
