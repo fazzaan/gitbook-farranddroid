@@ -84,7 +84,7 @@
 * [Input Methods](typing-tips/input-methods.md)
 * [Apps for typing features](typing-tips/apps-for-typing-features.md)
 
-## Being a Power User
+## Power User
 
 * [Power User mentality](power-user/power-user-mentality/README.md)
   * [1. Automating tasks](power-user/power-user-mentality/1.-automating-tasks.md)
