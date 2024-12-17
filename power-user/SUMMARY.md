@@ -1,6 +1,6 @@
 # Table of contents
 
-## &#x20;Being a Power User
+## Being a Power User
 
 * [Power User mentality](power-user-mentality/README.md)
   * [1. Automating tasks](power-user-mentality/1.-automating-tasks.md)
