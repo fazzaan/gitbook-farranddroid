@@ -72,34 +72,3 @@
 * [Sync & backup files](file-management/sync-and-backup-files.md)
 * [Folder hierarchy and file naming](file-management/folder-hierarchy-and-file-naming.md)
 * [Where should I store different types of files?](file-management/where-should-i-store-different-types-of-files.md)
-
-## Typing Tips
-
-* [Typing tips](typing-tips/README.md)
-* [Home Keys method](typing-tips/home-keys-method.md)
-* [Rhythmic method](typing-tips/rhythmic-method.md)
-* [Like a Piano method](typing-tips/like-a-piano-method.md)
-* [Custom keyboard layouts](typing-tips/custom-keyboard-layouts/README.md)
-  * [MSKLC (MicroSoft Keyboard Layout Creator)](typing-tips/custom-keyboard-layouts/msklc-microsoft-keyboard-layout-creator.md)
-* [Input Methods](typing-tips/input-methods.md)
-* [Apps for typing features](typing-tips/apps-for-typing-features.md)
-
-## Power User
-
-* [Power User mentality](power-user/power-user-mentality/README.md)
-  * [1. Automating tasks](power-user/power-user-mentality/1.-automating-tasks.md)
-  * [2. Combining input methods](power-user/power-user-mentality/2.-combining-input-methods.md)
-  * [3. Ambidexterity](power-user/power-user-mentality/3.-ambidexterity.md)
-  * [4. Focussed, adaptable, imperturbable](power-user/power-user-mentality/4.-focussed-adaptable-imperturbable.md)
-  * [5. Everything can be edited & customized](power-user/power-user-mentality/5.-everything-can-be-edited-and-customized.md)
-* [Keyboard shortcuts](power-user/keyboard-shortcuts/README.md)
-  * [Global](power-user/keyboard-shortcuts/global.md)
-  * [Windows](power-user/keyboard-shortcuts/windows.md)
-  * [Linux](power-user/keyboard-shortcuts/linux.md)
-* [Touchpad gestures](power-user/touchpad-gestures/README.md)
-  * [My setup (Windows)](power-user/touchpad-gestures/my-setup-windows.md)
-  * [Windows (default)](power-user/touchpad-gestures/windows-default.md)
-  * [Mac OS](power-user/touchpad-gestures/mac-os.md)
-  * [Linux (GNOME, KDE)](power-user/touchpad-gestures/linux-gnome-kde.md)
-* [Window manager features](power-user/window-manager-features.md)
-* [Dual screens](power-user/dual-screens.md)
