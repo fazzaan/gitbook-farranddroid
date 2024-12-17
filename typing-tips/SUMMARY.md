@@ -2,6 +2,7 @@
 
 ## Typing Tips
 
+* [Typing tips](README.md)
 * [Home Keys method](home-keys-method.md)
 * [Rhythmic method](rhythmic-method.md)
 * [Like a Piano method](like-a-piano-method.md)
