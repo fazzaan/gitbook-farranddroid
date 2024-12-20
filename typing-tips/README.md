@@ -50,13 +50,7 @@ Regular typing on a computer is stable, but is too simplistic and often results 
 
 Notice the enjoyably fluid experience of typing "power".  
 
-second try  
-<textinput
-    id="name"
-    label="Name"
-    initialValue="John Doe"
-    placeholder="Enter a name"
-    />
+doesn't work  
     
 The method of typing "power" is very similar to playing a sequence of notes on a piano.
 
