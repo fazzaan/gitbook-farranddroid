@@ -48,10 +48,16 @@ On a computer keyboard, we are taught to hold our fingers over the home keys, ye
 
 Regular typing on a computer is stable, but is too simplistic and often results in slow typing of certain words, especially words containing z, x, c, q, y; as well as sequences of letters like _lok_, _lik_, _ex_, etc.
 
-Notice the enjoyably fluid experience of typing "power".
+Notice the enjoyably fluid experience of typing "power".  
 
-<textinput state="content" />
-
+second try  
+<textinput
+    id="name"
+    label="Name"
+    initialValue="John Doe"
+    placeholder="Enter a name"
+    />
+    
 The method of typing "power" is very similar to playing a sequence of notes on a piano.
 
 Take this concept and apply it to the computer keyboard — position your fingers such that every finger in the sequence of typing a word is in an ideal position.
