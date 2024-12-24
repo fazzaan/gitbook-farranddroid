@@ -26,6 +26,22 @@ use uninstaller apps
 
 
 
+## Microsoft Bloatware
+
+Not one to be left out (FOMO), Microsoft actually provide us with their own bloatware.
+
+You can find all kinds of Microsoft-flavoured bloatware quite easily! Basically everywhere you look, there is a lot. It's a bit like trash on the streets, beaches and rivers of most places where there are humans. Shit everywhere.
+
+Hit `Ctrl+Shift+Esc` to launch Windows's Task Manager, and switch to the first tab. Sort by CPU usage and you'll see all kinds of Random Shite using your precious CPU cycles, for god-knows-what.&#x20;
+
+Granted, some of these processes are core to Windows functioning correctly. Don't worry, this isn't one of those websites which encourages you to tinker around with unknown pixies and sprites.&#x20;
+
+But a bunch of these processes are actually apps — the techniqal term is _crapware_ — from Microsoft, which do nothing useful except try to drag you into their sloppy, unfinished apology of an œ́cōsystem. It would be cute if it weren't so gorram annoying.
+
+{% content-ref url="microsofts-bloatware.md" %}
+[microsofts-bloatware.md](microsofts-bloatware.md)
+{% endcontent-ref %}
+
 ## Common bloatware
 
 ### Adobe Acrobat

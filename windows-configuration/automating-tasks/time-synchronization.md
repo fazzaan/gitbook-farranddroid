@@ -106,7 +106,7 @@ When the Properties dialog opens, set it to:
 * Run with highest privileges
 * Configure for: Windows 10
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Triggers tab
 

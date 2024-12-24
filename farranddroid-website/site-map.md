@@ -40,7 +40,7 @@ Click each item below to expand. <mark style="color:yellow;">**↓**</mark>
   * Apps for special features
   * [software-management.md](../windows-configuration/third-party-apps/software-management.md "mention") — Uninstaller apps
 * [edge-make-it-stop.md](../windows-configuration/edge-make-it-stop.md "mention") — Simple ways to make Microsoft Edge shut the fucking fuck up
-* [removing-bloatware.md](../windows-configuration/removing-bloatware.md "mention")
+* [removing-bloatware](../windows-configuration/removing-bloatware/ "mention")
 * [automating-tasks](../windows-configuration/automating-tasks/ "mention")
   * [time-synchronization.md](../windows-configuration/automating-tasks/time-synchronization.md "mention")
 
@@ -99,28 +99,28 @@ Introduction to [Broken link](broken-reference "mention").
 
 ## Typing tips
 
-* [home-keys-method.md](../typing-tips/home-keys-method.md "mention")&#x20;
-* [rhythmic-method.md](../typing-tips/rhythmic-method.md "mention")&#x20;
-* [like-a-piano-method.md](../typing-tips/like-a-piano-method.md "mention")&#x20;
-* [custom-keyboard-layouts](../typing-tips/custom-keyboard-layouts/ "mention")&#x20;
-* [input-methods.md](../typing-tips/input-methods.md "mention") for other languages and scripts
-* [apps-for-typing-features.md](../typing-tips/apps-for-typing-features.md "mention")
+* [Broken link](broken-reference "mention")&#x20;
+* [Broken link](broken-reference "mention")&#x20;
+* [Broken link](broken-reference "mention")&#x20;
+* [Broken link](broken-reference "mention")&#x20;
+* [Broken link](broken-reference "mention") for other languages and scripts
+* [Broken link](broken-reference "mention")
 
 
 
 ## Becoming a “power user”
 
-Introduction to [Broken link](broken-reference "mention") → [power-user-mentality](../being-a-power-user/power-user-mentality/ "mention").
+Introduction to [Broken link](broken-reference "mention") → [Broken link](broken-reference "mention").
 
 <details>
 
 <summary>Keyboard shortcuts </summary>
 
-[keyboard-shortcuts](../being-a-power-user/keyboard-shortcuts/ "mention") introduction
+[Broken link](broken-reference "mention") introduction
 
-* [global.md](../being-a-power-user/keyboard-shortcuts/global.md "mention")&#x20;
-* [windows.md](../being-a-power-user/keyboard-shortcuts/windows.md "mention")&#x20;
-* [linux.md](../being-a-power-user/keyboard-shortcuts/linux.md "mention")&#x20;
+* [Broken link](broken-reference "mention")&#x20;
+* [Broken link](broken-reference "mention")&#x20;
+* [Broken link](broken-reference "mention")&#x20;
 
 </details>
 
@@ -128,7 +128,7 @@ Introduction to [Broken link](broken-reference "mention") → [power-user-mental
 
 <summary>Touchpad gestures</summary>
 
-[touchpad-gestures](../being-a-power-user/touchpad-gestures/ "mention")
+[Broken link](broken-reference "mention")
 
 </details>
 
