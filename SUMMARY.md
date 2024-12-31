@@ -73,3 +73,10 @@
 * [Sync & backup files](file-management/sync-and-backup-files.md)
 * [Folder hierarchy and file naming](file-management/folder-hierarchy-and-file-naming.md)
 * [Where should I store different types of files?](file-management/where-should-i-store-different-types-of-files.md)
+
+## Entertainment
+
+* [Contents](entertainment/contents.md)
+* [Casting](entertainment/casting.md)
+* [Media Servers](entertainment/media-servers.md)
+* [Torrenting](entertainment/torrenting.md)
