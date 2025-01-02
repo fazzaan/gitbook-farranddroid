@@ -78,7 +78,8 @@
 ## Entertainment
 
 * [Contents](entertainment/contents.md)
-* [Playing media apps](entertainment/playing-media-apps.md)
+* [Playing media apps](entertainment/playing-media-apps/README.md)
+  * [JellyFin configuration](entertainment/playing-media-apps/jellyfin-configuration.md)
 * [Casting](entertainment/casting.md)
 * [Media Servers](entertainment/media-servers.md)
 * [Torrenting](entertainment/torrenting.md)

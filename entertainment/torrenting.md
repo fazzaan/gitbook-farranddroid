@@ -1,10 +1,12 @@
 # Torrenting
 
-"_Where there's a will, there's a way."_
+“_Where there's a will, there's a way.”_&#x20;
 
-Or, I can't stop you doing things, so it's better to teach you the safest ways to do it and how to be careful, than to try to prevent you from doing it altogether.
+Or, I <mark style="color:yellow;">can't stop you</mark> doing things, so it's <mark style="color:yellow;">better to teach you the safest ways to do it</mark> and how to be careful, than to try to prevent you from doing it altogether.
 
-_If only our governments thought this way too._
+**Education over prohibition.**
+
+_<mark style="color:purple;">If only our governments thought this way too.</mark>_
 
 ## Contents
 
@@ -16,7 +18,17 @@ _If only our governments thought this way too._
 
 ## What is torrenting?
 
-Some info here about torrents.
+Torrents are a fairly old technology nowadays.
+
+Basically, the files are stored on someone else's computer, and their software broadcasts the files' availability. The broadcasting happens via some dark magic, and then websites and other apps can detect these broadcasts. With the right instructions (more dark wizardry), the app on your computer can receive the files directly from their computer.&#x20;
+
+This is known as _P2P_, peer-to-peer file sharing.
+
+Another layer of this dark magic is the trackers, which collate file listings from many many people. Each person may have all, or part, of the required files, and the application co-ordinates the transfers such that your computer can receive parts of the files from whichever computer is ready to upload it to yours at that moment.
+
+You see? Dark magical wizardry.
+
+People who don't believe in magic are delulu.
 
 ## Risks
 
@@ -66,10 +78,13 @@ Here I could shill for a VPN service, but I'm not going to. Well, even VPN servi
   * compare the file list on the page with the file list shown in your torrent client app&#x20;
 * use the magnet 🧲 link instead of downloading the `.torrent` file&#x20;
 * install an adblocker to try to prevent getting caught by annoying & malicious ads, invisible clickjackers (fullscreen invisible buttons), etc.&#x20;
-  * use [→ uBlock ORIGIN](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) not uBlock.org&#x20;
-    * Why not uBlock.org?&#x20;
-    * Why is Chrome Store warning me about it?&#x20;
-    * [GitHub link](https://github.com/gorhill/uBlock)&#x20;
+  * use → uBlock ORIGIN   <mark style="color:red;">(not uBlock.org)</mark>&#x20;
+    * [→ 🔗 Chrome extension](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)&#x20;
+    * [→ 🔗 Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)&#x20;
+    * [→ 🔗 Edge extension](https://microsoftedge.microsoft.com/addons/detail/odfafepnkmbhccpbejgmiehpchacaeak) (current reviews indicate it isn't working)
+    * [→ 🔗GitHub link](https://github.com/gorhill/uBlock)&#x20;
+    * Why not uBlock.org? (explain later)
+    * Why is Chrome Store warning me about it? (look on their GitHub page for the info)
 
 ### How to choose a website
 
@@ -91,7 +106,7 @@ And fuq knows what data it is tracking and gathering about you and your devices.
 
 ### qBittorrent
 
-[→ qBittorrent homepage](https://www.qbittorrent.org/)&#x20;
+[→ 🔗 qBittorrent homepage](https://www.qbittorrent.org/)&#x20;
 
 Open source, free, quite customisable. qBittorrent does probably everything you could want from it.
 
@@ -103,7 +118,7 @@ Its UI is built in QT, hence the name _&#x71;_&#x42;ittorrent.
 
 ### Transmission
 
-[→ Transmission homepage](https://transmissionbt.com/)&#x20;
+[→ 🔗 Transmission homepage](https://transmissionbt.com/)&#x20;
 
 Transmission is a very lightweight app and runs on all the major OS platforms.&#x20;
 
@@ -113,7 +128,7 @@ On Linux, it has a dark mode that matches the GTK settings (and maybe QT setting
 
 ### Deluge
 
-[→ Deluge homepage](https://deluge-torrent.org/)&#x20;
+[→ 🔗 Deluge homepage](https://deluge-torrent.org/)&#x20;
 
 
 
@@ -123,7 +138,7 @@ I haven't found many torrenting apps for mobile devices, but I do recall one cal
 
 ### Flud (Android)
 
-[→ Flud on Google Play Store](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [→ Flud+ (paid, no ads) on Google Play Store](https://play.google.com/store/apps/details?id=com.delphicoder.flud.paid)&#x20;
+[→ 🔗 Flud on Google Play Store](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [→ 🔗 Flud+ (paid, no ads) on Google Play Store](https://play.google.com/store/apps/details?id=com.delphicoder.flud.paid)&#x20;
 
 I don't remember using this app much but who torrents on a mobile device?
 

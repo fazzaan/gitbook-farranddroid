@@ -1,0 +1,2 @@
+# JellyFin configuration
+

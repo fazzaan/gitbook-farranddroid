@@ -1,6 +1,6 @@
 # Playing media apps
 
-## PotPlayer — Local playback
+## PotPlayer — Local player
 
 So far my favourite app is PotPlayer, by Korean media company DAUM.
 
@@ -20,11 +20,11 @@ It supports 3D viewing with several 3D glasses types. It supports subtitles in S
 
 ## JellyFin — Library player
 
-JellyFin is actually a media server, but it has a web interface to browse the library and play videos.
+JellyFin is actually a media server, but it also has a web interface to browse the library and play videos.
 
-Playing through the web UI has all the features you'd expect — various subtitles
+Playing through the web UI has all the features you'd expect from a good video player — various subtitles, speed adjustment, time stepper, etc.
 
-JellyFin's main power comes from its library backend. It does more things than I'm even aware of yet!
+JellyFin's main power comes from its library backend. It does more things than even I'm aware of yet!
 
 * Track which videos you've watched
 * Automatically offer the next episode in a series
@@ -33,6 +33,8 @@ JellyFin's main power comes from its library backend. It does more things than I
 * Organise media by series, by genre, and more
 * Media cover art automatically downloaded
 * Optional media metadata fixing from the web
+
+Configuring it does take a bit of time, and there are a few settings which _should_ be on by default. Visit my [JellyFin page](jellyfin-configuration.md) to learn more about setting it up!
 
 ## VLC — safe bet
 
