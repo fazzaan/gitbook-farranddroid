@@ -6,13 +6,17 @@ Or, I can't stop you doing things, so it's better to teach you the safest ways t
 
 _If only our governments thought this way too._
 
-## DON'T USE UTORRENT
+## Desktop apps
+
+
+
+### DON'T USE UTORRENT
 
 utorrent is just an advertising platform these days.
 
 And fuq knows what data it is tracking and gathering about you and your devices.
 
-## qBittorrent
+### qBittorrent
 
 [→ qBittorrent homepage](https://www.qbittorrent.org/)&#x20;
 
@@ -24,7 +28,7 @@ It supports dark mode.
 
 Its UI is built in QT, hence the name _&#x71;_&#x42;ittorrent.
 
-## Transmission
+### Transmission
 
 [→ Transmission homepage](https://transmissionbt.com/)&#x20;
 
@@ -32,7 +36,7 @@ Transmission is a very lightweight app and runs on all the major OS platforms.&#
 
 It also has a web UI, and can run a background daemon service.
 
-Its UI is built in QT.
+On Linux, it has a dark mode that matches the GTK settings (and maybe QT settings under KDE). On Windows it doesn't seem to have a dark mode.
 
 
 
