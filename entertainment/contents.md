@@ -1,6 +1,7 @@
 # Contents
 
-1. Casting media&#x20;
-2. Local media servers — Jellyfin
-3. Torrenting — what, how, dangers, safety&#x20;
-4.
+1. [playing-media-apps.md](playing-media-apps.md "mention")&#x20;
+2. [casting.md](casting.md "mention")&#x20;
+3. [media-servers.md](media-servers.md "mention") — Jellyfin
+4. [torrenting.md](torrenting.md "mention") — what, how, dangers, safety&#x20;
+5.

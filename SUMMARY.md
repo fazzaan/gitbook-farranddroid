@@ -77,6 +77,11 @@
 ## Entertainment
 
 * [Contents](entertainment/contents.md)
+* [Playing media apps](entertainment/playing-media-apps.md)
 * [Casting](entertainment/casting.md)
 * [Media Servers](entertainment/media-servers.md)
 * [Torrenting](entertainment/torrenting.md)
+
+## External resources
+
+* [Page 1](external-resources/page-1.md)
