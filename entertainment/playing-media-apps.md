@@ -34,7 +34,7 @@ JellyFin's main power comes from its library backend. It does more things than e
 * Media cover art automatically downloaded
 * Optional media metadata fixing from the web
 
-Configuring it does take a bit of time, and there are a few settings which _should_ be on by default. Visit my [JellyFin page](jellyfin-configuration.md) to learn more about setting it up!
+Configuring it does take a bit of time, and there are a few settings which _should_ be on by default. Visit my [JellyFin page](media-servers/jellyfin-configuration.md) to learn more about setting it up!
 
 ## VLC — safe bet
 
