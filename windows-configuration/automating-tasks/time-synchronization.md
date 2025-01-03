@@ -126,7 +126,9 @@ Press OK to close the window.
 
 ### Conditions tab
 
-Change to the Conditions tab:
+Change to the Conditions tab.
+
+Set "Start only if the following network connection is available" to "Any connection", or a specific network of your choice.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -143,9 +145,11 @@ Finally, check the Settings tab.
 
 Press OK to close the window.
 
-Your time synchronization task is complete!
+A window will pop up, asking for your account password. It will save this and won't ask you again, unless you checked the "Do not store password" box on the General tab.
 
-I can't remember clearly but I _think_ Windows asked me for my password on the first time the task was automatically run. This is because the programme <mark style="color:red;">`w32tm`</mark> needs Administrator privileges to operate.
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+Your time synchronization task is complete!
 
 
 
