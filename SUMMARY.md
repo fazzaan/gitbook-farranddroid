@@ -45,6 +45,7 @@
 * [Windows Tools](windows-usage/windows-tools.md)
 * [PowerToys Tools](windows-usage/powertoys-tools.md)
 * [Tips on handling bugs](windows-usage/tips-on-handling-bugs.md)
+* [Custom Keyboard Layouts](windows-usage/custom-keyboard-layouts.md)
 
 ## Application setup
 
