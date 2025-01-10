@@ -61,7 +61,7 @@
 * [Browser Extensions](web-browser-setup/browser-extensions.md)
 * [Privacy & telemetry](web-browser-setup/privacy-and-telemetry.md)
 * [Passwords & security](web-browser-setup/passwords-and-security.md)
-* [Alternatives to Google & Bing](web-browser-setup/alternatives-to-google-and-bing.md)
+* [Alternatives search engines to Google & Bing](web-browser-setup/alternatives-to-google-and-bing.md)
 
 ## Internet Safety
 
