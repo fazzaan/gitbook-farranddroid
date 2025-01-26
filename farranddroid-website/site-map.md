@@ -84,12 +84,12 @@ Introduction to [Broken link](broken-reference "mention").
 
 <summary>File management — sync, space, etc</summary>
 
-[intro-to-storage-hygiene.md](../file-management/intro-to-storage-hygiene.md "mention") — good management of files and personal data; difference between data storage (disks: HDDs, SSDs, flash, etc) and memory (RAM)
+[intro-to-storage-hygiene.md](../file-management-main-site/intro-to-storage-hygiene.md "mention") — good management of files and personal data; difference between data storage (disks: HDDs, SSDs, flash, etc) and memory (RAM)
 
-* [monitoring-storage-usage.md](../file-management/monitoring-storage-usage.md "mention") — windirstat \&simlr
-* [sync-and-backup-files.md](../file-management/sync-and-backup-files.md "mention") — Backup, sync, file streaming — reasons, services, pros & cons
-* [folder-hierarchy-and-file-naming.md](../file-management/folder-hierarchy-and-file-naming.md "mention") — Making it easier to find your files in the future
-* [where-should-i-store-different-types-of-files.md](../file-management/where-should-i-store-different-types-of-files.md "mention")
+* [monitoring-storage-usage.md](../file-management-main-site/monitoring-storage-usage.md "mention") — windirstat \&simlr
+* [sync-and-backup-files.md](../file-management-main-site/sync-and-backup-files.md "mention") — Backup, sync, file streaming — reasons, services, pros & cons
+* [folder-hierarchy-and-file-naming.md](../file-management-main-site/folder-hierarchy-and-file-naming.md "mention") — Making it easier to find your files in the future
+* [where-should-i-store-different-types-of-files.md](../file-management-main-site/where-should-i-store-different-types-of-files.md "mention")
   * Long-term vs short-term files and what type of hard drive to put them on
   * Shortest term: scratch disks (apps like Photoshop), pagefile.sys, swap space
 

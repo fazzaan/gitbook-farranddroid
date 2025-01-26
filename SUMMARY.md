@@ -69,13 +69,13 @@
 * [Decentralised Tech](internet-safety/decentralised-tech.md)
 * [DNS to get around blocks](internet-safety/dns-to-get-around-blocks.md)
 
-## File Management
+## File Management main site
 
-* [Intro to storage hygiene](file-management/intro-to-storage-hygiene.md)
-* [Monitoring storage usage](file-management/monitoring-storage-usage.md)
-* [Sync & backup files](file-management/sync-and-backup-files.md)
-* [Folder hierarchy and file naming](file-management/folder-hierarchy-and-file-naming.md)
-* [Where should I store different types of files?](file-management/where-should-i-store-different-types-of-files.md)
+* [Intro to storage hygiene](file-management-main-site/intro-to-storage-hygiene.md)
+* [Monitoring storage usage](file-management-main-site/monitoring-storage-usage.md)
+* [Sync & backup files](file-management-main-site/sync-and-backup-files.md)
+* [Folder hierarchy and file naming](file-management-main-site/folder-hierarchy-and-file-naming.md)
+* [Where should I store different types of files?](file-management-main-site/where-should-i-store-different-types-of-files.md)
 
 ## Entertainment
 
