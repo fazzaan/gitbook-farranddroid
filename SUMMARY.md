@@ -66,7 +66,7 @@
 ## Internet Safety
 
 * [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age.md)
-* [Decentralised Tech](internet-safety/page.md)
+* [Decentralised Tech](internet-safety/decentralised-tech.md)
 * [DNS to get around blocks](internet-safety/dns-to-get-around-blocks.md)
 
 ## File Management
