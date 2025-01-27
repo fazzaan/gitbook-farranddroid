@@ -66,9 +66,16 @@
 ## Internet Safety
 
 * [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age.md)
-* [Decentralised Tech](internet-safety/decentralised-tech/README.md)
-  * [Nostr Protocol](internet-safety/decentralised-tech/nostr-protocol.md)
 * [DNS to get around blocks](internet-safety/dns-to-get-around-blocks.md)
+
+## Decentralization
+
+* [Decentralised Tech](decentralization/decentralised-tech/README.md)
+  * [Nostr Protocol](decentralization/decentralised-tech/nostr-protocol.md)
+  * [Swarm / EthSwarm](decentralization/decentralised-tech/swarm-ethswarm.md)
+  * [IPFS](decentralization/decentralised-tech/ipfs.md)
+* [Decentralization projects](decentralization/decentralization-projects/README.md)
+  * [DeBoot — cloud OS booting](decentralization/decentralization-projects/deboot-cloud-os-booting.md)
 
 ## File Management main site
 

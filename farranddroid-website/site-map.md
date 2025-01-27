@@ -58,6 +58,19 @@ Click each item below to expand. <mark style="color:yellow;">**↓**</mark>
 
 <details>
 
+<summary>Application setup</summary>
+
+Introduction to [Broken link](broken-reference "mention").
+
+* [getting-the-apps-you-need.md](../application-setup/getting-the-apps-you-need.md "mention") in the first place
+* [popular-apps-for-purposes.md](../application-setup/popular-apps-for-purposes.md "mention")
+* [underrated-useful-apps.md](../application-setup/underrated-useful-apps.md "mention")
+* [configuring-large-complex-apps.md](../application-setup/configuring-large-complex-apps.md "mention") (e.g. performance settings in Photoshop)
+
+</details>
+
+<details>
+
 <summary>Web browser setup</summary>
 
 * [my-default-settings.md](../web-browser-setup/my-default-settings.md "mention")
@@ -69,14 +82,14 @@ Click each item below to expand. <mark style="color:yellow;">**↓**</mark>
 
 <details>
 
-<summary>Application setup</summary>
+<summary>Internet safety — and <mark style="color:blue;">Decentralised technologies</mark> </summary>
 
-Introduction to [Broken link](broken-reference "mention").
-
-* [getting-the-apps-you-need.md](../application-setup/getting-the-apps-you-need.md "mention") in the first place
-* [popular-apps-for-purposes.md](../application-setup/popular-apps-for-purposes.md "mention")
-* [underrated-useful-apps.md](../application-setup/underrated-useful-apps.md "mention")
-* [configuring-large-complex-apps.md](../application-setup/configuring-large-complex-apps.md "mention") (e.g. performance settings in Photoshop)
+* [safety-in-the-surveillance-age.md](../internet-safety/safety-in-the-surveillance-age.md "mention")&#x20;
+* [decentralised-tech](../decentralization/decentralised-tech/ "mention")&#x20;
+  * [nostr-protocol.md](../decentralization/decentralised-tech/nostr-protocol.md "mention")
+  * cloud booting OS — swarm, deboot
+  * file storage&#x20;
+* [dns-to-get-around-blocks.md](../internet-safety/dns-to-get-around-blocks.md "mention") — circumventing simple website blocks when your government is a bit stupid and technologically inept&#x20;
 
 </details>
 
