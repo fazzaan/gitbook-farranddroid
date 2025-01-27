@@ -74,6 +74,9 @@
   * [Nostr Protocol](decentralization/decentralised-tech/nostr-protocol.md)
   * [Swarm / EthSwarm](decentralization/decentralised-tech/swarm-ethswarm.md)
   * [IPFS](decentralization/decentralised-tech/ipfs.md)
+* [Decentralized communication](decentralization/decentralized-communication/README.md)
+  * [Nostr Network](decentralization/decentralized-communication/nostr-network.md)
+  * [Matrix.org](decentralization/decentralized-communication/matrix.org.md)
 * [Decentralization projects](decentralization/decentralization-projects/README.md)
   * [DeBoot — cloud OS booting](decentralization/decentralization-projects/deboot-cloud-os-booting.md)
 
