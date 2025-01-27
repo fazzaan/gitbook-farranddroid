@@ -14,7 +14,7 @@ Aspect C is mandatory, because any and all data transfers going through any cent
 
 Read on to learn more.
 
-{% content-ref url="decentralised-tech.md" %}
-[decentralised-tech.md](decentralised-tech.md)
+{% content-ref url="decentralised-tech/" %}
+[decentralised-tech](decentralised-tech/)
 {% endcontent-ref %}
 
