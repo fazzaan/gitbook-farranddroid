@@ -1,6 +1,6 @@
 # Nostr Protocol
 
-So Nostr is quite a beast.
+So, Nostr is quite a beast.
 
 A beast of a concept, anyway.
 
@@ -9,7 +9,7 @@ It's not a network or an app.&#x20;
 It's a protocol for sharing content, in an apparently uncensorable way.
 
 {% hint style="info" %}
-[**→🌐🔗 What is Nostr?**](https://nostr.how/en/what-is-nostr)&#x20;
+## [→🌐🔗What is Nostr?](https://nostr.how/en/what-is-nostr)&#x20;
 
 Taken from a guide website on how to get started with Nostr:
 
@@ -19,6 +19,14 @@ Taken from a guide website on how to get started with Nostr:
 
 I recommend that you explore their website because it has a lot of information on how to set up Nostr. It's not _very_ hard, but it's certainly more involved than we are used to with normal, centralised social networks.
 {% endhint %}
+
+## Useful links
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>What is Nostr?</strong></td></tr><tr><td><strong>Nostr Apps .com</strong></td></tr><tr><td><strong>Nostr App Manager</strong></td></tr><tr><td><strong>N Sec .app</strong></td></tr></tbody></table>
+
+
+
+
 
 _Here's some notes I've written today, going through my own Nostr initiation:_
 
@@ -54,43 +62,9 @@ _Here's some notes I've written today, going through my own Nostr initiation:_
   * [nosta.me](https://nosta.me/) — seems to present your nostr ID data, but this site isn't for posting on. It also provides URLs to your nostr profiles on other platforms, which is useful
   * [njump.me](https://njump.me/npub12vkcxr0luzwp8e673v29eqjhrr7p9vqq8asav85swaepclllj09sylpugg) — _"a HTTP Nostr gateway that allows you to browse profiles, notes and relays; it is an easy way to preview a resource and then open it with your preferred client. The typical use of njump is to share a resource outside the Nostr world, where the nostr: schema is not (yet) working."_&#x20;
 
-### Nostr twitteresque apps
+### Nostr apps
 
-* primal
-  * _**note:** I have a weird problem in the web version, it somehow signed in to a random (new) account and I can't find any way to sign out._&#x20;
-  * [nostrapps link](https://nostrapps.com/primal)&#x20;
-  * [web](https://primal.net/)&#x20;
-  * [primal.net download page](https://primal.net/downloads)&#x20;
-  * [android](https://play.google.com/store/apps/details?id=net.primal.android\&hl=en)&#x20;
-  * [ios](https://apps.apple.com/us/app/primal/id1673134518) — [viet store](https://apps.apple.com/us/app/primal/id1673134518?l=vi)&#x20;
-  * [github](https://github.com/PrimalHQ)&#x20;
-* coracle
-  * nostrapps link https://nostrapps.com/coracle
-  * web https://coracle.social/
-* nostrmo
-  * nostrapps link https://nostrapps.com/nostrmo
-* Amethyst
-  * nostrapps link https://nostrapps.com/amethyst
-  *
-* Iris
-  * nostrapps link https://nostrapps.com/iris
-* OpenVibe
-  * Connects to Nostr, Mastodon, BlueSky and Threads (those 2 are questionable though, but could be a good way to bring people into Nostr)
-  * Web
-  * Android
-  * iOS
-* Gossip
-  * sorry this app is shit
+<table data-view="cards"><thead><tr><th>App name</th><th>Type</th><th>Nostr App Manager</th><th>Home page</th><th>Web app</th><th>Android app</th><th>iOS app</th><th>Windows app</th><th>MacOS app</th><th>GitHib site</th><th data-hidden>NostrApps.com</th></tr></thead><tbody><tr><td><strong>Primal</strong></td><td>Microblogging</td><td><a href="https://nostrapp.link/a/naddr1qqxnzd3exycrwwphxgunjve4qgsrx4k7vxeev3unrn5ty9qt9w4cxlsgzrqw752mh6fduqjgqs9chhgrqsqqql8kw4vkcq">Nostr App Manager</a></td><td><a href="https://primal.net/">primal.net</a></td><td><a href="https://primal.net/">primal.net</a></td><td></td><td></td><td></td><td></td><td></td><td><a href="https://nostrapps.com/primal">NostrApps.com</a></td></tr><tr><td><strong>Amethyst</strong></td><td>Microblogging</td><td><a href="https://nostrapp.link/a/naddr1qqxnzd3cx5urqv3nxymngdphqgsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqrqsqqql8kavfpw3">Nostr App Manager</a></td><td><a href="https://amethyst.social/">amethyst.social</a></td><td></td><td><a href="https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst">Google Play</a> — <a href="https://f-droid.org/packages/com.vitorpamplona.amethyst/">F-droid</a> — <a href="https://github.com/ImranR98/Obtainium">Obtanium</a> — <a href="https://zap.store/">Zap.store</a> </td><td></td><td></td><td></td><td><a href="https://github.com/vitorpamplona/amethyst/releases">GitHub site</a> </td><td><a href="https://nostrapps.com/amethyst">NostrApps.com</a></td></tr><tr><td><strong>OpenVibe</strong> </td><td>Microblogging, cross-platform</td><td>Nostr App Manager</td><td><a href="https://openvibe.social/">openvibe.social</a></td><td></td><td><a href="https://play.google.com/store/apps/details?id=com.plebstr.client">Google Play</a> </td><td><a href="https://apps.apple.com/cz/app/openvibe-to-nostr-beyond/id1666230916">App Store</a> </td><td></td><td></td><td></td><td><a href="https://nostrapps.com/openvibe">NostrApps.com</a></td></tr><tr><td><strong>Iris</strong></td><td>Microblogging</td><td><a href="https://nostrapp.link/a/naddr1qqxnzd3cx5mnyvec8qungvenqgsrx4k7vxeev3unrn5ty9qt9w4cxlsgzrqw752mh6fduqjgqs9chhgrqsqqql8ks78ejl">Nostr App Manager</a></td><td><a href="https://iris.to/">iris.to</a></td><td><a href="https://iris.to/">iris.to</a></td><td></td><td></td><td></td><td></td><td><a href="https://github.com/irislib">GitHub site</a> </td><td><a href="https://nostrapps.com/iris">NostrApps.com</a></td></tr><tr><td><strong>NostrMo</strong></td><td>Microblogging</td><td>Nostr App Manager</td><td></td><td><a href="https://web.nostrmo.com/">web.nostrmo.com</a></td><td><a href="https://play.google.com/store/apps/details?id=com.github.haorendashu.nostrmo">Google Play</a> </td><td></td><td></td><td></td><td></td><td><a href="https://nostrapps.com/nostrmo">NostrApps.com</a></td></tr><tr><td><strong>Olas.app</strong></td><td>Photo sharing</td><td><a href="https://nostrapp.link/a/naddr1qqxnzdenxyur2vpkxyur2vp4qgs04xzt6ldm9qhs0ctw0t58kf4z57umjzmjg6jywu0seadwtqqc75srqsqqql8k7ygv3x">Nostr App Manager</a></td><td><a href="https://olas.app/">olas.app</a></td><td><a href="https://olas.app/">olas.app</a></td><td></td><td></td><td></td><td></td><td></td><td>NostrApps.com</td></tr><tr><td><strong>Coracle</strong></td><td>Microblogging</td><td>Nostr App Manager</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><a href="https://nostrapps.com/coracle">NostrApps.com</a></td></tr><tr><td><strong>Flotilla</strong></td><td>Group chat</td><td><a href="https://nostrapp.link/a/naddr1qqxnzdenxucr2wp48ymnqdfsqgsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsrqsqqql8k0gu2vz">Nostr App Manager</a></td><td><a href="https://flotilla.social/">flotilla.social</a></td><td><a href="https://app.flotilla.social/">app.flotilla.social</a></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Snort</strong></td><td>Microblogging</td><td>Nostr App Manager</td><td><a href="https://snort.social/">snort.social</a></td><td><a href="https://snort.social/">snort.social</a></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Nostter</strong></td><td>Microblogging</td><td>Nostr App Manager</td><td><a href="https://nostter.app/">nostter.app</a></td><td><a href="https://nostter.app/">nostter.app</a></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-### Messaging apps
 
-* Flotilla -- group chats
-  * web https://app.flotilla.social/
-
-### Photo-sharing apps
-
-* Olas.app -- very much like Instagram
-  * web -- login doesn't seem to work at all
-  * ios app
-  * android app
 
