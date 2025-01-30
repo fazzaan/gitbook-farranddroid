@@ -67,6 +67,8 @@
 
 * [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age.md)
 * [DNS to get around blocks](internet-safety/dns-to-get-around-blocks.md)
+* [Viruses and how to fight them](internet-safety/viruses-and-how-to-fight-them/README.md)
+  * [MaleficAms & Quasar](internet-safety/viruses-and-how-to-fight-them/maleficams-and-quasar.md)
 
 ## Decentralization
 
