@@ -161,11 +161,14 @@ This was after I had deleted the other files by myself, so your antivirus softwa
 
 ## Files checked on VirusTotal:
 
-1. **LbuDYVey.ps1** — This seems to be the originating file from which the chain of events started — https://www.virustotal.com/gui/file/5afdc33f02df4604b5610fe0c31131a889df29687353b1c0f300c1cf791192cb
-2. **5.vbs** (base64 powershell directives) — https://www.virustotal.com/gui/file/a63181dff0f68b98712247f51c8a6e7761f8a84261928c297b12f438272c1492
-3. **c.bat** AND **dwm.bat** —  https://www.virustotal.com/gui/file/d2ca5cb28153f404d84cad9dd6b28725015527625a262d3b6471e0458f5ecb85
-4. _**8026C5C2-B019-46B0-B0F4-0583866B9AC8**_ (in Task Scheduler) — https://www.virustotal.com/gui/file/257a73e0adedae700e848f36cbcf4198d478fb8cb4aab2855ebef496c7fca60d
-5. _**RealtekgaNtkX0 / NtkX0rW**_ — The registry key that was added — https://www.virustotal.com/gui/file/bf0814ba984aac3d577d45da9b06da36443c523241ec083120874cdacf65bf6c&#x20;
+1. **LbuDYVey.ps1** — This seems to be the originating file from which the chain of events started — [https://www.virustotal.com/gui/file/5afdc33f02df4604b5610fe0c31131a889df29687353b1c0f300c1cf791192cb](https://www.virustotal.com/gui/file/5afdc33f02df4604b5610fe0c31131a889df29687353b1c0f300c1cf791192cb)
+2. **5.vbs** (base64 powershell directives) — [https://www.virustotal.com/gui/file/a63181dff0f68b98712247f51c8a6e7761f8a84261928c297b12f438272c1492](https://www.virustotal.com/gui/file/a63181dff0f68b98712247f51c8a6e7761f8a84261928c297b12f438272c1492)
+3. **c.bat** AND **dwm.bat** —  [https://www.virustotal.com/gui/file/d2ca5cb28153f404d84cad9dd6b28725015527625a262d3b6471e0458f5ecb85](https://www.virustotal.com/gui/file/d2ca5cb28153f404d84cad9dd6b28725015527625a262d3b6471e0458f5ecb85)
+4. _**8026C5C2-B019-46B0-B0F4-0583866B9AC8**_ (in Task Scheduler) — [https://www.virustotal.com/gui/file/257a73e0adedae700e848f36cbcf4198d478fb8cb4aab2855ebef496c7fca60d](https://www.virustotal.com/gui/file/257a73e0adedae700e848f36cbcf4198d478fb8cb4aab2855ebef496c7fca60d)
+5. _**RealtekgaNtkX0 / NtkX0rW**_ — The registry key that was added — [https://www.virustotal.com/gui/file/bf0814ba984aac3d577d45da9b06da36443c523241ec083120874cdacf65bf6c](https://www.virustotal.com/gui/file/bf0814ba984aac3d577d45da9b06da36443c523241ec083120874cdacf65bf6c)&#x20;
+6. **crack.zip file** — The crack.zip that was contained as the cracking method — [https://www.virustotal.com/gui/file/d2b9cbc27e4328493cc918110de5d2c3339f79075466311b3b45a72faf86fe76](https://www.virustotal.com/gui/file/d2b9cbc27e4328493cc918110de5d2c3339f79075466311b3b45a72faf86fe76/detection) &#x20;
+7. **Patch.exe** — The activator executable inside the crack.zip file — [https://www.virustotal.com/gui/file/7dbc709cf291f300f458170fa4552e8a85187afc56b72ad073ffc4ea0d026c61](https://www.virustotal.com/gui/file/7dbc709cf291f300f458170fa4552e8a85187afc56b72ad073ffc4ea0d026c61)&#x20;
+8. **evbda.sys** — A benign system file, distributed by Microsoft. It was included in the crack.zip file. [https://www.virustotal.com/gui/file/48d9f61e943a7855562950ff26b866bd51a27d980757b065504fcd3f1a1d6f07](https://www.virustotal.com/gui/file/48d9f61e943a7855562950ff26b866bd51a27d980757b065504fcd3f1a1d6f07)&#x20;
 
 <details>
 
