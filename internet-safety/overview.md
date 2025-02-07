@@ -40,9 +40,15 @@ _You wouldn't leave your house unlocked, would you?_
 
 ### Expandable list version here
 
+_You need all of these things set up in order to be safe._&#x20;
+
+_You wouldn't leave your house unlocked, would you?_
+
+#### Inside your computer
+
 <details>
 
-<summary>here is one</summary>
+<summary>Firewall</summary>
 
 something inside one
 
@@ -50,9 +56,95 @@ something inside one
 
 <details>
 
-<summary>here is another </summary>
+<summary>Block OS telemetry[^1]</summary>
+
+something in another
+
+</details>
+
+<details>
+
+<summary>Antivirus</summary>
+
+Windows Security isn't too bad these days
+
+</details>
+
+<details>
+
+<summary>Internet connection killswitch</summary>
+
+Kill your internet connection immediately in case something goes wrong
+
+</details>
+
+#### Internet connection
+
+<details>
+
+<summary>DNS handler — circumvent blocks, control adverts and malware</summary>
+
+circumvent blocks, control adverts and malware
+
+</details>
+
+<details>
+
+<summary>WARP[^2] — circumvent blocks and surveillance; _does not hide your location_</summary>
+
+Circumvent blocks and surveillance.
+_WARP does NOT hide your location._
+
+</details>
+
+<details>
+
+<summary>VPN[^3] — circumvent everything. Hides your location and the content of your traffic.</summary>
+
+Circumvent everything. 
+_A VPN hides your location and the content of your traffic._
+
+</details>
+
+#### Internet activities
+
+<details>
+
+<summary>Decentralised communications — messaging, social media sites</summary>
 
 something in another&#x20;
+
+</details>
+
+<details>
+
+<summary>Block web browsing telemetry — browser apps and websites collect data about you</summary>
+
+something in another&#x20;
+
+</details>
+
+<details>
+
+<summary>Personal profile privacy</summary>
+
+something in another&#x20;
+
+</details>
+
+<details>
+
+<summary>Account security — storing passwords, 2FA codes, security keys (etc) securely</summary>
+
+Storing passwords, 2FA codes, security keys (etc) securely.
+
+</details>
+
+<details>
+
+<summary>Anonymised communications — important if your topics are sensitive</summary>
+
+Sometimes there are things that you need to talk about online which you don't want tied to you.
 
 </details>
 
