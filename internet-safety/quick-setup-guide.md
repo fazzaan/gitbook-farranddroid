@@ -12,6 +12,12 @@ Yes, this page is long.&#x20;
 
 ## Inside your computer
 
+Read detailed information in the section dedicated to software inside your computer:
+
+{% content-ref url="inside-your-computer/" %}
+[inside-your-computer](inside-your-computer/)
+{% endcontent-ref %}
+
 ### Firewall
 
 _Learn more details on_ 📄[firewalls.md](inside-your-computer/firewalls.md "mention").&#x20;
@@ -103,6 +109,8 @@ I actually have both SimpleWall _and_ Binisoft MalwareBytes firewall running. I 
 
 We already achieved this with [🌐SimpleWall](https://github.com/henrypp/simplewall) in the [# Firewall section](quick-setup-guide.md#firewall).&#x20;
 
+_Learn more details on_ 📄[blocking-os-telemetry.md](inside-your-computer/blocking-os-telemetry.md "mention").&#x20;
+
 ***
 
 ### Antivirus
@@ -164,15 +172,29 @@ Your Exclusions list MUST look like this:
 
 ### Internet Connection Killswitch
 
+_Learn more details on_ 📄[internet-connection-killswitch.md](inside-your-computer/internet-connection-killswitch.md "mention").&#x20;
+
 Some firewall and antivirus software have this functionality built in.
 
 I haven't explored this yet; check back here soon to see what I've found. Or go research it for yourself ;)&#x20;
 
+
+
 ***
+
+
 
 ## Between your computer and the Internet
 
+Read detailed information in the section dedicated to Internet connectivity:
+
+{% content-ref url="internet-connectivity/" %}
+[internet-connectivity](internet-connectivity/)
+{% endcontent-ref %}
+
 ### DNS Handler
+
+_Learn more details on_ 📄[dns-to-get-around-blocks.md](internet-connectivity/dns-to-get-around-blocks.md "mention").&#x20;
 
 x
 
@@ -180,19 +202,35 @@ x
 
 ### WARP by CloudFlare
 
+_Learn more details on_ 📄[warp-by-cloudflare.md](internet-connectivity/warp-by-cloudflare.md "mention").&#x20;
+
 d
 
 ***
 
 ### VPN for best privacy
 
+_Learn more details on_ 📄[vpn-the-only-real-privacy.md](internet-connectivity/vpn-the-only-real-privacy.md "mention").&#x20;
+
 s
+
+
 
 ***
 
+
+
 ## Your activity on the Internet
 
+Read detailed information in the section dedicated to your activity on the Internet:
+
+{% content-ref url="your-internet-activity/" %}
+[your-internet-activity](your-internet-activity/)
+{% endcontent-ref %}
+
 ### Block Internet Telemetry
+
+_Learn more details on_ 📄[block-internet-telemetry.md](your-internet-activity/block-internet-telemetry.md "mention").&#x20;
 
 f
 
@@ -200,11 +238,15 @@ f
 
 ### Social Media Privacy
 
+_Learn more details on_ 📄[social-media-privacy.md](your-internet-activity/social-media-privacy.md "mention").&#x20;
+
 p
 
 ***
 
 ### Account Security — passwords etc.
+
+_Learn more details on_ 📄[account-security-passwords-2fa-keys-etc..md](your-internet-activity/account-security-passwords-2fa-keys-etc..md "mention").
 
 p
 
@@ -212,11 +254,15 @@ p
 
 ### Decentralized communications
 
+_Learn more details on_ 📄[decentralized-communication](../decentralization/decentralized-communication/ "mention").&#x20;
+
 p
 
 ***
 
 ### Anonymized communications
+
+_Learn more details on_ 📄[anonymized-communications.md](your-internet-activity/anonymized-communications.md "mention").&#x20;
 
 d
 

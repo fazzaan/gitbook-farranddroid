@@ -75,6 +75,7 @@
   * [Antivirus apps](internet-safety/inside-your-computer/antivirus-apps.md)
   * [Viruses and how to fight them](internet-safety/inside-your-computer/viruses-and-how-to-fight-them/README.md)
     * [MaleficAms & Quasar](internet-safety/inside-your-computer/viruses-and-how-to-fight-them/maleficams-and-quasar.md)
+  * [Internet connection killswitch](internet-safety/inside-your-computer/internet-connection-killswitch.md)
 * [Internet connectivity](internet-safety/internet-connectivity/README.md)
   * [DNS to get around blocks](internet-safety/internet-connectivity/dns-to-get-around-blocks.md)
   * [WARP by CloudFlare](internet-safety/internet-connectivity/warp-by-cloudflare.md)
