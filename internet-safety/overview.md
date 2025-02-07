@@ -18,15 +18,15 @@ _You wouldn't leave your house unlocked, would you?_
 #### Inside your computer
 
 * [x] Firewall
-* [x] Block OS telemetry
+* [x] Block OS telemetry[^1]
 * [x] Antivirus — Windows Security isn't too bad these days
 * [x] Internet connection killswitch — in case something goes wrong
 
 #### Internet connection
 
 * [x] DNS handler — circumvent blocks, control adverts and malware
-* [x] WARP — circumvent blocks and surveillance; _does not hide your location_
-* [x] VPN — circumvent everything. Hides your location and the content of your traffic.
+* [x] WARP[^2] — circumvent blocks and surveillance; _does not hide your location_
+* [x] VPN[^3] — circumvent everything. Hides your location and the content of your traffic.
 
 #### Internet activities
 
