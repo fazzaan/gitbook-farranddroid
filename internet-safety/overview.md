@@ -7,11 +7,9 @@ _Modern issues in a technologically hyper-interconnected age._
 * data theft — your private data can be ransomed and sold
 * account theft — your account logins can be ransomed and sold
 
-
-
 ## Full Security Checklist
 
-_You need all of these things set up in order to be safe._&#x20;
+_You need all of these things set up in order to be safe._
 
 _You wouldn't leave your house unlocked, would you?_
 
@@ -36,11 +34,9 @@ _You wouldn't leave your house unlocked, would you?_
 * [x] Account security — storing passwords, 2FA codes, security keys (etc) securely
 * [x] Anonymised communications — important if your topics are sensitive
 
-
-
 ### Expandable list version here
 
-_You need all of these things set up in order to be safe._&#x20;
+_You need all of these things set up in order to be safe._
 
 _You wouldn't leave your house unlocked, would you?_
 
@@ -56,7 +52,7 @@ something inside one
 
 <details>
 
-<summary>Block OS telemetry[^1]</summary>
+<summary>Block OS <a data-footnote-ref href="#user-content-fn-4">telemetry</a></summary>
 
 something in another
 
@@ -92,8 +88,7 @@ circumvent blocks, control adverts and malware
 
 <summary>WARP[^2] — circumvent blocks and surveillance; _does not hide your location_</summary>
 
-Circumvent blocks and surveillance.
-_WARP does NOT hide your location._
+Circumvent blocks and surveillance. _WARP does NOT hide your location._
 
 </details>
 
@@ -101,8 +96,7 @@ _WARP does NOT hide your location._
 
 <summary>VPN[^3] — circumvent everything. Hides your location and the content of your traffic.</summary>
 
-Circumvent everything. 
-_A VPN hides your location and the content of your traffic._
+Circumvent everything. _A VPN hides your location and the content of your traffic._
 
 </details>
 
@@ -112,7 +106,7 @@ _A VPN hides your location and the content of your traffic._
 
 <summary>Decentralised communications — messaging, social media sites</summary>
 
-something in another&#x20;
+something in another
 
 </details>
 
@@ -120,7 +114,7 @@ something in another&#x20;
 
 <summary>Block web browsing telemetry — browser apps and websites collect data about you</summary>
 
-something in another&#x20;
+something in another
 
 </details>
 
@@ -128,7 +122,7 @@ something in another&#x20;
 
 <summary>Personal profile privacy</summary>
 
-something in another&#x20;
+something in another
 
 </details>
 
@@ -148,11 +142,9 @@ Sometimes there are things that you need to talk about online which you don't wa
 
 </details>
 
-
-
 [^1]: Measurements of you and your computer usage, that a company collects in order to build a profile of you and your activities, for them to **a)** sell to advertising agencies, and to **b)** measure human behaviour and build a hyper model of humanity, thus reducing us to a fully-predictable set of behaviours.
 
-[^2]: A service by CloudFlare.&#x20;
+[^2]: A service by CloudFlare.
 
     **NOTE THAT THIS IS SIMILAR TO A VPN BUT IT IS&#x20;**_**NOT**_**&#x20;A VPN**.
 
@@ -161,3 +153,5 @@ Sometimes there are things that you need to talk about online which you don't wa
     **USE A VPN IF YOU NEED TO ACTUALLY HIDE YOUR INTERNET TRAFFIC**.
 
 [^3]: Virtual Private Network. _Paid_ VPNs are secure; they hide your location _and_ the contents of your internet traffic.
+
+[^4]: Measurements of you and your computer usage, that a company collects in order to build a profile of you and your activities, for them to _**a)**_ sell to advertising agencies, and to _**b)**_ measure human behaviour and build a hyper model of humanity, thus reducing us to a fully-predictable set of behaviours.
