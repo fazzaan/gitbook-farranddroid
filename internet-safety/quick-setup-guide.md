@@ -14,7 +14,7 @@ Yes, this page is long.&#x20;
 
 ### Firewall
 
-_Learn more details on_ 📄[firewalls.md](firewalls.md "mention").&#x20;
+_Learn more details on_ 📄[firewalls.md](inside-your-computer/firewalls.md "mention").&#x20;
 
 {% stepper %}
 {% step %}
@@ -107,7 +107,7 @@ We already achieved this with [🌐SimpleWall](https://github.com/henrypp/simple
 
 ### Antivirus
 
-_Learn more details on_ 📄[antivirus-apps.md](antivirus-apps.md "mention").&#x20;
+_Learn more details on_ 📄[antivirus-apps.md](inside-your-computer/antivirus-apps.md "mention").&#x20;
 
 {% stepper %}
 {% step %}
@@ -162,8 +162,6 @@ Your Exclusions list MUST look like this:
 
 ***
 
-## Between your computer and the Internet
-
 ### Internet Connection Killswitch
 
 Some firewall and antivirus software have this functionality built in.
@@ -171,6 +169,8 @@ Some firewall and antivirus software have this functionality built in.
 I haven't explored this yet; check back here soon to see what I've found. Or go research it for yourself ;)&#x20;
 
 ***
+
+## Between your computer and the Internet
 
 ### DNS Handler
 
@@ -198,7 +198,7 @@ f
 
 ***
 
-### Personal Profile Privacy
+### Social Media Privacy
 
 p
 

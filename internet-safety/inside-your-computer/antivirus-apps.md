@@ -17,7 +17,7 @@ Even after all that, _and_ using Windows Security (which detected virus files an
 
 _Learn more about viruses and antivirus software on_ 📄[antivirus-apps.md](antivirus-apps.md "mention").
 
-_This is the same information as found on the_ [quick-setup-guide.md](quick-setup-guide.md "mention") _page._
+_This is the same information as found on the_ [quick-setup-guide.md](../quick-setup-guide.md "mention") _page._
 
 {% stepper %}
 {% step %}
@@ -60,13 +60,13 @@ If you are using Windows, go into your Windows Security application.
 
 Double check your scan settings — one virus that I recently had had set Windows Security's antivirus scanning to exclude the entire system C: drive from its scans! The virus was able to go undetected because of this.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Your Exclusions list MUST look like this:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

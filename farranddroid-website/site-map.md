@@ -89,7 +89,7 @@ Introduction to [Broken link](broken-reference "mention").
   * [nostr-protocol.md](../decentralization/decentralised-tech/nostr-protocol.md "mention")
   * cloud booting OS — swarm, deboot
   * file storage&#x20;
-* [dns-to-get-around-blocks.md](../internet-safety/dns-to-get-around-blocks.md "mention") — circumventing simple website blocks when your government is a bit stupid and technologically inept&#x20;
+* [dns-to-get-around-blocks.md](../internet-safety/internet-connectivity/dns-to-get-around-blocks.md "mention") — circumventing simple website blocks when your government is a bit stupid and technologically inept&#x20;
 
 </details>
 

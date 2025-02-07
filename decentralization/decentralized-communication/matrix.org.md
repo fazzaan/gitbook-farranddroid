@@ -1,5 +1,9 @@
 # Matrix.org
 
+{% hint style="danger" %}
+actually i don't think i like this platform
+{% endhint %}
+
 {% hint style="info" %}
 _basic info about the technology, its construct, its use-cases, etc_
 {% endhint %}

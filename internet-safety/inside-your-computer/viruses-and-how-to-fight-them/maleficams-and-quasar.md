@@ -150,7 +150,7 @@ You can sort the processes by PID so the newest processes should appear at the t
 
 The virus also added `powershell.exe` and my entire `C:\` drive to the Windows Security antivirus exclusions list, so I was getting notifications from Windows Security that no threats had been found. Once I removed all exclusions from the list, it detected one virus, then later, the other one.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-30 151824.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-30 151824.png" alt=""><figcaption></figcaption></figure>
 
 Windows Security finally detected two viruses:
 

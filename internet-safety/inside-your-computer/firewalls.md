@@ -31,7 +31,7 @@ For the information in this _Internet Safety_ section, I'm finding a lot of grea
 
 _Learn more about firewalls on_ 📄[firewalls.md](firewalls.md "mention").
 
-_This is the same information as found on the_ [quick-setup-guide.md](quick-setup-guide.md "mention") _page._
+_This is the same information as found on the_ [quick-setup-guide.md](../quick-setup-guide.md "mention") _page._
 
 {% stepper %}
 {% step %}
@@ -58,15 +58,15 @@ SimpleWall is fairly simple.
 
 It allows you to block all of Microsoft's spying and telemetry on your computer.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 I have it set to block ALL connections by default. Then it will pop up a notification each time an app/process tries to create a new connection.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Don't forget to click _**Enable filters**_!!! This activates the SimpleWall firewall.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 I had some trouble with SimpleWall at first, I guess because the pop-up notifications weren't appearing 🤷
@@ -90,19 +90,19 @@ Do not set it to High Filtering unless you want to completely sever your compute
 
 Also check the **Automatically set Medium Filtering after X minutes**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Go to the _Notifications_ tab and set it to **Display Notifications**. This will ensure that you get a pop-up notification for every application (including system processes) that attempts to connect to the internet.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 If you are concerned that some virus or malware might be connecting to the internet during boot-up, go to the _Security_ tab and enable **Secure Boot**.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Finally, return to the _Dashboard_ tab to check the firewall status — it should look like this:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 And that should be enough!
 

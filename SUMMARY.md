@@ -5,6 +5,7 @@
 * [Home](README.md)
 * [What's this site for?](farranddroid-website/whats-this-site-for.md)
 * [Site map](farranddroid-website/site-map.md)
+* [Support me](farranddroid-website/support-me.md)
 
 ## Principles of Setup
 
@@ -66,17 +67,27 @@
 ## Internet Safety
 
 * [Internet Safety overview](internet-safety/overview.md)
-* [Quick Setup Guide](internet-safety/quick-setup-guide.md)
 * [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age.md)
-* [Firewalls](internet-safety/firewalls.md)
-* [Antivirus apps](internet-safety/antivirus-apps.md)
-* [Viruses and how to fight them](internet-safety/viruses-and-how-to-fight-them/README.md)
-  * [MaleficAms & Quasar](internet-safety/viruses-and-how-to-fight-them/maleficams-and-quasar.md)
-* [DNS to get around blocks](internet-safety/dns-to-get-around-blocks.md)
+* [Quick Setup Guide](internet-safety/quick-setup-guide.md)
+* [Inside your computer](internet-safety/inside-your-computer/README.md)
+  * [Firewalls](internet-safety/inside-your-computer/firewalls.md)
+  * [Blocking OS telemetry](internet-safety/inside-your-computer/blocking-os-telemetry.md)
+  * [Antivirus apps](internet-safety/inside-your-computer/antivirus-apps.md)
+  * [Viruses and how to fight them](internet-safety/inside-your-computer/viruses-and-how-to-fight-them/README.md)
+    * [MaleficAms & Quasar](internet-safety/inside-your-computer/viruses-and-how-to-fight-them/maleficams-and-quasar.md)
+* [Internet connectivity](internet-safety/internet-connectivity/README.md)
+  * [DNS to get around blocks](internet-safety/internet-connectivity/dns-to-get-around-blocks.md)
+  * [WARP by CloudFlare](internet-safety/internet-connectivity/warp-by-cloudflare.md)
+  * [VPN — the only real privacy](internet-safety/internet-connectivity/vpn-the-only-real-privacy.md)
+* [Your Internet activity](internet-safety/your-internet-activity/README.md)
+  * [Block Internet telemetry](internet-safety/your-internet-activity/block-internet-telemetry.md)
+  * [Social media privacy](internet-safety/your-internet-activity/social-media-privacy.md)
+  * [Account security — passwords, 2FA, keys, etc.](internet-safety/your-internet-activity/account-security-passwords-2fa-keys-etc..md)
+  * [Anonymized communications](internet-safety/your-internet-activity/anonymized-communications.md)
 
 ## Decentralization
 
-* [Decentralised Tech](decentralization/decentralised-tech/README.md)
+* [Decentralized Tech](decentralization/decentralised-tech/README.md)
   * [Nostr Protocol](decentralization/decentralised-tech/nostr-protocol.md)
   * [Swarm / EthSwarm](decentralization/decentralised-tech/swarm-ethswarm.md)
   * [IPFS](decentralization/decentralised-tech/ipfs.md)

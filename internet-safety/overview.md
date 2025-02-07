@@ -7,6 +7,10 @@ _Modern issues in a technologically hyper-interconnected age._
 * data theft — your private data can be ransomed and sold
 * account theft — your account logins can be ransomed and sold
 
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="safety-in-the-surveillance-age.md">safety-in-the-surveillance-age.md</a></td></tr><tr><td></td><td><a href="quick-setup-guide.md">quick-setup-guide.md</a></td></tr></tbody></table>
+
+<table data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="inside-your-computer/">inside-your-computer</a></td></tr><tr><td></td><td><a href="internet-connectivity/">internet-connectivity</a></td></tr><tr><td></td><td><a href="your-internet-activity/">your-internet-activity</a></td></tr></tbody></table>
+
 ## Full Security Checklist
 
 _You need all of these things set up in order to be safe._
@@ -25,7 +29,7 @@ Use the Quick Setup Guide to get yourself quickly set up, or scroll down to read
 
 <summary>Firewall</summary>
 
-_Learn more details on 🔗📄_ [firewalls.md](firewalls.md "mention")&#x20;
+_Learn more details on 🔗📄_ [firewalls.md](inside-your-computer/firewalls.md "mention")&#x20;
 
 * SimpleWall — [github](https://github.com/henrypp/simplewall)&#x20;
 * Binisoft MalwareBytes firewall — [homepage](https://www.binisoft.org/wfc)&#x20;
@@ -47,7 +51,7 @@ something in another
 
 You must not rely solely on _one_ antivirus application; nor should you rely entirely upon antivirus software to protect you.
 
-_Learn more details on_ 📄[antivirus-apps.md](antivirus-apps.md "mention")&#x20;
+_Learn more details on_ 📄[antivirus-apps.md](inside-your-computer/antivirus-apps.md "mention")&#x20;
 
 * Kaspersky Antivirus — you can get a free 30-day trial with each new account. You can make unlimited new accounts by using email aliases.
 * Windows Security isn't too bad these days, it finds most malicious code. You should still use Kaspersky occasionally, and especially if you are suspicious.
@@ -93,25 +97,25 @@ Circumvent everything. _A VPN hides your location and the content of your traffi
 
 <details>
 
-<summary>Block web browsing telemetry — browser apps and websites collect data about you</summary>
-
-something in another
-
-</details>
-
-<details>
-
-<summary>Personal profile privacy</summary>
-
-something in another
-
-</details>
-
-<details>
-
 <summary>Account security — storing passwords, 2FA codes, security keys (etc) securely</summary>
 
 Storing passwords, 2FA codes, security keys (etc) securely.
+
+</details>
+
+<details>
+
+<summary>Social media privacy</summary>
+
+something in another
+
+</details>
+
+<details>
+
+<summary>Block web browsing telemetry — browser apps and websites collect data about you</summary>
+
+something in another
 
 </details>
 
