@@ -31,6 +31,8 @@ For the information in this _Internet Safety_ section, I'm finding a lot of grea
 ## Quick Firewall Setup Guide
 
 
+_This is the same information as found on the Quick Setup Guide page._
+
 _Learn more details on_ 📄[firewalls.md](firewalls.md "mention").&#x20;
 
 {% stepper %}

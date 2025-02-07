@@ -18,6 +18,7 @@ Even after all that, _and_ using Windows Security (which detected virus files an
 
 ## Quick Firewall Setup Guide
 
+_This is the same information as found on the Quick Setup Guide page._
 
 _Learn more details on_ 📄[antivirus-apps.md](antivirus-apps.md "mention").&#x20;
 
