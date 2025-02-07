@@ -86,7 +86,7 @@ circumvent blocks, control adverts and malware
 
 <details>
 
-<summary>WARP[^2] — circumvent blocks and surveillance; _does not hide your location_</summary>
+<summary><a data-footnote-ref href="#user-content-fn-2">WARP</a> — circumvent blocks and surveillance; _does not hide your location_</summary>
 
 Circumvent blocks and surveillance. _WARP does NOT hide your location._
 
@@ -94,7 +94,7 @@ Circumvent blocks and surveillance. _WARP does NOT hide your location._
 
 <details>
 
-<summary>VPN[^3] — circumvent everything. Hides your location and the content of your traffic.</summary>
+<summary><a data-footnote-ref href="#user-content-fn-3">VPN</a> — circumvent everything. Hides your location and the content of your traffic.</summary>
 
 Circumvent everything. _A VPN hides your location and the content of your traffic._
 
@@ -154,4 +154,3 @@ Sometimes there are things that you need to talk about online which you don't wa
 
 [^3]: Virtual Private Network. _Paid_ VPNs are secure; they hide your location _and_ the contents of your internet traffic.
 
-[^4]: Measurements of you and your computer usage, that a company collects in order to build a profile of you and your activities, for them to _**a)**_ sell to advertising agencies, and to _**b)**_ measure human behaviour and build a hyper model of humanity, thus reducing us to a fully-predictable set of behaviours.
