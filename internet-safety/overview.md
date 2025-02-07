@@ -13,32 +13,6 @@ _You need all of these things set up in order to be safe._
 
 _You wouldn't leave your house unlocked, would you?_
 
-#### Inside your computer
-
-* [x] Firewall
-* [x] Block OS telemetry
-* [x] Antivirus — Windows Security isn't too bad these days
-* [x] Internet connection killswitch — in case something goes wrong
-
-#### Internet connection
-
-* [x] DNS handler — circumvent blocks, control adverts and malware
-* [x] WARP — circumvent blocks and surveillance; _does not hide your location_
-* [x] VPN — circumvent everything. Hides your location and the content of your traffic.
-
-#### Internet activities
-
-* [x] Decentralised communications — messaging, social media sites
-* [x] Block web browsing telemetry — browser apps and websites collect data about you
-* [x] Personal profile privacy
-* [x] Account security — storing passwords, 2FA codes, security keys (etc) securely
-* [x] Anonymised communications — important if your topics are sensitive
-
-### Expandable list version here
-
-_You need all of these things set up in order to be safe._
-
-_You wouldn't leave your house unlocked, would you?_
 
 #### Inside your computer
 
@@ -46,7 +20,7 @@ _You wouldn't leave your house unlocked, would you?_
 
 <summary>Firewall</summary>
 
-something inside one
+asdf
 
 </details>
 
@@ -62,7 +36,11 @@ something in another
 
 <summary>Antivirus</summary>
 
-Windows Security isn't too bad these days
+You must not rely solely on _one_ antivirus application; nor should you rely entirely upon antivirus software to protect you. Several times, I have had to chase a virus around my computer, uncovering scripts, tasks in Task Scheduler, the Registry, fake driver entries, and powershell & cmd processes. Even after all that, _and_ using Windows Security (which detected virus files and quarantined them!), Kaspersky still managed to find more malicious code hiding in the RAM.
+
+* Kaspersky Antivirus — you can get a free 30-day trial with each new account. You can make unlimited new accounts by using email aliases. For Gmail, do this by simply adding a + after your email username, and whatever letters you like. E.g. hello+kspsk01@gamil.com, then after 30 days, hello+kspsk02@gamil.com, etc.
+  * Kaspersky is the best AV I've found so far. It actually scans the whole system deeply, INCLUDING scanning the RAM for malicious code: many viruses are programmed to hide themselves in the RAM, making it impossible for you to delete them — they will always return after a reboot.
+* Windows Security isn't too bad these days, it finds most malicious code. You should still use Kaspersky occasionally, and especially if you are suspicious.
 
 </details>
 
