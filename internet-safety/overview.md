@@ -23,8 +23,8 @@ _You wouldn't leave your house unlocked, would you?_
 #### Internet connection
 
 * [x] DNS handler — circumvent blocks, control adverts and malware
-* [x] WARP[^2] — circumvent blocks and surveillance; _does not hide your location_
-* [x] VPN[^3] — circumvent everything. Hides your location and the content of your traffic.
+* [x] WARP — circumvent blocks and surveillance; _does not hide your location_
+* [x] VPN — circumvent everything. Hides your location and the content of your traffic.
 
 #### Internet activities
 
