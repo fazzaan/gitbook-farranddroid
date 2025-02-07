@@ -13,7 +13,11 @@ _You need all of these things set up in order to be safe._
 
 _You wouldn't leave your house unlocked, would you?_
 
-_<mark style="color:red;">.// Quick setup guide link — page not yet created</mark>_
+Use the Quick Setup Guide to get yourself quickly set up, or scroll down to read a bit about each aspect of online safety.
+
+{% content-ref url="quick-setup-guide.md" %}
+[quick-setup-guide.md](quick-setup-guide.md)
+{% endcontent-ref %}
 
 #### Inside your computer
 
