@@ -52,7 +52,7 @@ something inside one
 
 <details>
 
-<summary>Block OS <a data-footnote-ref href="#user-content-fn-4">telemetry</a></summary>
+<summary>Block OS <a data-footnote-ref href="#user-content-fn-1">telemetry</a></summary>
 
 something in another
 
