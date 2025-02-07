@@ -16,7 +16,7 @@ _You wouldn't leave your house unlocked, would you?_
 #### Inside your computer
 
 * [x] Firewall
-* [x] Block OS telemetry[^1]
+* [x] Block OS telemetry
 * [x] Antivirus — Windows Security isn't too bad these days
 * [x] Internet connection killswitch — in case something goes wrong
 
