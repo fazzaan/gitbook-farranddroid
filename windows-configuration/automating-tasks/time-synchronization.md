@@ -28,11 +28,11 @@ To find this, go to:
 Windows Settings → Time & language → Date & time → Additional clocks
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Click "Additional clocks"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Click "Additional clocks"</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Choose the "Internet Time" tab, then click "Change settings..."</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Choose the "Internet Time" tab, then click "Change settings..."</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Select or paste your chosen time server URL, then click "Update now".</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Select or paste your chosen time server URL, then click "Update now".</p></figcaption></figure>
 
 Select or paste your chosen time server address into the server text box, then click "Update now" and wait for a few moments. If it fails, click it a few more times, and if it still fails, find a new time server. You can also check if the URL is alive by using a terminal/CMD app to ping the server:
 
@@ -46,7 +46,7 @@ If it worked, now your clock should be accurate to within a second, hopefully wi
 
 Here's a screenshot comparing the real-time clock website with my system clock:
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>From <a href="https://clock.zone/">Clock.Zone</a> </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>From <a href="https://clock.zone/">Clock.Zone</a> </p></figcaption></figure>
 
 You can see that they are near-enough identical.
 
@@ -74,15 +74,15 @@ Task Scheduler → "Action" menu → **Create Basic Task**
 
 Add a name as you like. Add a description if you want.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tell it to start when the computer starts — or whenever you want.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tell it that you want to start a program.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Type <mark style="color:red;">`w32tm`</mark> in the Program box, and <mark style="color:red;">`/resync`</mark> in the Add arguments box.
@@ -106,7 +106,7 @@ When the Properties dialog opens, set it to:
 * Run with highest privileges
 * Configure for: Windows 10
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Triggers tab
 
@@ -120,7 +120,7 @@ Set:
 * Delay task for: 30 seconds
 * Enabled
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Press OK to close the window.
 
@@ -130,7 +130,7 @@ Change to the Conditions tab.
 
 Set "Start only if the following network connection is available" to "Any connection", or a specific network of your choice.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Settings tab
 

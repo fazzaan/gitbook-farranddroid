@@ -17,7 +17,7 @@ Open PowerShell from the Start menu as Administrator:
 {% hint style="info" %}
 Start → PowerShell → Run as Administrator
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (11).png>)
 {% endhint %}
 
 Paste this command in PowerShell, then press enter:

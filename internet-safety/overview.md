@@ -13,13 +13,19 @@ _You need all of these things set up in order to be safe._
 
 _You wouldn't leave your house unlocked, would you?_
 
+_<mark style="color:red;">.// Quick setup guide link — page not yet created</mark>_
+
 #### Inside your computer
 
 <details>
 
 <summary>Firewall</summary>
 
-asdf
+_Learn more details on 🔗📄_ [firewalls.md](firewalls.md "mention")&#x20;
+
+* SimpleWall — [github](https://github.com/henrypp/simplewall)&#x20;
+* Binisoft MalwareBytes firewall — [homepage](https://www.binisoft.org/wfc)&#x20;
+* NextDNS — [homepage](https://nextdns.io/) — actually this is a configurable DNS service, so can be used like a firewall&#x20;
 
 </details>
 
@@ -37,10 +43,11 @@ something in another
 
 You must not rely solely on _one_ antivirus application; nor should you rely entirely upon antivirus software to protect you.
 
-🔗📄 [antivirus-apps.md](antivirus-apps.md "mention")
+_Learn more details on_ 📄[antivirus-apps.md](antivirus-apps.md "mention")&#x20;
 
 * Kaspersky Antivirus — you can get a free 30-day trial with each new account. You can make unlimited new accounts by using email aliases.
 * Windows Security isn't too bad these days, it finds most malicious code. You should still use Kaspersky occasionally, and especially if you are suspicious.
+* MalwareBytes seems to be good too. Check it out.
 
 </details>
 
@@ -82,14 +89,6 @@ Circumvent everything. _A VPN hides your location and the content of your traffi
 
 <details>
 
-<summary>Decentralised communications — messaging, social media sites</summary>
-
-something in another
-
-</details>
-
-<details>
-
 <summary>Block web browsing telemetry — browser apps and websites collect data about you</summary>
 
 something in another
@@ -109,6 +108,14 @@ something in another
 <summary>Account security — storing passwords, 2FA codes, security keys (etc) securely</summary>
 
 Storing passwords, 2FA codes, security keys (etc) securely.
+
+</details>
+
+<details>
+
+<summary>Decentralised communications — messaging, social media sites</summary>
+
+something in another
 
 </details>
 

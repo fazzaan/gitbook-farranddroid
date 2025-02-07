@@ -66,6 +66,7 @@
 ## Internet Safety
 
 * [Internet Safety overview](internet-safety/overview.md)
+* [Quick Setup Guide](internet-safety/quick-setup-guide.md)
 * [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age.md)
 * [Firewalls](internet-safety/firewalls.md)
 * [Antivirus apps](internet-safety/antivirus-apps.md)
