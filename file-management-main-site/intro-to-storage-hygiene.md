@@ -1,5 +1,7 @@
 # Intro to storage hygiene
 
+_<mark style="color:green;">This content will soon be moved to a dedicated sub-site.</mark>_
+
 Introduction to good file management — personal data storage hygiene!&#x20;
 
 Diff between storage and memory

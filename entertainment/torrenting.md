@@ -8,6 +8,12 @@ Or, I <mark style="color:yellow;">can't stop you</mark> doing things, so it's <m
 
 _<mark style="color:purple;">If only our governments thought this way too.</mark>_
 
+{% hint style="danger" %}
+<mark style="color:red;">**DO NOT TORRENT UNLESS YOU KNOW HOW TO FIGHT VIRUSES, MALWARE AND ACCOUNT HACKERS.**</mark>
+
+<mark style="color:orange;">**YOU HAVE BEEN WARNED.**</mark>
+{% endhint %}
+
 ## Contents
 
 1. [#what-is-torrenting](torrenting.md#what-is-torrenting "mention")
