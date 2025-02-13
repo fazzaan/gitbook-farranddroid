@@ -88,15 +88,19 @@
 
 ## Decentralization
 
-* [Decentralized Tech](decentralization/decentralised-tech/README.md)
-  * [Nostr Protocol](decentralization/decentralised-tech/nostr-protocol.md)
-  * [Swarm / EthSwarm](decentralization/decentralised-tech/swarm-ethswarm.md)
-  * [IPFS](decentralization/decentralised-tech/ipfs.md)
-* [Decentralized communication](decentralization/decentralized-communication/README.md)
-  * [Nostr Network](decentralization/decentralized-communication/nostr-network.md)
-  * [Matrix.org](decentralization/decentralized-communication/matrix.org.md)
-* [Decentralization projects](decentralization/decentralization-projects/README.md)
-  * [DeBoot — cloud OS booting](decentralization/decentralization-projects/deboot-cloud-os-booting.md)
+* [Communication networks](decentralization/communication-networks/README.md)
+  * [Nostr Network](decentralization/communication-networks/nostr-network.md)
+* [Technical information](decentralization/technical-information/README.md)
+  * [How does "decentralization" work?](decentralization/technical-information/how-does-decentralization-work.md)
+  * [Network infrastructure](decentralization/technical-information/network-infrastructure.md)
+* [Projects using decentralized networking](decentralization/projects-using-decentralized-networking/README.md)
+  * [IPFS](decentralization/projects-using-decentralized-networking/ipfs.md)
+  * [Nostr Protocol](decentralization/projects-using-decentralized-networking/nostr-protocol.md)
+  * [DeBoot — cloud OS booting](decentralization/projects-using-decentralized-networking/deboot-cloud-os-booting.md)
+  * [Swarm / EthSwarm](decentralization/projects-using-decentralized-networking/swarm-ethswarm.md)
+* [Ones to avoid](decentralization/ones-to-avoid/README.md)
+  * [Matrix.org](decentralization/ones-to-avoid/matrix.org.md)
+  * [Abandonware](decentralization/ones-to-avoid/abandonware.md)
 
 ## File Management main site
 

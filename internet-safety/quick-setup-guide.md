@@ -254,7 +254,7 @@ p
 
 ### Decentralized communications
 
-_Learn more details on_ 📄[decentralized-communication](../decentralization/decentralized-communication/ "mention").&#x20;
+_Learn more details on_ 📄[communication-networks](../decentralization/communication-networks/ "mention").&#x20;
 
 p
 
