@@ -13,17 +13,17 @@ If you something to be explained more clearly, you are more than welcome to mess
 {% hint style="warning" %}
 If you appreciate my work on these GitBook websites and want to support me, you can follow my other accounts on social media, and you can buy me a coffee, or a coconut!&#x20;
 
-Visit my [LinkTree](https://linktr.ee/fazzaan) page to see all my social media channels.
+Visit my [https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/support-me](https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/support-me "mention") page to donate so that I can keep working on these things!
 
-Visit [BuyMeACoffee.com/farran](https://buymeacoffee.com/farran) to send me money.
+Visit my [https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/store-free](https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/store-free "mention") to buy my digital products if you prefer exchange than donation. (You can also download everything for free, and donate what you want!)&#x20;
+
+Visit my [LinkTree](https://linktr.ee/fazzaan) website to see all my social media channels.
 
 I pour my heart and soul into these websites because I want to share the knowledge I've discovered and compiled from throughout my life, because it has helped me grow and learn to love life, learn how to heal, learn how to learn and how to overcome struggles. I can't, and don't want to, monetise this information, so I create it and release it freely. If it benefits you and you can afford to, please consider supporting my work 😊
 {% endhint %}
 
-I'm often asked,
 
-<mark style="color:red;">“Why are there 2 Ds in ‘</mark>_<mark style="color:red;">farranddroid</mark>_<mark style="color:red;">’?”</mark>
-
-I tried to merge "Farran" and "Android" but, unsurprisingly, Google have trademarked the word "Android" and also disallowed the creation of any Gmail addresses with "android" in them. (This is sensible as it prevents spoofing and phishing etc.) Therefore, I added another ‘d’, for "and":
 
 Farran + And + Droid → Farr And Droid → **FarrAndDroid**&#x20;
+
+_I tried to merge "Farran" and "Android" but, unsurprisingly, Google have trademarked the word "Android" and also disallowed the creation of any Gmail addresses with "android" in them. (This is sensible as it prevents spoofing and phishing etc.) Therefore, I added another ‘d’, for "and"._

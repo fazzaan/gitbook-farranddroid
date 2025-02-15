@@ -50,7 +50,9 @@
 
 ## Application setup
 
+* [My Recommended Apps](application-setup/my-recommended-apps.md)
 * [Application setup](application-setup/application-setup.md)
+* [Portable apps](application-setup/portable-apps.md)
 * [Getting the apps you need](application-setup/getting-the-apps-you-need.md)
 * [Popular apps for purposes](application-setup/popular-apps-for-purposes.md)
 * [Underrated useful apps](application-setup/underrated-useful-apps.md)
