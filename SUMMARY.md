@@ -123,4 +123,4 @@
 
 ## External resources
 
-* [Page 1](external-resources/page-1.md)
+* [Guides](external-resources/page-1.md)
