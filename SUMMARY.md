@@ -50,13 +50,13 @@
 
 ## Application setup
 
-* [My Recommended Apps](application-setup/my-recommended-apps.md)
-* [Application setup](application-setup/application-setup.md)
+* [Recommended Apps](application-setup/recommended-apps/README.md)
+  * [Popular apps for purposes](application-setup/recommended-apps/popular-apps-for-purposes.md)
+  * [Underrated useful apps](application-setup/recommended-apps/underrated-useful-apps.md)
+* [Application setup](application-setup/application-setup/README.md)
+  * [Getting the apps you need](application-setup/application-setup/getting-the-apps-you-need.md)
+  * [Configuring large, complex apps](application-setup/application-setup/configuring-large-complex-apps.md)
 * [Portable apps](application-setup/portable-apps.md)
-* [Getting the apps you need](application-setup/getting-the-apps-you-need.md)
-* [Popular apps for purposes](application-setup/popular-apps-for-purposes.md)
-* [Underrated useful apps](application-setup/underrated-useful-apps.md)
-* [Configuring large, complex apps](application-setup/configuring-large-complex-apps.md)
 
 ## Web Browser Setup
 

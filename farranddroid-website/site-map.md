@@ -1,6 +1,6 @@
 # Site map
 
-_<mark style="color:blue;">This website focusses on Windows and Web browsing. I will make separate websites for Android and Linux later.</mark>_
+_<mark style="color:blue;">This website focusses on Windows and Web browsing. I will make separate websites for Android and Linux later. I don't use macOS regularly but I might create a few pages of my usage methods.</mark>_
 
 There's a lot of info on here.&#x20;
 
@@ -8,9 +8,7 @@ Firstly, you can use <mark style="color:yellow;">`Ctrl+K`</mark> or <mark style=
 
 ## Main Sections
 
-* [Setting up a computer to be useable and useful ↴](site-map.md#setting-up-a-computer-to-be-useable-and-useful)&#x20;
-* [Typing tips ↴](site-map.md#typing-tips)&#x20;
-* [Becoming a "power user" ↴](site-map.md#becoming-a-power-user) — shortcuts, gestures, etc
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><em>Design your technological life</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Set up Windows to work well and remove bloat</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimize your Windows use</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Recommended apps, and set-up guides</em> </td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimizing your web browser for security and functionality</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Privacy, security, shielding yourself and your devices</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Censorship-resistant communication methods</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>soon to be relocated to a separate subsite</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Getting &#x26; storing media, and streaming it locally within your home network</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Websites that I recommend you read &#x26; learn from</em></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 
 
@@ -62,10 +60,10 @@ Click each item below to expand. <mark style="color:yellow;">**↓**</mark>
 
 Introduction to [Broken link](broken-reference "mention").
 
-* [getting-the-apps-you-need.md](../application-setup/getting-the-apps-you-need.md "mention") in the first place
-* [popular-apps-for-purposes.md](../application-setup/popular-apps-for-purposes.md "mention")
-* [underrated-useful-apps.md](../application-setup/underrated-useful-apps.md "mention")
-* [configuring-large-complex-apps.md](../application-setup/configuring-large-complex-apps.md "mention") (e.g. performance settings in Photoshop)
+* [getting-the-apps-you-need.md](../application-setup/application-setup/getting-the-apps-you-need.md "mention") in the first place
+* [popular-apps-for-purposes.md](../application-setup/recommended-apps/popular-apps-for-purposes.md "mention")
+* [underrated-useful-apps.md](../application-setup/recommended-apps/underrated-useful-apps.md "mention")
+* [configuring-large-complex-apps.md](../application-setup/application-setup/configuring-large-complex-apps.md "mention") (e.g. performance settings in Photoshop)
 
 </details>
 
@@ -105,69 +103,6 @@ Introduction to [Broken link](broken-reference "mention").
 * [where-should-i-store-different-types-of-files.md](../file-management-main-site/where-should-i-store-different-types-of-files.md "mention")
   * Long-term vs short-term files and what type of hard drive to put them on
   * Shortest term: scratch disks (apps like Photoshop), pagefile.sys, swap space
-
-</details>
-
-
-
-## Typing tips
-
-* [Broken link](broken-reference "mention")&#x20;
-* [Broken link](broken-reference "mention")&#x20;
-* [Broken link](broken-reference "mention")&#x20;
-* [Broken link](broken-reference "mention")&#x20;
-* [Broken link](broken-reference "mention") for other languages and scripts
-* [Broken link](broken-reference "mention")
-
-
-
-## Becoming a “power user”
-
-Introduction to [Broken link](broken-reference "mention") → [Broken link](broken-reference "mention").
-
-<details>
-
-<summary>Keyboard shortcuts </summary>
-
-[Broken link](broken-reference "mention") introduction
-
-* [Broken link](broken-reference "mention")&#x20;
-* [Broken link](broken-reference "mention")&#x20;
-* [Broken link](broken-reference "mention")&#x20;
-
-</details>
-
-<details>
-
-<summary>Touchpad gestures</summary>
-
-[Broken link](broken-reference "mention")
-
-</details>
-
-<details>
-
-<summary>Window manager features</summary>
-
-* Tiling windows
-* Virtual desktops
-*
-
-</details>
-
-<details>
-
-<summary>Dual screens</summary>
-
-* Unusual multi-screen solutions (using a phone/tablet as the second monitor)
-
-</details>
-
-<details>
-
-<summary>Apps for power users</summary>
-
-
 
 </details>
 
