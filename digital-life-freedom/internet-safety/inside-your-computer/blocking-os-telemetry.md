@@ -1,0 +1,2 @@
+# Blocking OS telemetry
+
