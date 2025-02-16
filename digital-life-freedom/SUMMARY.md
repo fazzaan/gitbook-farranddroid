@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## Internet Safety
 
-* [Internet Safety overview](internet-safety/overview.md)
+* [Internet Safety overview](README.md)
 * [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age/README.md)
   * [Information about surveillance](internet-safety/safety-in-the-surveillance-age/information-about-surveillance.md)
 * [Quick Setup Guides](internet-safety/quick-setup-guide.md)
