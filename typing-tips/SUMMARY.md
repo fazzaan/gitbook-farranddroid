@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Typing Tips](README.md)
 * [Methods](methods/README.md)
   * [1. Home Keys method](methods/home-keys-method.md)
   * [2. Rhythmic training](methods/rhythmic-method.md)
