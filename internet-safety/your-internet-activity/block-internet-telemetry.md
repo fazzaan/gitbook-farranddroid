@@ -1,2 +1,0 @@
-# Block Internet telemetry
-

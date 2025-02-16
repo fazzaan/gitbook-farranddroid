@@ -1,2 +1,0 @@
-# How does "decentralization" work?
-

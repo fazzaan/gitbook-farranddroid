@@ -46,7 +46,7 @@ Download from their homepage (Binisoft) — [https://www.binisoft.org/wfc](https
 
 
 
-**SimpleWall** — _there is also a fork that I need to check out_. Setting it up is pretty simple, although there's some things to configure, so read my guide ( [firewalls.md](../../internet-safety/inside-your-computer/firewalls.md "mention") → [quick-setup-guide.md](../../internet-safety/quick-setup-guide.md "mention") ) and also search for information online yourself!
+**SimpleWall** — _there is also a fork that I need to check out_. Setting it up is pretty simple, although there's some things to configure, so read my guide ( [Broken link](broken-reference "mention") → [Broken link](broken-reference "mention") ) and also search for information online yourself!
 
 Download from GitHub — [https://github.com/henrypp/simplewall](https://github.com/henrypp/simplewall)&#x20;
 

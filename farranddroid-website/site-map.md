@@ -8,7 +8,15 @@ Firstly, you can use <mark style="color:yellow;">`Ctrl+K`</mark> or <mark style=
 
 ## Main Sections
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><em>Design your technological life</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Set up Windows to work well and remove bloat</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimize your Windows use</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Recommended apps, and set-up guides</em> </td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimizing your web browser for security and functionality</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Privacy, security, shielding yourself and your devices</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Censorship-resistant communication methods</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>soon to be relocated to a separate subsite</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Getting &#x26; storing media, and streaming it locally within your home network</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Websites that I recommend you read &#x26; learn from</em></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><em>Design your technological life</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Set up Windows to work well and remove bloat</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimize your Windows use</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Recommended apps, and set-up guides</em> </td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimizing your web browser for security and functionality</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>soon to be relocated to a separate subsite</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Getting &#x26; storing media, and streaming it locally within your home network</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Websites that I recommend you read &#x26; learn from</em></td></tr><tr><td></td><td></td></tr></tbody></table>
+
+## Other tech support sub sites
+
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-type="content-ref"></th><th></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/">Digital Life Freedom</a></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/internet-safety">Internet Safety</a></td><td><em>Privacy, security, shielding yourself and your devices</em></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/decentralization">Decentralization</a></td><td><em>Censorship-resistant communication methods</em></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/gumdVstDjfg97ryYDFqd/">Typing Tips</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/qA7gVdU3GXPI3OOuI1Ep/">Power User</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/52ZBaMLs5j9jIx6jPZE4/">File Management</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/RoagBu006ype0QfSIBD3/">Android</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/dReyb7SQDRqnv8dfJBKn/">Linux</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/PGFhTwaf64W6DvNZMIq3/">Programming</a></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
+
+
 
 
 
@@ -82,12 +90,12 @@ Introduction to [Broken link](broken-reference "mention").
 
 <summary>Internet safety — and <mark style="color:blue;">Decentralised technologies</mark> </summary>
 
-* [safety-in-the-surveillance-age](../internet-safety/safety-in-the-surveillance-age/ "mention")&#x20;
-* [projects-using-decentralized-networking](../decentralization/projects-using-decentralized-networking/ "mention")&#x20;
-  * [nostr-protocol.md](../decentralization/projects-using-decentralized-networking/nostr-protocol.md "mention")
+* [Broken link](broken-reference "mention")&#x20;
+* [Broken link](broken-reference "mention")&#x20;
+  * [Broken link](broken-reference "mention")
   * cloud booting OS — swarm, deboot
   * file storage&#x20;
-* [dns-to-get-around-blocks.md](../internet-safety/internet-connectivity/dns-to-get-around-blocks.md "mention") — circumventing simple website blocks when your government is a bit stupid and technologically inept&#x20;
+* [Broken link](broken-reference "mention") — circumventing simple website blocks when your government is a bit stupid and technologically inept&#x20;
 
 </details>
 
