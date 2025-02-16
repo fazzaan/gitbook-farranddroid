@@ -66,14 +66,6 @@
 * [Passwords & security](web-browser-setup/passwords-and-security.md)
 * [Alternatives search engines to Google & Bing](web-browser-setup/alternatives-to-google-and-bing.md)
 
-## File Management main site
-
-* [Intro to storage hygiene](file-management-main-site/intro-to-storage-hygiene.md)
-* [Monitoring storage usage](file-management-main-site/monitoring-storage-usage.md)
-* [Sync & backup files](file-management-main-site/sync-and-backup-files.md)
-* [Folder hierarchy and file naming](file-management-main-site/folder-hierarchy-and-file-naming.md)
-* [Where should I store different types of files?](file-management-main-site/where-should-i-store-different-types-of-files.md)
-
 ## Entertainment
 
 * [Contents](entertainment/contents.md)

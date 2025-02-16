@@ -6,13 +6,13 @@ There's a lot of info on here.&#x20;
 
 Firstly, you can use <mark style="color:yellow;">`Ctrl+K`</mark> or <mark style="color:yellow;">`⌘+K`</mark> to invoke the Search box.
 
-## Main Sections
+## Main Sections of this site
 
 <table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><em>Design your technological life</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Set up Windows to work well and remove bloat</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimize your Windows use</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Recommended apps, and set-up guides</em> </td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimizing your web browser for security and functionality</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>soon to be relocated to a separate subsite</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Getting &#x26; storing media, and streaming it locally within your home network</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Websites that I recommend you read &#x26; learn from</em></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 ## Other tech support sub sites
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-type="content-ref"></th><th></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/">Digital Life Freedom</a></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/internet-safety">Internet Safety</a></td><td><em>Privacy, security, shielding yourself and your devices</em></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/decentralization">Decentralization</a></td><td><em>Censorship-resistant communication methods</em></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/gumdVstDjfg97ryYDFqd/">Typing Tips</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/qA7gVdU3GXPI3OOuI1Ep/">Power User</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/52ZBaMLs5j9jIx6jPZE4/">File Management</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/RoagBu006ype0QfSIBD3/">Android</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/dReyb7SQDRqnv8dfJBKn/">Linux</a></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/PGFhTwaf64W6DvNZMIq3/">Programming</a></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/">Digital Life Freedom</a></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/">Internet Safety</a></td><td><em>Privacy, security, shielding yourself and your devices</em></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/">Digital Life Freedom</a></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/decentralization">Decentralization</a></td><td><em>Censorship-resistant communication methods</em></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/gumdVstDjfg97ryYDFqd/">Typing Tips</a></td><td></td><td><em>Typing faster makes it easier to get your thoughts out before you forget</em></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/qA7gVdU3GXPI3OOuI1Ep/">Power User</a></td><td></td><td><em>How to use your computer like a pro! Shortcuts, customisations, and more</em></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/52ZBaMLs5j9jIx6jPZE4/">File Management</a></td><td></td><td>Learn some good ways to organise &#x26; protect your files</td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/PGFhTwaf64W6DvNZMIq3/">Programming</a></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/RoagBu006ype0QfSIBD3/">Android</a></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/dReyb7SQDRqnv8dfJBKn/">Linux</a></td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -103,12 +103,12 @@ Introduction to [Broken link](broken-reference "mention").
 
 <summary>File management — sync, space, etc</summary>
 
-[intro-to-storage-hygiene.md](../file-management-main-site/intro-to-storage-hygiene.md "mention") — good management of files and personal data; difference between data storage (disks: HDDs, SSDs, flash, etc) and memory (RAM)
+[Broken link](broken-reference "mention") — good management of files and personal data; difference between data storage (disks: HDDs, SSDs, flash, etc) and memory (RAM)
 
-* [monitoring-storage-usage.md](../file-management-main-site/monitoring-storage-usage.md "mention") — windirstat \&simlr
-* [sync-and-backup-files.md](../file-management-main-site/sync-and-backup-files.md "mention") — Backup, sync, file streaming — reasons, services, pros & cons
-* [folder-hierarchy-and-file-naming.md](../file-management-main-site/folder-hierarchy-and-file-naming.md "mention") — Making it easier to find your files in the future
-* [where-should-i-store-different-types-of-files.md](../file-management-main-site/where-should-i-store-different-types-of-files.md "mention")
+* [Broken link](broken-reference "mention") — windirstat \&simlr
+* [Broken link](broken-reference "mention") — Backup, sync, file streaming — reasons, services, pros & cons
+* [Broken link](broken-reference "mention") — Making it easier to find your files in the future
+* [Broken link](broken-reference "mention")
   * Long-term vs short-term files and what type of hard drive to put them on
   * Shortest term: scratch disks (apps like Photoshop), pagefile.sys, swap space
 
