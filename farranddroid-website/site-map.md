@@ -82,7 +82,7 @@ Introduction to [Broken link](broken-reference "mention").
 
 <summary>Internet safety — and <mark style="color:blue;">Decentralised technologies</mark> </summary>
 
-* [safety-in-the-surveillance-age.md](../internet-safety/safety-in-the-surveillance-age.md "mention")&#x20;
+* [safety-in-the-surveillance-age](../internet-safety/safety-in-the-surveillance-age/ "mention")&#x20;
 * [projects-using-decentralized-networking](../decentralization/projects-using-decentralized-networking/ "mention")&#x20;
   * [nostr-protocol.md](../decentralization/projects-using-decentralized-networking/nostr-protocol.md "mention")
   * cloud booting OS — swarm, deboot

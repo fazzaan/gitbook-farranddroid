@@ -6,10 +6,12 @@ _Modern issues in a technologically hyper-interconnected age._
 * surveillance tyranny — your government is not your friend
 * data theft — your private data can be ransomed and sold
 * account theft — your account logins can be ransomed and sold
+* centralization — all your data belong to enormous companies, who sell it and give it to the govts
+  * learn about decentralization in a dedicated section: [Broken link](broken-reference "mention")&#x20;
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="safety-in-the-surveillance-age.md">safety-in-the-surveillance-age.md</a></td></tr><tr><td></td><td><a href="quick-setup-guide.md">quick-setup-guide.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="safety-in-the-surveillance-age/">safety-in-the-surveillance-age</a></td></tr><tr><td><a href="quick-setup-guide.md">quick-setup-guide.md</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="inside-your-computer/">inside-your-computer</a></td></tr><tr><td></td><td><a href="internet-connectivity/">internet-connectivity</a></td></tr><tr><td></td><td><a href="your-internet-activity/">your-internet-activity</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="inside-your-computer/">inside-your-computer</a></td><td>Firewalls, telemetry, antivirus</td></tr><tr><td><a href="internet-connectivity/">internet-connectivity</a></td><td>DNS, WARP, VPN</td></tr><tr><td><a href="your-internet-activity/">your-internet-activity</a></td><td>Social media, passwords, 2FA, anonymity</td></tr></tbody></table>
 
 ## Full Security Checklist
 

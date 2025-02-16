@@ -69,7 +69,8 @@
 ## Internet Safety
 
 * [Internet Safety overview](internet-safety/overview.md)
-* [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age.md)
+* [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age/README.md)
+  * [Information about surveillance](internet-safety/safety-in-the-surveillance-age/information-about-surveillance.md)
 * [Quick Setup Guide](internet-safety/quick-setup-guide.md)
 * [Inside your computer](internet-safety/inside-your-computer/README.md)
   * [Firewalls](internet-safety/inside-your-computer/firewalls.md)
