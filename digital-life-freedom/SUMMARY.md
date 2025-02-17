@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Intro page (test)](README.md)
+* [Internet Safety overview](README.md)
+* [What do I need, to get started?](what-do-i-need-to-get-started.md)
 
 ## Internet Safety
 
-* [Internet Safety overview](<README (1).md>)
 * [Safety in the Surveillance Age](internet-safety/safety-in-the-surveillance-age/README.md)
   * [Information about surveillance](internet-safety/safety-in-the-surveillance-age/information-about-surveillance.md)
 * [Quick Setup Guides](internet-safety/quick-setup-guide.md)
@@ -16,6 +16,7 @@
     * [MaleficAms & Quasar](internet-safety/inside-your-computer/viruses-and-how-to-fight-them/maleficams-and-quasar.md)
   * [Internet connection killswitch](internet-safety/inside-your-computer/internet-connection-killswitch.md)
 * [Internet connectivity](internet-safety/internet-connectivity/README.md)
+  * [Checking your connection](internet-safety/internet-connectivity/checking-your-connection.md)
   * [DNS to get around blocks](internet-safety/internet-connectivity/dns-to-get-around-blocks.md)
   * [WARP by CloudFlare](internet-safety/internet-connectivity/warp-by-cloudflare.md)
   * [VPN — the only real privacy](internet-safety/internet-connectivity/vpn-the-only-real-privacy.md)
@@ -40,3 +41,7 @@
 * [Ones to avoid](decentralization/ones-to-avoid/README.md)
   * [Matrix.org](decentralization/ones-to-avoid/matrix.org.md)
   * [Abandonware](decentralization/ones-to-avoid/abandonware.md)
+
+## External Resources
+
+* [Guides](external-resources/guides.md)
