@@ -1,4 +1,12 @@
-# Third-party apps
+# Third-party apps (system level)
+
+If you're looking for third-party apps to replace various system functions, visit:
+
+{% content-ref url="../../application-setup/recommended-apps/" %}
+[recommended-apps](../../application-setup/recommended-apps/)
+{% endcontent-ref %}
+
+***
 
 ## For ASUS
 

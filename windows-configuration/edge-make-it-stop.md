@@ -1,5 +1,19 @@
 # Edge: Make It Stop
 
+{% hint style="danger" %}
+ALL Chromium based browsers are now spyware. See _Manifest V3_.&#x20;
+
+Move away from Chromium immediately.
+{% endhint %}
+
+Visit my Digital Life Freedom website to learn the basics of removing surveillance software from your digital technological lifestyle.
+
+{% content-ref url="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/" %}
+[Digital Life Freedom](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/)
+{% endcontent-ref %}
+
+***
+
 Microsoft Edge is basically spyware by this point in time.
 
 That's not to say that all the other browsers aren't.
