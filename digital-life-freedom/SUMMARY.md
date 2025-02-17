@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Internet Safety overview](README.md)
-* [What do I need, to get started?](what-do-i-need-to-get-started.md)
+* [What do I need for getting started?](README.md)
+* [Internet Safety overview](<README (1).md>)
 
 ## Internet Safety
 

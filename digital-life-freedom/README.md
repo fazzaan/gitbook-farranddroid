@@ -1,150 +1,51 @@
-# Internet Safety overview
-
-_Modern issues in a technologically hyper-interconnected age._
-
-* surveillance capitalism — larger than governments. capitalism is the hydra
-* surveillance tyranny — your government is not your friend
-* data theft — your private data can be ransomed and sold
-* account theft — your account logins can be ransomed and sold
-* centralization — all your data belong to enormous companies, who sell it and give it to the govts
-  * learn about decentralization in a dedicated section: [Broken link](broken-reference "mention")&#x20;
-
-<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="internet-safety/safety-in-the-surveillance-age/">safety-in-the-surveillance-age</a></td></tr><tr><td><a href="internet-safety/quick-setup-guide.md">quick-setup-guide.md</a></td></tr></tbody></table>
-
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="internet-safety/inside-your-computer/">inside-your-computer</a></td><td>Firewalls, telemetry, antivirus</td></tr><tr><td><a href="internet-safety/internet-connectivity/">internet-connectivity</a></td><td>DNS, WARP, VPN</td></tr><tr><td><a href="internet-safety/your-internet-activity/">your-internet-activity</a></td><td>Social media, passwords, 2FA, anonymity</td></tr></tbody></table>
-
-## Full Security Checklist
-
-_You need all of these things set up in order to be safe._
-
-_You wouldn't leave your house unlocked, would you?_
-
-Use the Quick Setup Guide to get yourself quickly set up, or scroll down to read a bit about each aspect of online safety.
-
-{% content-ref url="internet-safety/quick-setup-guide.md" %}
-[quick-setup-guide.md](internet-safety/quick-setup-guide.md)
-{% endcontent-ref %}
-
-#### Inside your computer
-
-<details>
-
-<summary>Firewall</summary>
-
-_Learn more details on 🔗📄_ [firewalls.md](internet-safety/inside-your-computer/firewalls.md "mention")
-
-* SimpleWall — [github](https://github.com/henrypp/simplewall)
-* Binisoft MalwareBytes firewall — [homepage](https://www.binisoft.org/wfc)
-* NextDNS — [homepage](https://nextdns.io/) — actually this is a configurable DNS service, so can be used like a firewall
-
-</details>
-
-<details>
-
-<summary>Block OS <a data-footnote-ref href="#user-content-fn-1">telemetry</a></summary>
-
-something in another
-
-</details>
-
-<details>
-
-<summary>Antivirus</summary>
-
-You must not rely solely on _one_ antivirus application; nor should you rely entirely upon antivirus software to protect you.
-
-_Learn more details on_ 📄[antivirus-apps.md](internet-safety/inside-your-computer/antivirus-apps.md "mention")
-
-* Kaspersky Antivirus — you can get a free 30-day trial with each new account. You can make unlimited new accounts by using email aliases.
-* Windows Security isn't too bad these days, it finds most malicious code. You should still use Kaspersky occasionally, and especially if you are suspicious.
-* MalwareBytes seems to be good too. Check it out.
-
-</details>
-
-<details>
-
-<summary>Internet connection killswitch</summary>
-
-Kill your internet connection immediately in case something goes wrong
-
-</details>
-
-#### Internet connection
-
-<details>
-
-<summary>DNS handler — circumvent blocks, control adverts and malware</summary>
-
-circumvent blocks, control adverts and malware
-
-</details>
-
-<details>
-
-<summary><a data-footnote-ref href="#user-content-fn-2">WARP</a> — circumvent blocks and surveillance; _does not hide your location_</summary>
-
-Circumvent blocks and surveillance. _WARP does NOT hide your location._
-
-</details>
-
-<details>
-
-<summary><a data-footnote-ref href="#user-content-fn-3">VPN</a> — circumvent everything. Hides your location and the content of your traffic.</summary>
-
-Circumvent everything. _A VPN hides your location and the content of your traffic._
-
-</details>
-
-#### Internet activities
-
-<details>
-
-<summary>Account security — storing passwords, 2FA codes, security keys (etc) securely</summary>
-
-Storing passwords, 2FA codes, security keys (etc) securely.
-
-</details>
-
-<details>
-
-<summary>Social media privacy</summary>
-
-something in another
-
-</details>
-
-<details>
-
-<summary>Block web browsing telemetry — browser apps and websites collect data about you</summary>
-
-something in another
-
-</details>
-
-<details>
-
-<summary>Decentralised communications — messaging, social media sites</summary>
-
-something in another
-
-</details>
-
-<details>
-
-<summary>Anonymised communications — important if your topics are sensitive</summary>
-
-Sometimes there are things that you need to talk about online which you don't want tied to you.
-
-</details>
-
-[^1]: Measurements of you and your computer usage, that a company collects in order to build a profile of you and your activities, for them to **a)** sell to advertising agencies, and to **b)** measure human behaviour and build a hyper model of humanity, thus reducing us to a fully-predictable set of behaviours.
-
-[^2]: A service by CloudFlare.
-
-    **NOTE THAT THIS IS SIMILAR TO A VPN BUT IT IS&#x20;**_**NOT**_**&#x20;A VPN**.
-
-    WARP hides the contents of your messages (a bit) but does not hide your location.
-
-    **USE A VPN IF YOU NEED TO ACTUALLY HIDE YOUR INTERNET TRAFFIC**.
-
-[^3]: Virtual Private Network. _Paid_ VPNs are secure; they hide your location _and_ the contents of your internet traffic.
+# What do I need, to get started?
+
+## Things to accept:
+
+1. accept that you will need to pay for some things
+2. accept that most services will be less convenient and more awkward
+3. accept that you can never be sure that you have full security and privacy and anonymity and encryption: you should _always_ assume that you might be being watched
+4. accept that you might need to buy new devices that are better supported by what you need
+5. accept that you might have to sacrifice power & convenience by using virtual machines etc.
+
+## Things to get:
+
+### Internet space
+
+* email — encrypted, burnable handles, etc — NOTHING from Google etc
+* calendar solution (i reall don't know)
+* notes service
+* decentralised media — Nostr, etc (BlueSky is not decentralised afaik[^1])
+* federated social media — Mastodon, etc (Meta's Threads _does not count_)
+* encrypted communication methods — no "end to end" shite from mega corporations, that's all blatantly false. Telegram also doesn't count.
+* anonymous communication methods — MUST be paired with VPNs, Tor, etc
+
+### Computer use
+
+* web browser — Firefox etc, NO CHROMIUM-BASED ANYTHING
+* Tor browser if anonymity is required&#x20;
+* firewalls — block connections by default&#x20;
+* VPN&#x20;
+* DNS and/or WARP&#x20;
+* good antivirus&#x20;
+* file storage — local backup, cloud backup if you want — NOT GOOGLE etc
+* safe operating system —&#x20;
+  * no Apple (especially not since their latest M CPUs with crazy undetectable memory access security issues)
+  * no Windows unless you manage to find sane & up-to-date guides on how to disable all the spyware and telemetry — this seems to be possible, especially if you're running a stripped-down version of Windows or have tight firewall configurations
+  * no Linux that has been tainted by corporate fingers (Ubuntu/Canonical are suspicious)&#x20;
+  * Linux distros like _Tails_ are probably best for anonymity, but aren't idel as daily drivers. Most _Tails_ users just boot it up as and when required. (Actually this is best practice anyway.)&#x20;
+* F/OSS apps for your personal & work life, such as office, desktop publishing, graphic editing, etc. All the proprietary apps are closed-source, so you _cannot_ know what information they are collecting about you and your devices, nor who they're giving/selling it to.
+
+### Phone use
+
+* no iphone. I'm dead serious.
+* No stock Android. Research first, choose a phone that has a stable and well-supported AOSP ROM, then install your chosen ROM to replace the stock ROM on your phone. (Follow the instructions and read the recent forum posts, else you may brick your phone.)&#x20;
+* Keep your phone in aeroplane mode as much as possible — although idk if this actually disables the mobile radio devices or not
+
+## if you're a programmer, you'll also need:
+
+* code IDE — VSCodium is the exact codebase of VS Code, just without Microsoft's spyware
+* github alternatives — gitlab, bitbucket, etc
+* programming languages that aren't distributed by google etc
+
+[^1]: as far as i know
