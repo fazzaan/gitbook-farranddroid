@@ -1,2 +1,0 @@
-# Popular apps for purposes
-

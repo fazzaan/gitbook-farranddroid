@@ -52,8 +52,10 @@
 ## Application setup
 
 * [Recommended Apps](application-setup/recommended-apps/README.md)
-  * [Popular apps for purposes](application-setup/recommended-apps/popular-apps-for-purposes.md)
-  * [Underrated useful apps](application-setup/recommended-apps/underrated-useful-apps.md)
+  * [User apps](application-setup/recommended-apps/user-apps.md)
+  * [OS apps](application-setup/recommended-apps/os-apps.md)
+  * [Hardware apps](application-setup/recommended-apps/hardware-apps.md)
+  * [Protection apps](application-setup/recommended-apps/protection-apps.md)
 * [Application setup](application-setup/application-setup/README.md)
   * [Getting the apps you need](application-setup/application-setup/getting-the-apps-you-need.md)
   * [Configuring large, complex apps](application-setup/application-setup/configuring-large-complex-apps.md)
