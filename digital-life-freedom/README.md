@@ -1,4 +1,4 @@
-# What do I need, to get started?
+# What do I need for getting started?
 
 ## Things to accept:
 
@@ -13,7 +13,7 @@
 ### Internet space
 
 * email — encrypted, burnable handles, etc — NOTHING from Google etc
-* calendar solution (i reall don't know)
+* calendar solution (i really don't know)
 * notes service
 * decentralised media — Nostr, etc (BlueSky is not decentralised afaik[^1])
 * federated social media — Mastodon, etc (Meta's Threads _does not count_)
@@ -33,7 +33,7 @@
   * no Apple (especially not since their latest M CPUs with crazy undetectable memory access security issues)
   * no Windows unless you manage to find sane & up-to-date guides on how to disable all the spyware and telemetry — this seems to be possible, especially if you're running a stripped-down version of Windows or have tight firewall configurations
   * no Linux that has been tainted by corporate fingers (Ubuntu/Canonical are suspicious)&#x20;
-  * Linux distros like _Tails_ are probably best for anonymity, but aren't idel as daily drivers. Most _Tails_ users just boot it up as and when required. (Actually this is best practice anyway.)&#x20;
+  * Linux distros like _Tails_ are probably best for anonymity, but aren't ideal as daily drivers. Most _Tails_ users just boot it up as and when required. (Actually this is best practice anyway.)&#x20;
 * F/OSS apps for your personal & work life, such as office, desktop publishing, graphic editing, etc. All the proprietary apps are closed-source, so you _cannot_ know what information they are collecting about you and your devices, nor who they're giving/selling it to.
 
 ### Phone use

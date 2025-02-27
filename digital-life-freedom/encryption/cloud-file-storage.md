@@ -37,4 +37,13 @@ Proton Drive is zero-knowledge encrypted, but there's no Linux sync app.
 3. proton company is being an ass and is blocking rclone, so you must set `--protondrive-app-version "macos-drive@1.0.0-alpha.1"` when connecting
 4. [proton's _own_ Sentinel service must be disabled](https://account.proton.me/mail/security), at least for initial connection
 5. proton's own VPN seems to be blocked (ymmv)
+6. continue following the setup instructions on rclone's website
+
+### Sync on Windows
+
+Proton has their own sync app for Windows (although ironically it identifies itself as the MacOS client).
+
+It uses Windows's own cloud file system API, so it shows cloud sync status in File Explorer automatically, and it deletes local copies of files that you haven't used for a while. You can also right click on a file or folder and choose "Always keep on this device" or "Free up space".
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
