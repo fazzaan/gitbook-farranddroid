@@ -33,7 +33,7 @@ Anyway, where there's a will, there's a way:
 Proton Drive is zero-knowledge encrypted, but there's no Linux sync app.
 
 1. follow setup instructions on [https://rclone.org/protondrive](https://rclone.org/protondrive)&#x20;
-2. in the command-line setup process, paste your password with <mark style="color:orange;">`Ctrl+SHIFT+V`</mark>.
+2. in the command-line setup process, paste your password with <mark style="color:orange;">`Ctrl`</mark><mark style="color:orange;">+</mark><mark style="color:orange;">`SHIFT`</mark><mark style="color:orange;">+</mark><mark style="color:orange;">`V`</mark>.
 3. current 2FA must be included with `--protondrive-2fa=XXXXXX`
 4. proton company is being an ass and is blocking rclone, so you must set `--protondrive-app-version "macos-drive@1.0.0-alpha.1"` when connecting
 5. [proton's _own_ Sentinel service must be disabled](https://account.proton.me/mail/security), at least for initial connection
