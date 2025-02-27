@@ -6,6 +6,14 @@ I hope anything on it can support you somehow!
 
 If you something to be explained more clearly, you are more than welcome to message me about it. I'll explain it in a different way, and maybe that explanation will replace the one currently on this site.
 
+The <mark style="color:red;">most important site in this space is about digital life safety</mark> — evading surveillance & telemetry, encryption, decentralisation, VPNs, firewalls & antivirus:
+
+{% content-ref url="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/" %}
+[Digital Life Freedom](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/)
+{% endcontent-ref %}
+
+For a detailed map of this whole website, visit the site map:
+
 {% content-ref url="farranddroid-website/site-map.md" %}
 [site-map.md](farranddroid-website/site-map.md)
 {% endcontent-ref %}
