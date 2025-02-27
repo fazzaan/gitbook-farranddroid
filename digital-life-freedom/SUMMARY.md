@@ -26,6 +26,15 @@
   * [Account security — passwords, 2FA, keys, etc.](internet-safety/your-internet-activity/account-security-passwords-2fa-keys-etc..md)
   * [Anonymized communications](internet-safety/your-internet-activity/anonymized-communications.md)
 
+## Encryption
+
+* [About encryption](encryption/about.md)
+* [Cloud file storage](encryption/cloud-file-storage.md)
+
+***
+
+* [Messaging](messaging.md)
+
 ## Decentralization
 
 * [Communication networks](decentralization/communication-networks/README.md)

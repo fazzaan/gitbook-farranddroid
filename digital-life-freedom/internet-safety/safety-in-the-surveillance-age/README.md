@@ -1,18 +1,20 @@
 # Safety in the Surveillance Age
 
-This level of surveillance has never existed _in human history_. (Note that that does not mean that it hasn't happened before.)&#x20;
+This level of surveillance has never existed _in human history_. (Note that that does not mean that it hasn't happened before.)
 
-What is happening today should surprise literally no-one, because these ideas are not new, and the technology has been more than capable of such things for probably more than twenty years.&#x20;
+What is happening today should surprise literally no-one, because these ideas are not new, and the technology has been more than capable of such things for probably more than twenty years.
 
 Except now, it is being put into play.
 
-And you could reflect on the last few years (2019-2024) and ask yourself quite how coincidentally convenient it was that such events required such measures. _Measures such as what, are you alluding to, o writer?_&#x20;
+And you could reflect on the last few years (2019-2024) and ask yourself quite how coincidentally convenient it was that such events required such measures. _Measures such as what, are you alluding to, o writer?_
 
-Anyhow, to shortcut a long discourse, we need to be using&#x20;
+Anyhow, to shortcut a long discourse, we need to be using
 
-a) **encrypted** tech&#x20;
+a) **encrypted** tech
 
-b) **anonymising** tech&#x20;
+\\/ encrypted tech solutions page here&#x20;
+
+b) **anonymising** tech
 
 c) **DECENTRALIZED** TECH.
 
@@ -24,6 +26,6 @@ Read on to learn more.
 [projects-using-decentralized-networking](../../decentralization/projects-using-decentralized-networking/)
 {% endcontent-ref %}
 
-Watch some videos by Rob Braxman about the tendrils of surveillance that permeate our existence.&#x20;
+Watch some videos by Rob Braxman about the tendrils of surveillance that permeate our existence.
 
 *
