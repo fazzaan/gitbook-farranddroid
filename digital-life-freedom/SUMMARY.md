@@ -54,3 +54,4 @@
 ## External Resources
 
 * [Guides](external-resources/guides.md)
+* [Articles](external-resources/articles.md)

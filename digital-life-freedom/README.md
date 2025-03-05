@@ -2,11 +2,12 @@
 
 ## Things to accept:
 
-1. accept that you will need to pay for some things
-2. accept that most services will be less convenient and more awkward
-3. accept that you can never be sure that you have full security and privacy and anonymity and encryption: you should _always_ assume that you might be being watched
-4. accept that you might need to buy new devices that are better supported by what you need
+1. accept that you will need to pay for some things.
+2. accept that most services will be less convenient and more awkward.
+3. accept that you can never be sure that you have full security and privacy and anonymity and encryption: you should _always_ assume that you might be being watched.
+4. accept that you might need to buy new devices that are better supported by what you need.
 5. accept that you might have to sacrifice power & convenience by using virtual machines etc.
+6. accept that you will probably need to change vendors at least twice in your privacy & security.
 
 ## Things to get:
 
