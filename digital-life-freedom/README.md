@@ -9,6 +9,11 @@
 5. accept that you might have to sacrifice power & convenience by using virtual machines etc.
 6. accept that you will probably need to change vendors at least twice in your privacy & security.
 
+## Principles:
+
+1. "**As Much As Reasonably Possible**". Follow the concept of "harm reduction" — don't go for the "all or nothing" approach — if there are some things that you must use, use them. It's better that some/most of your activities are through secure channels than none. If you need Google Drive & Docs & Sheets (etc) and can't find a good alternative then use them.
+2. "**Zero Trust**". Many companies offer encrypted storage (etc.), but your data is encrypted using _their_ platform. Your data might be safe from hackers, but the company themselves hold the encryption key and they _will_ relinquish control of the key and your data if ordered to do so. **Zero Trust** is when you encrypt your data for yourself _**before**_ uploading it to someone else's server, that way the server company cannot decrypt your data even if a govt or military demand it. (Do be aware that LLMs \[AI] has already worked out how to decrypt 56-bit encryption, although I just went to research this and either the search engines are suppressing it or the news was fake or I was dreaming...)
+
 ## Things to get:
 
 ### Internet space

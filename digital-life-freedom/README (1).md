@@ -8,6 +8,7 @@ _Modern issues in a technologically hyper-interconnected age._
 * account theft — your account logins can be ransomed and sold
 * centralization — all your data belong to enormous companies, who sell it and give it to the govts
   * learn about decentralization in a dedicated section: [Broken link](broken-reference "mention")&#x20;
+* Remember that anything you do that could be a threat to capitalism can & probably will be deemed a t\*\*\*\*\*ist threat, either now or some day when you gather enough momentum.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="internet-safety/safety-in-the-surveillance-age/">safety-in-the-surveillance-age</a></td></tr><tr><td><a href="internet-safety/quick-setup-guide.md">quick-setup-guide.md</a></td></tr></tbody></table>
 
@@ -137,7 +138,7 @@ Sometimes there are things that you need to talk about online which you don't wa
 
 </details>
 
-[^1]: Measurements of you and your computer usage, that a company collects in order to build a profile of you and your activities, for them to **a)** sell to advertising agencies, and to **b)** measure human behaviour and build a hyper model of humanity, thus reducing us to a fully-predictable set of behaviours.
+[^1]: Measurements of you and your computer usage, that a company collects in order to build a profile of you and your activities, for them to a) sell to advertising agencies, and to b) measure human behaviour and build a hyper model of humanity, thus reducing us to a fully-predictable set of behaviours.
 
 [^2]: A service by CloudFlare.
 
