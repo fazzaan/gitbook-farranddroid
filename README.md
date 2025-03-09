@@ -4,13 +4,15 @@
 
 I hope anything on it can support you somehow!
 
-If you something to be explained more clearly, you are more than welcome to message me about it. I'll explain it in a different way, and maybe that explanation will replace the one currently on this site.
-
-The <mark style="color:red;">most important site in this space is about digital life safety</mark> — evading surveillance & telemetry, encryption, decentralisation, VPNs, firewalls & antivirus:
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">If you something to be explained more clearly, you are more than welcome to message me about it. I'll explain it in a different way, and maybe that explanation will replace the one currently on this site.</td><td valign="top">The <mark style="color:red;">most important site in this space is about digital life safety</mark> — evading surveillance &#x26; telemetry, encryption, decentralisation, VPNs, firewalls &#x26; antivirus:</td></tr></tbody></table>
 
 {% content-ref url="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/" %}
 [Digital Life Freedom](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/)
 {% endcontent-ref %}
+
+### Other tech support sub sites <a href="#other-tech-support-sub-sites" id="other-tech-support-sub-sites"></a>
+
+
 
 For a detailed map of this whole website, visit the site map:
 
