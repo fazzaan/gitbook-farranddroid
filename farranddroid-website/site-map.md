@@ -16,10 +16,6 @@ Firstly, you can use <mark style="color:yellow;">`Ctrl+K`</mark> or <mark style=
 
 
 
-
-
-
-
 ## Setting up a computer to be useable and useful
 
 Click each item below to expand. <mark style="color:yellow;">**↓**</mark>
