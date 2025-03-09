@@ -1,8 +1,10 @@
 # My setup (Windows)
 
+_Finally, intuitive **and** useful touchpad gestures on Windows, akin to MacOS._
+
 I have customized my touchpad gesture shortcuts entirely in Windows. You can achieve this in both Windows 10 and Windows 11. The gestures are not identical to MacOS — actually, we can do some actions that aren't even possible in MacOS — but the gestures are intuitive and more useful than the default Windows gestures.
 
-First of all you need to open the [Windows **Settings** app](ms-settings:devices-touchpad). Go to **Bluetooth & devices**, and choose **Touchpad**. In the **Related settings** section, choose **Advanced gestures**.
+First of all you need to open the [💻 Windows **Settings** app](ms-settings:devices-touchpad). Go to **Bluetooth & devices**, and choose **Touchpad**. In the **Related settings** section, choose **Advanced gestures**.
 
 <figure><picture><source srcset="../.gitbook/assets/image (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image.png" alt=""></picture><figcaption></figcaption></figure>
 
@@ -20,6 +22,12 @@ I also set the three-finger swipes to activate the window snapping shortcuts:
 * `🪟`+`➡️` on swipe right, to snap a window to the right.
 
 _It is better to use **custom shortcut** for these functions than to use the in-built options from the lists._
+
+* Choose **Custom shortcut**.&#x20;
+* Click **Start recording**.
+* Press the keyboard shortcut sequence that does the desired action.
+* Click **Stop recording**.
+* Done!
 
 <figure><picture><source srcset="../.gitbook/assets/image (2).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (3).png" alt=""></picture><figcaption></figcaption></figure>
 
