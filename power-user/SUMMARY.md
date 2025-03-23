@@ -19,3 +19,7 @@
   * [Linux (GNOME, KDE)](touchpad-gestures/linux-gnome-kde.md)
 * [Window manager features](window-manager-features.md)
 * [Dual screens](dual-screens.md)
+
+## App customizations
+
+* [Word Macros](app-customizations/word-macros.md)
