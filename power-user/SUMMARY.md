@@ -23,3 +23,7 @@
 ## App customizations
 
 * [Word Macros](app-customizations/word-macros.md)
+
+## System customizations
+
+* [PowerToys config](system-customizations/powertoys-config.md)
