@@ -2,19 +2,17 @@
 
 _<mark style="color:blue;">This website focusses on Windows and Web browsing. I will make separate websites for Android and Linux later. I don't use macOS regularly but I might create a few pages of my usage methods.</mark>_
 
-There's a lot of info on here.&#x20;
+There's a lot of info on here.
 
 Firstly, you can use <mark style="color:yellow;">`Ctrl+K`</mark> or <mark style="color:yellow;">`⌘+K`</mark> to invoke the Search box.
 
 ## Main Sections of this site
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td><td><em>Design your technological life</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Set up Windows to work well and remove bloat</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimize your Windows use</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Recommended apps, and set-up guides</em> </td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Optimizing your web browser for security and functionality</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Getting &#x26; storing media, and streaming it locally within your home network</em></td></tr><tr><td><a href="broken-reference">Broken link</a></td><td><em>Websites that I recommend you read &#x26; learn from</em></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference/">broken-reference</a></td><td><em>Design your technological life</em></td></tr><tr><td><a href="broken-reference/">broken-reference</a></td><td><em>Set up Windows to work well and remove bloat</em></td></tr><tr><td><a href="broken-reference/">broken-reference</a></td><td><em>Optimize your Windows use</em></td></tr><tr><td><a href="broken-reference/">broken-reference</a></td><td><em>Recommended apps, and set-up guides</em></td></tr><tr><td><a href="broken-reference/">broken-reference</a></td><td><em>Optimizing your web browser for security and functionality</em></td></tr><tr><td><a href="broken-reference/">broken-reference</a></td><td><em>Getting &#x26; storing media, and streaming it locally within your home network</em></td></tr><tr><td><a href="broken-reference/">broken-reference</a></td><td><em>Websites that I recommend you read &#x26; learn from</em></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 ## Other tech support sub sites
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/">Digital Life Freedom</a></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/internet-safety">Internet Safety</a></td><td><p>🔐</p><p><em>Privacy, security, shielding yourself and your devices</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/">Digital Life Freedom</a></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/decentralization">Decentralization</a></td><td><p>🗣️</p><p><em>Censorship-resistant communication methods</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/gumdVstDjfg97ryYDFqd/">Typing Tips</a></td><td></td><td><p>✒️</p><p><em>Typing faster makes it easier to get your thoughts out before you forget</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/qA7gVdU3GXPI3OOuI1Ep/">Power User</a></td><td></td><td><p>⚡</p><p><em>How to use your computer like a pro! Shortcuts, customisations, and more</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/52ZBaMLs5j9jIx6jPZE4/">File Management</a></td><td></td><td><p>📂</p><p><em>Learn some good ways to organise &#x26; protect your files</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/PGFhTwaf64W6DvNZMIq3/">Programming</a></td><td></td><td><p>💻</p><p> </p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/RoagBu006ype0QfSIBD3/">Android</a></td><td></td><td><p>🤖</p><p> </p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/dReyb7SQDRqnv8dfJBKn/">Linux</a></td><td></td><td><p>🐧</p><p> </p></td></tr></tbody></table>
-
-
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/">Digital Life Freedom</a></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/internet-safety">Internet Safety</a></td><td><p>🔐</p><p><em>Privacy, security, shielding yourself and your devices</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/rM42SLcssAVNZFBbEvpa/">Digital Life Freedom</a></td><td><a href="https://app.gitbook.com/s/rM42SLcssAVNZFBbEvpa/decentralization">Decentralization</a></td><td><p>🗣️</p><p><em>Censorship-resistant communication methods</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/gumdVstDjfg97ryYDFqd/">Typing Tips</a></td><td></td><td><p>✒️</p><p><em>Typing faster makes it easier to get your thoughts out before you forget</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/qA7gVdU3GXPI3OOuI1Ep/">Power User</a></td><td></td><td><p>⚡</p><p><em>How to use your computer like a pro! Shortcuts, customisations, and more</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/52ZBaMLs5j9jIx6jPZE4/">File Management</a></td><td></td><td><p>📂</p><p><em>Learn some good ways to organise &#x26; protect your files</em></p></td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/PGFhTwaf64W6DvNZMIq3/">Programming</a></td><td></td><td>💻</td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/RoagBu006ype0QfSIBD3/">Android</a></td><td></td><td>🤖</td></tr><tr><td><a href="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/dReyb7SQDRqnv8dfJBKn/">Linux</a></td><td></td><td>🐧</td></tr></tbody></table>
 
 ## Setting up a computer to be useable and useful
 
@@ -62,11 +60,11 @@ Click each item below to expand. <mark style="color:yellow;">**↓**</mark>
 
 <summary>Application setup</summary>
 
-Introduction to [Broken link](broken-reference "mention").
+Introduction to [broken-reference](broken-reference/ "mention").
 
 * [getting-the-apps-you-need.md](../application-setup/application-setup/getting-the-apps-you-need.md "mention") in the first place
-* [Broken link](broken-reference "mention")
-* [Broken link](broken-reference "mention")
+* [broken-reference](broken-reference/ "mention")
+* [broken-reference](broken-reference/ "mention")
 * [configuring-large-complex-apps.md](../application-setup/application-setup/configuring-large-complex-apps.md "mention") (e.g. performance settings in Photoshop)
 
 </details>
@@ -84,14 +82,14 @@ Introduction to [Broken link](broken-reference "mention").
 
 <details>
 
-<summary>Internet safety — and <mark style="color:blue;">Decentralised technologies</mark> </summary>
+<summary>Internet safety — and <mark style="color:blue;">Decentralised technologies</mark></summary>
 
-* [Broken link](broken-reference "mention")&#x20;
-* [Broken link](broken-reference "mention")&#x20;
-  * [Broken link](broken-reference "mention")
+* [broken-reference](broken-reference/ "mention")
+* [broken-reference](broken-reference/ "mention")
+  * [broken-reference](broken-reference/ "mention")
   * cloud booting OS — swarm, deboot
-  * file storage&#x20;
-* [Broken link](broken-reference "mention") — circumventing simple website blocks when your government is a bit stupid and technologically inept&#x20;
+  * file storage
+* [broken-reference](broken-reference/ "mention") — circumventing simple website blocks when your government is a bit stupid and technologically inept
 
 </details>
 
@@ -99,18 +97,19 @@ Introduction to [Broken link](broken-reference "mention").
 
 <summary>File management — sync, space, etc</summary>
 
-[Broken link](broken-reference "mention") — good management of files and personal data; difference between data storage (disks: HDDs, SSDs, flash, etc) and memory (RAM)
+[broken-reference](broken-reference/ "mention") — good management of files and personal data; difference between data storage (disks: HDDs, SSDs, flash, etc) and memory (RAM)
 
-* [Broken link](broken-reference "mention") — windirstat \&simlr
-* [Broken link](broken-reference "mention") — Backup, sync, file streaming — reasons, services, pros & cons
-* [Broken link](broken-reference "mention") — Making it easier to find your files in the future
-* [Broken link](broken-reference "mention")
+* [broken-reference](broken-reference/ "mention") — windirstat \&simlr
+* [broken-reference](broken-reference/ "mention") — Backup, sync, file streaming — reasons, services, pros & cons
+* [broken-reference](broken-reference/ "mention") — Making it easier to find your files in the future
+* [broken-reference](broken-reference/ "mention")
   * Long-term vs short-term files and what type of hard drive to put them on
   * Shortest term: scratch disks (apps like Photoshop), pagefile.sys, swap space
 
 </details>
 
+***
 
+## Multi-Site Map
 
-
-
+{% embed url="https://www.figma.com/file/7xdMyj0vRvCEodrOfBzNYu?type=whiteboard&node-id=0%3A1" %}

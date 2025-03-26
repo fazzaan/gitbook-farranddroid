@@ -7,6 +7,15 @@
 * [Site map](farranddroid-website/site-map.md)
 * [Support me](farranddroid-website/support-me.md)
 
+## Common Issues
+
+* [Laggy computer](common-issues/laggy-computer/README.md)
+  * [Solutions](common-issues/laggy-computer/solutions/README.md)
+    * [Set Processor Affinity](common-issues/laggy-computer/solutions/set-processor-affinity.md)
+  * [Reasons](common-issues/laggy-computer/reasons/README.md)
+    * [Always or Randomly](common-issues/laggy-computer/reasons/always-or-randomly.md)
+    * [During video calls](common-issues/laggy-computer/reasons/during-video-calls.md)
+
 ## Principles of Setup
 
 * [Decreasing Distraction](principles-of-setup/decreasing-distraction.md)
