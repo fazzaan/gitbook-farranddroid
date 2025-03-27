@@ -27,3 +27,7 @@
 ## System customizations
 
 * [PowerToys config](system-customizations/powertoys-config.md)
+
+## Hardware Control
+
+* [CPU Control](hardware-control/cpu-control.md)
