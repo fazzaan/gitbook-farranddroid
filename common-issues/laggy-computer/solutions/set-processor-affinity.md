@@ -69,9 +69,9 @@ If this doesn't work, you can try the other two solutions. Remember that they ca
 {% hint style="danger" %}
 ## <mark style="color:red;">YOU HAVE BEEN WARNED!!!</mark>
 
-&#x20;[Power User](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/qA7gVdU3GXPI3OOuI1Ep/ "mention") (main site)
+[Power User](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/qA7gVdU3GXPI3OOuI1Ep/ "mention") (main site)
 
-  → Solution 2: Limit CPU percentage (low-risk)&#x20;
+→ Solution 2: [1 — Limit the CPU utilization percentage](https://app.gitbook.com/s/qA7gVdU3GXPI3OOuI1Ep/hardware-control/cpu-control#limit-the-cpu-utilization-percentage "mention") (low-risk)&#x20;
 
-  → Solution 3: Raise CPU thresholds (high-risk)&#x20;
+→ Solution 3: [2 — Raise the CPU rate-limiting thresholds](https://app.gitbook.com/s/qA7gVdU3GXPI3OOuI1Ep/hardware-control/cpu-control#id-2-raise-the-cpu-rate-limiting-thresholds "mention") (high-risk)&#x20;
 {% endhint %}
