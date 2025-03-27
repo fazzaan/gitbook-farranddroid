@@ -38,6 +38,14 @@ You can also import your browser data from other browsers, so you don't need to 
 Download Firefox here.
 {% endembed %}
 
+### Guide for switching browsers
+
+The primary issue with switching browsers is that you might have tonnes of tabs open, with no way to move them over. Well, fear not! You can use the OneTab extension to transfer your tabs.&#x20;
+
+{% embed url="https://www.ghacks.net/2019/09/27/how-to-import-tabs-from-chrome-to-firefox-and-vice-versa/" %}
+
+{% embed url="https://www.one-tab.com/" %}
+
 
 
 

@@ -28,9 +28,9 @@ To find this, go to:
 Windows Settings → Time & language → Date & time → Additional clocks
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Click "Additional clocks"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Click "Additional clocks"</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Choose the "Internet Time" tab, then click "Change settings..."</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Choose the "Internet Time" tab, then click "Change settings..."</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Select or paste your chosen time server URL, then click "Update now".</p></figcaption></figure>
 
@@ -106,7 +106,7 @@ When the Properties dialog opens, set it to:
 * Run with highest privileges
 * Configure for: Windows 10
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Triggers tab
 
@@ -120,7 +120,7 @@ Set:
 * Delay task for: 30 seconds
 * Enabled
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Press OK to close the window.
 
@@ -130,7 +130,7 @@ Change to the Conditions tab.
 
 Set "Start only if the following network connection is available" to "Any connection", or a specific network of your choice.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Settings tab
 
