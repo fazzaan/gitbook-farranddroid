@@ -31,3 +31,7 @@
 ## Hardware Control
 
 * [CPU Control](hardware-control/cpu-control.md)
+
+## Virtualization
+
+* [Linux on Windows - WSL2](virtualization/linux-on-windows-wsl2.md)
