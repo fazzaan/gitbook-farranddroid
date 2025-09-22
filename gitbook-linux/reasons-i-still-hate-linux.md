@@ -54,4 +54,16 @@ Here is a list of shitty things that STILL DON'T WORK PROPERLY:
 
 * ## MY WIFI IS HALF THE SPEED I GET ON WINDOWS
 
+
+
+* ## CHANGING THEME CAUSES ADMIN-RELATED GTK APPS TO CRASH
+
+
+
+* ## GTK HAS REMOVED CTRL+TAB FOR TAB SWITCHING, REPLACED IT WITH ALT+NUMBER, AND CTRL+TAB MOVES FOCUS SO THAT ALT+NUMBER DOESN'T EVEN WORK
+
+
+
+Do you understand yet why Normal People are never going to use Linux?
+
 [^1]: The Proton compatibility layer developed by/with Valve (Steam), not Proton the digital security services.
