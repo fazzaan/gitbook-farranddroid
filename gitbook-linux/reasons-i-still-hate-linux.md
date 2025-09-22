@@ -6,7 +6,9 @@ _**shut up.**_
 
 
 
-that aside,
+on the light side, I'm also going to use this site as a place to explore & record the solutions that I've found. Needless to say, most of them will probably become out of date and invalid after a few weeks.
+
+**that aside,**
 
 ## Reasons that Linux is Still Shite
 
@@ -69,7 +71,18 @@ Here is a list of shitty things that STILL DON'T WORK PROPERLY:
 
 
 * ## SNAPPED WINDOW GROUPS STILL DON'T EXIST
+
+
+
 * ## GNOME DEVELOPERS KEEP MAKING EXTREMELY OPINIONATED DESIGN CHOICES AND REMOVING USER OPTIONS (like removing the Up button in the Files app)
+
+
+
+* ## MOUSE CURSOR SIZE CANNOT BE INCREASED IN WAYLAND
+
+
+
+* ## SYSTEM EMOJI PICKER PANEL DOESN'T WORK IN CHROME AND OTHER NON-NATIVE UI APPS
 
 
 
