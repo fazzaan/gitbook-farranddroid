@@ -32,3 +32,9 @@ Ignore it if you want middle-click-to-scroll.
 I have NO idea why this isn't enabled by default. It's been in Firefox since I was 8 years old? That's 25 years.
 {% endhint %}
 
+
+
+### Sources
+
+* Reddit/r/linux\_gaming — [Enable Middle Mouse Button Scrolling on Chrome(-ium) and Electron apps (Discord, etc)](https://www.reddit.com/r/linux_gaming/comments/w27h1o/linux_enable_middle_mouse_button_scrolling_on/)&#x20;
+* Arch Linux Wiki — [Chromium — Making flags persistent](https://wiki.archlinux.org/title/Chromium#Making_flags_persistent)&#x20;
