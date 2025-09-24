@@ -19,3 +19,7 @@
 * [Emoji Input](making-it-work/emoji-input.md)
 * [Window snap groups](making-it-work/window-snap-groups.md)
 * [Mouse cursor bigger](making-it-work/mouse-cursor-bigger.md)
+
+## Hard Things
+
+* [Passthrough Virtualisation](hard-things/passthrough-virtualisation.md)
