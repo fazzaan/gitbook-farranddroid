@@ -19,6 +19,12 @@
 * [Emoji Input](making-it-work/emoji-input.md)
 * [Window snap groups](making-it-work/window-snap-groups.md)
 * [Mouse cursor bigger](making-it-work/mouse-cursor-bigger.md)
+* [Page](making-it-work/page.md)
+
+## Functional Things
+
+* [Windows applications](functional-things/windows-applications/README.md)
+  * [FontLab 8](functional-things/windows-applications/fontlab-8.md)
 
 ## Hard Things
 
