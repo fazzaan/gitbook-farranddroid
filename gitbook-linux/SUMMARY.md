@@ -19,7 +19,7 @@
 * [Emoji Input](making-it-work/emoji-input.md)
 * [Window snap groups](making-it-work/window-snap-groups.md)
 * [Mouse cursor bigger](making-it-work/mouse-cursor-bigger.md)
-* [Page](making-it-work/page.md)
+* [Volume isn't loud enough](making-it-work/volume-isnt-loud-enough.md)
 
 ## Functional Things
 

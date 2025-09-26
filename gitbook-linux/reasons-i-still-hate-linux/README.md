@@ -26,6 +26,10 @@ Here is a list of shitty things that STILL DON'T WORK PROPERLY:
 
 
 
+* ## AUDIO VOLUME IS JUST TOO QUIET ON MY LAPTOP
+
+
+
 * ## TOUCHPAD SCROLLING IS WAY TOO FAST
 
 
