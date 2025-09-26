@@ -7,6 +7,7 @@
 
 ## Making It Work
 
+* [Volume isn't loud enough](making-it-work/volume-isnt-loud-enough.md)
 * [Chrome Middle-Click Scroll](making-it-work/chrome-middle-click-scroll.md)
 * [Touchpad scroll slower](making-it-work/touchpad-scroll-slower.md)
 * [Google Drive access](making-it-work/google-drive-access.md)
@@ -19,7 +20,6 @@
 * [Emoji Input](making-it-work/emoji-input.md)
 * [Window snap groups](making-it-work/window-snap-groups.md)
 * [Mouse cursor bigger](making-it-work/mouse-cursor-bigger.md)
-* [Volume isn't loud enough](making-it-work/volume-isnt-loud-enough.md)
 
 ## Functional Things
 
