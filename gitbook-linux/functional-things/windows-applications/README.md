@@ -37,4 +37,10 @@ Virtual machine applications:
 * Gnome Boxes
 * idk actually, it's been years since I used virtual machines. I'll add things to this list later when I'm undertaking this adventure.
 
+
+
+## Links
+
+{% embed url="https://www.reddit.com/r/linux4noobs/comments/1khzhhp/this_is_how_to_use_windows_programs_on_linux/" %}
+
 [^1]: **V**irtual **M**achine

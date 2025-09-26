@@ -25,6 +25,13 @@
 
 * [Windows applications](functional-things/windows-applications/README.md)
   * [FontLab 8](functional-things/windows-applications/fontlab-8.md)
+* [Sharing Mouse & Keyboard](functional-things/sharing-mouse-and-keyboard/README.md)
+  * [Software](functional-things/sharing-mouse-and-keyboard/software.md)
+  * [From Linux](functional-things/sharing-mouse-and-keyboard/from-linux/README.md)
+    * [To Linux](functional-things/sharing-mouse-and-keyboard/from-linux/to-linux.md)
+    * [To Windows](functional-things/sharing-mouse-and-keyboard/from-linux/to-windows.md)
+    * [To MacOS](functional-things/sharing-mouse-and-keyboard/from-linux/to-macos.md)
+    * [To Android](functional-things/sharing-mouse-and-keyboard/from-linux/to-android.md)
 
 ## Hard Things
 
