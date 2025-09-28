@@ -8,17 +8,30 @@
 
 ### Compatibility layers
 
-Wine
+#### Wine
 
-WineTricks
+* Wine
+* WineTricks
 
-Proton (Valve, Steam)
+#### Proton & Steam
 
-ProtonTricks
+Proton is (I think) a derivative of Wine that has been developed by Valve, to make all Windows games work on Linux, with high performance and native-like function.
 
-ProtonGE
+The Proton layer can be used to run non-game applications too, although this isn't widely tested and things will likely not work exactly right.
 
-Steam — Major project by Valve to make all Windows games work on Linux, with high performance
+* Proton (Valve, Steam)
+* ProtonTricks
+* ProtonGE
+
+#### WinApps
+
+I haven't used this yet but it looks like a reasonable way to run virtualised Windows software inside Linux.
+
+1. Runs Windows in a Docker, Podman or libvirt virtual machine
+2. Creates shortcuts to selected Windows applications on the host GNU/Linux OS
+3. Uses [FreeRDP](https://www.freerdp.com/) as a backend to seamlessly render Windows applications alongside GNU/Linux applications.
+
+Link: [github.com/winapps-org/winapps](https://github.com/winapps-org/winapps)&#x20;
 
 ### Virtualisation
 
