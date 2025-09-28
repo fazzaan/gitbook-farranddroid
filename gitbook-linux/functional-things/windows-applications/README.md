@@ -56,4 +56,13 @@ Virtual machine applications:
 
 {% embed url="https://www.reddit.com/r/linux4noobs/comments/1khzhhp/this_is_how_to_use_windows_programs_on_linux/" %}
 
+* [https://www.reddit.com/r/linuxquestions/comments/t3dnkz/can\_i\_run\_my\_windows\_partition\_as\_a\_vm\_in\_linux/](https://www.reddit.com/r/linuxquestions/comments/t3dnkz/can_i_run_my_windows_partition_as_a_vm_in_linux/)&#x20;
+* [https://wiki.archlinux.org/title/PCI\_passthrough\_via\_OVMF#Virtio\_disk](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#Virtio_disk)&#x20;
+* [https://www.linux-kvm.org/images/b/b3/01x09b-VFIOandYou-small.pdf](https://www.linux-kvm.org/images/b/b3/01x09b-VFIOandYou-small.pdf)&#x20;
+* [https://www.reddit.com/r/VFIO/](https://www.reddit.com/r/VFIO/)&#x20;
+* [https://www.reddit.com/r/VFIO/comments/1nmsszd/kvmfr\_in\_fedora/](https://www.reddit.com/r/VFIO/comments/1nmsszd/kvmfr_in_fedora/)&#x20;
+* [https://www.reddit.com/r/VFIO/comments/1njetxa/single\_gpu\_passthrough\_poor\_cpu\_performance/](https://www.reddit.com/r/VFIO/comments/1njetxa/single_gpu_passthrough_poor_cpu_performance/)&#x20;
+* [https://www.reddit.com/r/VFIO/comments/1nj0u3p/reliablecurrent\_nvidia\_single\_gpu\_passthrough/](https://www.reddit.com/r/VFIO/comments/1nj0u3p/reliablecurrent_nvidia_single_gpu_passthrough/)&#x20;
+*
+
 [^1]: **V**irtual **M**achine
