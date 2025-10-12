@@ -1,5 +1,17 @@
 # Linux things!
 
+{% hint style="success" %}
+YO! IF YOU CAME HERE COS LINUX IS FRUSTRATING YOU AND YOU ARE USING GNOME,&#x20;
+
+## INSTALL KDE PLASMA!!!
+
+IT IS LIGHTYEARS AHEAD OF GNOME AND WHATEVER THE FUCK THEY'RE SMOKING
+
+&#x20;
+
+_also Hyprland is pretty nifty but it's a whole trip so maybe delve into that a bit later._
+{% endhint %}
+
 Ok so I used to adore Linux
 
 Nowadays it is just exhausting because I need things to _just work properly without me needing to fuck around with them for hours, days, weeks or months on end_
