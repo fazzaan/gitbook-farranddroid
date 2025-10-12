@@ -7,19 +7,24 @@
 
 ## Making It Work
 
-* [Volume isn't loud enough](making-it-work/volume-isnt-loud-enough.md)
-* [Chrome Middle-Click Scroll](making-it-work/chrome-middle-click-scroll.md)
-* [Touchpad scroll slower](making-it-work/touchpad-scroll-slower.md)
+* [Sound](making-it-work/sound/README.md)
+  * [Volume isn't loud enough](making-it-work/sound/volume-isnt-loud-enough.md)
+  * [Sound is crackly (no solution yet)](making-it-work/sound/sound-is-crackly-no-solution-yet.md)
+  * [Sound output doesn't switch to headphones automatically](making-it-work/sound/sound-output-doesnt-switch-to-headphones-automatically.md)
+* [Mouse and Touchpad](making-it-work/mouse-and-touchpad/README.md)
+  * [Touchpad scroll slower](making-it-work/mouse-and-touchpad/touchpad-scroll-slower.md)
+  * [Gestures on a touchpad](making-it-work/mouse-and-touchpad/gestures-on-a-touchpad.md)
+  * [Chrome Middle-Click Scroll](making-it-work/mouse-and-touchpad/chrome-middle-click-scroll.md)
+  * [Mouse cursor bigger](making-it-work/mouse-and-touchpad/mouse-cursor-bigger.md)
 * [Google Drive access](making-it-work/google-drive-access.md)
-* [Input Methods - Fcitx5](making-it-work/input-methods-fcitx5.md)
-* [Gestures on a touchpad](making-it-work/gestures-on-a-touchpad.md)
+* [Keyboard](making-it-work/keyboard/README.md)
+  * [Input Methods - Fcitx5 (Asian languages)](making-it-work/keyboard/input-methods-fcitx5-asian-languages.md)
+  * [Ctrl+Tab doesn't work in desktop apps](making-it-work/keyboard/ctrl+tab-doesnt-work-in-desktop-apps.md)
+  * [Custom keyboard layouts](making-it-work/keyboard/custom-keyboard-layouts.md)
+  * [Emoji Input](making-it-work/keyboard/emoji-input.md)
 * [WiFi Speed](making-it-work/wifi-speed.md)
-* [Custom keyboard layouts](making-it-work/custom-keyboard-layouts.md)
 * [Admin apps crash during theme change](making-it-work/admin-apps-crash-during-theme-change.md)
-* [Ctrl+Tab doesn't work in desktop apps](making-it-work/ctrl+tab-doesnt-work-in-desktop-apps.md)
-* [Emoji Input](making-it-work/emoji-input.md)
 * [Window snap groups](making-it-work/window-snap-groups.md)
-* [Mouse cursor bigger](making-it-work/mouse-cursor-bigger.md)
 
 ## Functional Things
 
@@ -36,3 +41,11 @@
 ## Hard Things
 
 * [Passthrough Virtualisation](hard-things/passthrough-virtualisation.md)
+
+## Fun things
+
+* [Gaming](fun-things/gaming/README.md)
+  * [Linux Gaming Distros](fun-things/gaming/linux-gaming-distros.md)
+  * [Game sync](fun-things/gaming/game-sync.md)
+  * [Games](fun-things/gaming/games/README.md)
+    * [Genshin Impact](fun-things/gaming/games/genshin-impact.md)

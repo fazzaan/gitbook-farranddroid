@@ -20,7 +20,7 @@ In the chromium-flags.conf file, paste the same flag line, complete with double-
 
 It should look like this:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 ## Heads up:
