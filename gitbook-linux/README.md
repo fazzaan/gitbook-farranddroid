@@ -9,6 +9,10 @@ IT IS LIGHTYEARS AHEAD OF GNOME AND WHATEVER THE FUCK THEY'RE SMOKING
 
 &#x20;
 
+_scratch that, there are SO MANY PROBLEMS in KDE/Plasma too. My goodness._
+
+&#x20;
+
 _also Hyprland is pretty nifty but it's a whole trip so maybe delve into that a bit later._
 {% endhint %}
 
