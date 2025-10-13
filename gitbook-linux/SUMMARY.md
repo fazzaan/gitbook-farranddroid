@@ -3,6 +3,7 @@
 * [Linux things!](README.md)
 * [Reasons I still Hate Linux](reasons-i-still-hate-linux/README.md)
   * [GNOME...](reasons-i-still-hate-linux/gnome....md)
+  * [KDE](reasons-i-still-hate-linux/kde.md)
 * [Gesture Support](gesture-support.md)
 
 ## Making It Work
