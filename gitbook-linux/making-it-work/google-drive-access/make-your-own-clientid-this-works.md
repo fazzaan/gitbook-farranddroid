@@ -20,7 +20,9 @@ You _**can**_ use this for other desktop shells and sync apps, but I haven't tri
 
 #### Sources
 
-* [RClone.org — Making your own client ID](https://rclone.org/drive/#making-your-own-client-id)&#x20;
+* [RClone.org — Making your own client ID](https://rclone.org/drive/#making-your-own-client-id) — main useful guide
+* [KDE Online Accounts - Not Signing In](https://discuss.kde.org/t/kde-online-accounts-not-signing-in/3411/1) — chatty discussion about the bug, mostly unhelpful but could help you to understand the issue better
+*
 
 ## Steps
 
@@ -52,7 +54,7 @@ Call it whatever you like.
 
 Don't worry about the "no organisation" bit.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="518"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="518"><figcaption></figcaption></figure>
 
 Click <kbd><mark style="color:blue;">Create<mark style="color:blue;"></kbd>.
 
@@ -80,7 +82,7 @@ Then click "Enable APIs and services" at the top,
 
 Scroll down to find it, you should see this. Click it.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you have more than one Google Cloud project, double-check at the top of the page that you are in the right project! It's a button next to the Google Cloud heading:
 
@@ -88,7 +90,7 @@ If you have more than one Google Cloud project, double-check at the top of the p
 
 Then click the blue "Enable button":
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6).png" alt="" width="491"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="491"><figcaption></figcaption></figure></div>
 
 
 {% endstep %}
@@ -164,7 +166,7 @@ Now you have to add "scopes" — these are aspects of the data in your Google ac
 
 Click the <kbd><mark style="color:blue;">**Add or remove scopes**<mark style="color:blue;"></kbd> button.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="500"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="500"><figcaption></figcaption></figure></div>
 
 There are around 250 available scopes in this list, so do use the Filter at the top of the table if necessary.&#x20;
 
@@ -172,7 +174,7 @@ There are around 250 available scopes in this list, so do use the Filter at the 
 Note that typing something into the filter box does not select the scope that appears! The behaviour of the filter is a bit strange. After pressing Enter in the search filter, you also have to tick[^2] the checkboxes next to each scope that you need.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 In this filter box, search for each of these scope names:
 
@@ -192,11 +194,11 @@ The default `/usr/share/accounts/providers/kde/`<mark style="color:green;">**`go
 
 For some reason it is possible to click outside of the popup scope panel and it will close automatically, losing all the changes that you made. So click that <kbd><mark style="color:blue;">**UPDATE**<mark style="color:blue;"></kbd> button!
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Finally click the blue <kbd><mark style="color:blue;">**Save**<mark style="color:blue;"></kbd> button.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="503"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="503"><figcaption></figcaption></figure></div>
 
 
 {% endstep %}
@@ -395,8 +397,46 @@ Choose your Google service from the list.
 If you kept both `google.provider` files with the `.provider` file suffix, then both of them will show up in the add accounts list. You can see mine, I did the whole process a second time to ensure that I was writing the correct guidance for you:
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt="" width="523"><figcaption></figcaption></figure>
+
+Here you will see the name of your app that you typed in [Step 6](make-your-own-clientid-this-works.md#create-the-oauth-consent-screen):
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="505"><figcaption></figcaption></figure>
+
+Sign in, choose your account, etc.
+
+If you opted for the "External" audience type, and you haven't had your app verified (of course you haven't, it's a crazy process), you will be greeted with this scary screen.&#x20;
+
+Presumably you trust yourself, and you've been following along with this whole process, so you should understand that there aren't any risks here — you are simply connecting to your own Google account.
+
+Click Advanced in the window, then click on the tiniest text, **"Go to&#x20;**_**APP NAME**_**&#x20;(unsafe)"**:
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="488"><figcaption></figcaption></figure>
+
+You'll notice that this list is a list of the scopes that we added as scope URLs in the [Data Access section (Step 7)](make-your-own-clientid-this-works.md#data-access-add-scopes) and the `google.provider` file on your computer.
+
+**Check the box next to Select all.**
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="484"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+So after all that, it ... doesn't work.
+
+I don't know what happened.
+
+I set it up the first time and it was fine, it worked perfectly.
+
+Now it doesn't work at all, it doesn't even show any account connection settings in the KDE Online Accounts window, which it used to do, as did even the original google.provider version.&#x20;
+
+It just shows this:
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+So idk what happened.
+
+
+
+And quite frankly, i'm tired of this shit
 
 [^1]: idk = "I don't know"
 
