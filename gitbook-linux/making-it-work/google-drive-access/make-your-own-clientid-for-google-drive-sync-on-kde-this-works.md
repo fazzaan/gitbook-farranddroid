@@ -1,4 +1,4 @@
-# Make your own ClientID - This works!
+# Make your own ClientID for Google Drive sync on KDE - This works!
 
 {% hint style="info" %}
 This is a bit of an involved process, but don't worry, it's doable.
@@ -402,7 +402,7 @@ I've kept the following screenshot so that you can see where your edited strings
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt="" width="523"><figcaption></figcaption></figure>
 
-Here you will see the name of your app that you typed in [Step 6](make-your-own-clientid-this-works.md#create-the-oauth-consent-screen):
+Here you will see the name of your app that you typed in [Step 6](make-your-own-clientid-for-google-drive-sync-on-kde-this-works.md#create-the-oauth-consent-screen):
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="505"><figcaption></figcaption></figure>
 
@@ -416,7 +416,7 @@ Click Advanced in the window, then click on the tiniest text, **"Go to&#x20;**_*
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="488"><figcaption></figcaption></figure>
 
-You'll notice that this list is a list of the scopes that we added as scope URLs in the [Data Access section (Step 7)](make-your-own-clientid-this-works.md#data-access-add-scopes) and the `google.provider` file on your computer.
+You'll notice that this list is a list of the scopes that we added as scope URLs in the [Data Access section (Step 7)](make-your-own-clientid-for-google-drive-sync-on-kde-this-works.md#data-access-add-scopes) and the `google.provider` file on your computer.
 
 **Check the box next to Select all.**
 

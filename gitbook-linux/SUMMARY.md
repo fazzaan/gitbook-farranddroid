@@ -19,7 +19,7 @@
   * [Chrome Middle-Click Scroll](making-it-work/mouse-and-touchpad/chrome-middle-click-scroll.md)
   * [Mouse cursor bigger](making-it-work/mouse-and-touchpad/mouse-cursor-bigger.md)
 * [Google Drive access](making-it-work/google-drive-access/README.md)
-  * [Make your own ClientID - This works!](making-it-work/google-drive-access/make-your-own-clientid-this-works.md)
+  * [Make your own ClientID for Google Drive sync on KDE - This works!](making-it-work/google-drive-access/make-your-own-clientid-for-google-drive-sync-on-kde-this-works.md)
 * [Keyboard](making-it-work/keyboard/README.md)
   * [Input Methods - Fcitx5 (Asian languages)](making-it-work/keyboard/input-methods-fcitx5-asian-languages.md)
   * [Ctrl+Tab doesn't work in desktop apps](making-it-work/keyboard/ctrl+tab-doesnt-work-in-desktop-apps.md)
