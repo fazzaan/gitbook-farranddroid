@@ -394,7 +394,11 @@ The shortest route to do this is:
 
 Choose your Google service from the list.
 
-If you kept both `google.provider` files with the `.provider` file suffix, then both of them will show up in the add accounts list. You can see mine, I did the whole process a second time to ensure that I was writing the correct guidance for you:
+If you kept both `google.provider` files with the `.provider` file suffix, then both of them will show up in the add accounts list. **You can't do this**, because the `.provider` file MUST be called `google.provider` exactly, with no additional characters whatsoever. The process appears to work, but the end result is that you log in but can't actually access anything from your Google account. I have no idea why this is but I can only assume it's something hard-coded into the KDE online accounts backend/service.
+
+Your customised file _**must**_ be called **`google.provider`**.
+
+I've kept the following screenshot so that you can see where your edited strings will appear.
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt="" width="523"><figcaption></figcaption></figure>
 
@@ -420,23 +424,27 @@ You'll notice that this list is a list of the scopes that we added as scope URLs
 {% endstep %}
 {% endstepper %}
 
-So after all that, it ... doesn't work.
+Finally, in your online accounts settings, click on your new account and you should see this:
 
-I don't know what happened.
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-I set it up the first time and it was fine, it worked perfectly.
+Open the Network item from the sidebar in Dolphin again, choose Google Drive, and you should see your account there.
 
-Now it doesn't work at all, it doesn't even show any account connection settings in the KDE Online Accounts window, which it used to do, as did even the original google.provider version.&#x20;
+Open it and.. wait...
 
-It just shows this:
+And you should see this:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-So idk what happened.
+Congratulations! You have successfully set up your very own Google Drive Sync system.
+
+And hopefully you learned a bunch about a bunch along the way. 🥳
 
 
 
-And quite frankly, i'm tired of this shit
+{% hint style="danger" %}
+## 💧 drink some water 💧
+{% endhint %}
 
 [^1]: idk = "I don't know"
 
