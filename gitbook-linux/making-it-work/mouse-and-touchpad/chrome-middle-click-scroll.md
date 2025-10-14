@@ -6,13 +6,22 @@ Run your Chrome/ium browser from the command line:
 chromium-browser --enable-blink-features=MiddleClickAutoscroll
 ```
 
-You can add it to your .desktop launcher file, but I recommend against that because there's a new and better way to add startup flags:
+## Making it stick
+
+There are two ways to do this. One works on Arch, and is way better, and the other way is clunky and awkward but it works on all the other GNU/Linuxes.
+
+1. You duplicate the .desktop launcher file and add the flag in there, or
+2. You create a dedicated flags file in \~/.config.
+
+The second way is better so we'll start with that, but it probably only works on Arch-based systems (I can't work out why) so [skip to Method 1 if you're not on Arch](chrome-middle-click-scroll.md#method-1).
+
+### Method 2
 
 In `~/.config/` create a file called `chromium-flags.conf`.
 
 (Alternatively, name it with the executable name of your chromium-based browser. Idk but this might also work with other apps and browsers. Try it and see! YMMV and I'm not responsible ok)
 
-In the chromium-flags.conf file, paste the same flag line, complete with double-hypen:
+In the chromium-flags.conf file, paste the same flag line, complete with double-hyphen:
 
 ```
 --enable-blink-features=MiddleClickAutoscroll
@@ -21,6 +30,25 @@ In the chromium-flags.conf file, paste the same flag line, complete with double-
 It should look like this:
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Method 1
+
+* Go to `/usr/share/applications`&#x20;
+* Find the launcher file for your chosen browser, e.g. `chromium.desktop`&#x20;
+* Copy it to \~/.local/share/applications
+* Edit the new file
+* Edit the "name" parameters slightly so that you can tell if the right `.desktop` file is being used in your desktop shell's application launcher
+* Find the `exec=` line and add your chosen flag/s to it
+
+It should look like this:
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure></div>
+
+
 
 {% hint style="warning" %}
 ## Heads up:
