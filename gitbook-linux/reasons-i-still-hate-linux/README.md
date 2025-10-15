@@ -90,6 +90,10 @@ Here is a list of shitty things that STILL DON'T WORK PROPERLY:
 
 
 
+* ## GNOME SHELL EXTENSIONS CANNOT BE INSTALLED IN GNOME'S OWN WEB BROWSER
+
+
+
 Do you understand yet why Normal People are never going to use Linux?
 
 [^1]: The Proton compatibility layer developed by/with Valve (Steam), not Proton the digital security services.
