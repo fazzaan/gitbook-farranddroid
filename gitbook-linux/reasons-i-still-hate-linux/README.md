@@ -94,6 +94,14 @@ Here is a list of shitty things that STILL DON'T WORK PROPERLY:
 
 
 
+* ## GNOME DOESN'T UNMOUNT VIRTUAL DRIVE FOLDERS AFTER THE SYSTEM UNMOUNTS THE DRIVE
+
+(if this is specific to my system then it shouldn't be)
+
+* ##
+
+
+
 Do you understand yet why Normal People are never going to use Linux?
 
 [^1]: The Proton compatibility layer developed by/with Valve (Steam), not Proton the digital security services.
