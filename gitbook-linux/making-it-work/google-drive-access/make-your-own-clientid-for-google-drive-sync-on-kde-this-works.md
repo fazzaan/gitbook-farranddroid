@@ -166,7 +166,7 @@ Now you have to add "scopes" — these are aspects of the data in your Google ac
 
 Click the <kbd><mark style="color:blue;">**Add or remove scopes**<mark style="color:blue;"></kbd> button.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="500"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="500"><figcaption></figcaption></figure></div>
 
 There are around 250 available scopes in this list, so do use the Filter at the top of the table if necessary.&#x20;
 
@@ -404,7 +404,7 @@ I've kept the following screenshot so that you can see where your edited strings
 
 Here you will see the name of your app that you typed in [Step 6](make-your-own-clientid-for-google-drive-sync-on-kde-this-works.md#create-the-oauth-consent-screen):
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="505"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="505"><figcaption></figcaption></figure>
 
 Sign in, choose your account, etc.
 
@@ -414,7 +414,7 @@ Presumably you trust yourself, and you've been following along with this whole p
 
 Click Advanced in the window, then click on the tiniest text, **"Go to&#x20;**_**APP NAME**_**&#x20;(unsafe)"**:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="488"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="488"><figcaption></figcaption></figure>
 
 You'll notice that this list is a list of the scopes that we added as scope URLs in the [Data Access section (Step 7)](make-your-own-clientid-for-google-drive-sync-on-kde-this-works.md#data-access-add-scopes) and the `google.provider` file on your computer.
 

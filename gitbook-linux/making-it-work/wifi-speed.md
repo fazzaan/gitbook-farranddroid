@@ -8,4 +8,4 @@ It works just fine on my main laptop, which is pretty funny considering the abso
 
 
 
-Anyway yah, on my second cheapy laptop, my download speed on Windows is 700-900 Mbps, while on Linux it's 250-350Mbps. I haven't done any research about this yet, but it's not a new laptop, and it's HP so it's not rare or weird, so idk why it has a problem.&#x20;
+Anyway yah, on my second cheapy laptop, my download speed on Windows is 700-900 Mbps, while on Linux it's 250-350Mbps. I haven't done any research about this yet, but it's not a new laptop, and it's HP so it's not a rare or weird laptop, so idk why it has a problem.&#x20;

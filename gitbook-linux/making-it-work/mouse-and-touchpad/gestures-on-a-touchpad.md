@@ -1,15 +1,25 @@
 # Gestures on a touchpad
 
-So far I've only explored GNOME.
+_So far I've only explored GNOME._
 
+{% tabs %}
+{% tab title=""Window Gestures"" %}
+👣 Install it from here — [extensions.gnome.org/extension/6343/window-gestures](https://extensions.gnome.org/extension/6343/window-gestures/)&#x20;
 
+😸 Check the GitHub — [github.com/amarullz/windowgestures](https://github.com/amarullz/windowgestures)&#x20;
+{% endtab %}
+{% endtabs %}
 
-There are a load of attempts to develop gestures, but so far I've only found one that I like and that seems robust and implemented in a native-ish way.
+Gnome and libinput can indeed detect and distinguish between 3, 4 and 5-finger swipe gestures, in all directions and shapes, but you'd never know it.
 
-It's a GNOME extension, which seems to be the DE dev team's way of gradually developing a walled garden. Would be nice if the Extensions website actually functioned properly tho huh.
+For some indiscernible reason, Gnome's gestures are hard-coded, and all 3-finger gestures are replicated to the 4-finger gestures too. Wild.
 
-Configuring it is a bit of a headache. I'll put some screenshots here.
+There are myriad alternative projects but honestly most of them are janky and nasty, and don't provide the one-to-one functionality where the gesture animations are locked into the movement of your fingers.
 
-(I would do a screencast, but I have a dual GPU laptop so _obviously_ my screenrecorder doesn't work.)
+The only good solution I've found so far is a Gnome extension, which happened to work when I installed it on Gnome 48, but broke just 3 days later when Gnome 49 was released.&#x20;
 
-My main gripe with it so far is that it doesn't detect swipe direction very cleanly, so my upward swipes often get interpreted as being leftward or rightward even if I only swiped _slightly_ to the side.
+The developer has released an update to for "gnome 49 support", but their github page says "support only for gnome 45" and the updated extension doesn't work on my computer anyway.&#x20;
+
+(Perhaps I need to troubleshoot it more deeply, maybe there are some remnant config files from the previous version or something? idk but I've kinda got used to just not using gestures any more.)
+
+Regardless, try the extension, in case it works for you, and in case the developer manages to fix things up in the future. It really was the best solution I managed to find, and I hope it works again!

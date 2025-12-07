@@ -1,5 +1,9 @@
 # Ctrl+Tab doesn't work in desktop apps
 
+{% hint style="danger" %}
+this page does not contain a fix, solution, workaround or anything else useful
+{% endhint %}
+
 So this is Yet Another GNOME/GTK Problem (_YAGGP_ or _YAGG Problem_).
 
 By that, I mean, _the GNOME team is marching rapidly toward fascism and changing all kinds of random shit seemingly with the sole intention of pissing off as many people as humanly possible._
@@ -16,7 +20,7 @@ And, if you press <kbd>Ctrl</kbd>+<kbd>Tab</kbd>, the control focus is going to 
 
 And you can't know which apps support which of these tab switching methods.
 
-Also, apps with an unpredictable number of tabs, such as the text editor, only work with <kbd>Alt</kbd>+<kbd>number</kbd>.
+Also, apps with an unpredictable number of tabs, such as the text editor, only work with <kbd>Alt</kbd>+<kbd>number</kbd>. So how are you meant to reach any tab after tab 9?
 
 And also, there are some other tabbed dialogs which actually aren't tabs at all, they're just themed to look the same.
 

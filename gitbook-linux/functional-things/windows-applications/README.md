@@ -1,8 +1,12 @@
 # Windows applications
 
-## Windows software I've tried
+{% hint style="warning" %}
+At present, I'm focussing on setting up a virtual machine with raw disk passthrough. I don't currently have a need for full GPU access (VFIO), as the Windows-only apps I use aren't GPU users.
+{% endhint %}
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="fontlab-8.md">fontlab-8.md</a></td></tr></tbody></table>
+## Windows software I'm testing
+
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="fontlab-8.md">fontlab-8.md</a></td></tr><tr><td></td></tr></tbody></table>
 
 ## Options
 

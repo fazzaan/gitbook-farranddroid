@@ -5,7 +5,6 @@
   * [GNOME...](reasons-i-still-hate-linux/gnome....md)
   * [KDE](reasons-i-still-hate-linux/kde/README.md)
     * [Sources about all the bugs](reasons-i-still-hate-linux/kde/sources-about-all-the-bugs.md)
-* [Gesture Support](gesture-support.md)
 
 ## Making It Work
 
@@ -21,18 +20,21 @@
 * [Google Drive access](making-it-work/google-drive-access/README.md)
   * [Make your own ClientID for Google Drive sync on KDE - This works!](making-it-work/google-drive-access/make-your-own-clientid-for-google-drive-sync-on-kde-this-works.md)
 * [Keyboard](making-it-work/keyboard/README.md)
+  * [Emoji Input](making-it-work/keyboard/emoji-input.md)
+  * [Custom keyboard layouts](making-it-work/keyboard/custom-keyboard-layouts.md)
   * [Input Methods - Fcitx5 (Asian languages)](making-it-work/keyboard/input-methods-fcitx5-asian-languages.md)
   * [Ctrl+Tab doesn't work in desktop apps](making-it-work/keyboard/ctrl+tab-doesnt-work-in-desktop-apps.md)
-  * [Custom keyboard layouts](making-it-work/keyboard/custom-keyboard-layouts.md)
-  * [Emoji Input](making-it-work/keyboard/emoji-input.md)
 * [WiFi Speed](making-it-work/wifi-speed.md)
 * [Admin apps crash during theme change](making-it-work/admin-apps-crash-during-theme-change.md)
 * [Window snap groups](making-it-work/window-snap-groups.md)
 
 ## Functional Things
 
+* [Desktop UXUI behaviour](functional-things/desktop-uxui-behaviour.md)
 * [Windows applications](functional-things/windows-applications/README.md)
   * [FontLab 8](functional-things/windows-applications/fontlab-8.md)
+  * [MS Office](functional-things/windows-applications/ms-office.md)
+  * [Genshin Impact](functional-things/windows-applications/genshin-impact.md)
 * [Sharing Mouse & Keyboard](functional-things/sharing-mouse-and-keyboard/README.md)
   * [Software](functional-things/sharing-mouse-and-keyboard/software.md)
   * [From Linux](functional-things/sharing-mouse-and-keyboard/from-linux/README.md)

@@ -1,5 +1,27 @@
 # Emoji Input
 
+## Solutions
+
+### Gnome
+
+#### Emoji Copy — FelipeFTN
+
+This is a Gnome Shell Extension.
+
+You can set the shortcut for it to anything you like. The default is <kbd>Super</kbd>+<kbd>.</kbd> .
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+
+Install it from [https://extensions.gnome.org/extension/6242/emoji-copy/](https://extensions.gnome.org/extension/6242/emoji-copy/)&#x20;
+
+Or check the GitHub — [https://github.com/felipeftn/emoji-copy](https://github.com/felipeftn/emoji-copy)&#x20;
+
+
+
+***
+
+## Moans
+
 Ubuntu and GNOME have in-built emoji picker methods.
 
 Of course, these didn't work in Wayland for the longest time.
