@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Linux things!](README.md)
+* [Wanna move to Linux?](do-you-wanna-move-to-linux.md)
 * [Reasons I still Hate Linux](reasons-i-still-hate-linux/README.md)
   * [GNOME...](reasons-i-still-hate-linux/gnome....md)
   * [KDE](reasons-i-still-hate-linux/kde/README.md)
@@ -46,6 +47,7 @@
 ## Hard Things
 
 * [Passthrough Virtualisation](hard-things/passthrough-virtualisation.md)
+* [Gaming & Steam](hard-things/gaming-and-steam.md)
 
 ## Fun things
 
