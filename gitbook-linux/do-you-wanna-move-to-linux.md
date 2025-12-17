@@ -185,8 +185,8 @@ Most messenger platforms have website versions which are probably good enough al
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="making-it-work/keyboard/custom-keyboard-layouts.md" %}
-[custom-keyboard-layouts.md](making-it-work/keyboard/custom-keyboard-layouts.md)
+{% content-ref url="making-it-work/keyboard/custom-keyboard-layouts/" %}
+[custom-keyboard-layouts](making-it-work/keyboard/custom-keyboard-layouts/)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
