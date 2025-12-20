@@ -10,7 +10,7 @@ This is a Gnome Shell Extension.
 
 You can set the shortcut for it to anything you like. The default is <kbd>Super</kbd>+<kbd>.</kbd> .
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
 Install it from [https://extensions.gnome.org/extension/6242/emoji-copy/](https://extensions.gnome.org/extension/6242/emoji-copy/)&#x20;
 

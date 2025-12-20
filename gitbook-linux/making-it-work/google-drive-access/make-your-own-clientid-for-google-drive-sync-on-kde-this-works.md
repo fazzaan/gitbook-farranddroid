@@ -82,7 +82,7 @@ Then click "Enable APIs and services" at the top,
 
 Scroll down to find it, you should see this. Click it.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you have more than one Google Cloud project, double-check at the top of the page that you are in the right project! It's a button next to the Google Cloud heading:
 
@@ -166,7 +166,7 @@ Now you have to add "scopes" — these are aspects of the data in your Google ac
 
 Click the <kbd><mark style="color:blue;">**Add or remove scopes**<mark style="color:blue;"></kbd> button.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="500"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="500"><figcaption></figcaption></figure></div>
 
 There are around 250 available scopes in this list, so do use the Filter at the top of the table if necessary.&#x20;
 
@@ -174,7 +174,7 @@ There are around 250 available scopes in this list, so do use the Filter at the 
 Note that typing something into the filter box does not select the scope that appears! The behaviour of the filter is a bit strange. After pressing Enter in the search filter, you also have to tick[^2] the checkboxes next to each scope that you need.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 In this filter box, search for each of these scope names:
 
@@ -194,7 +194,7 @@ The default `/usr/share/accounts/providers/kde/`<mark style="color:green;">**`go
 
 For some reason it is possible to click outside of the popup scope panel and it will close automatically, losing all the changes that you made. So click that <kbd><mark style="color:blue;">**UPDATE**<mark style="color:blue;"></kbd> button!
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Finally click the blue <kbd><mark style="color:blue;">**Save**<mark style="color:blue;"></kbd> button.
 
@@ -404,7 +404,7 @@ I've kept the following screenshot so that you can see where your edited strings
 
 Here you will see the name of your app that you typed in [Step 6](make-your-own-clientid-for-google-drive-sync-on-kde-this-works.md#create-the-oauth-consent-screen):
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="505"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="505"><figcaption></figcaption></figure>
 
 Sign in, choose your account, etc.
 
@@ -414,13 +414,13 @@ Presumably you trust yourself, and you've been following along with this whole p
 
 Click Advanced in the window, then click on the tiniest text, **"Go to&#x20;**_**APP NAME**_**&#x20;(unsafe)"**:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="488"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="488"><figcaption></figcaption></figure>
 
 You'll notice that this list is a list of the scopes that we added as scope URLs in the [Data Access section (Step 7)](make-your-own-clientid-for-google-drive-sync-on-kde-this-works.md#data-access-add-scopes) and the `google.provider` file on your computer.
 
 **Check the box next to Select all.**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="484"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="484"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

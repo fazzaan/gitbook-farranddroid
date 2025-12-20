@@ -37,6 +37,7 @@
   * [FontLab 8](functional-things/windows-applications/fontlab-8.md)
   * [MS Office](functional-things/windows-applications/ms-office.md)
   * [Genshin Impact](functional-things/windows-applications/genshin-impact.md)
+  * [Resolume Arena & Avenue](functional-things/windows-applications/resolume-arena-and-avenue.md)
 * [Sharing Mouse & Keyboard](functional-things/sharing-mouse-and-keyboard/README.md)
   * [Software](functional-things/sharing-mouse-and-keyboard/software.md)
   * [From Linux](functional-things/sharing-mouse-and-keyboard/from-linux/README.md)
@@ -44,6 +45,11 @@
     * [To Windows](functional-things/sharing-mouse-and-keyboard/from-linux/to-windows.md)
     * [To MacOS](functional-things/sharing-mouse-and-keyboard/from-linux/to-macos.md)
     * [To Android](functional-things/sharing-mouse-and-keyboard/from-linux/to-android.md)
+
+## Software Things
+
+* [Graphics](software-things/graphics/README.md)
+  * [Figma](software-things/graphics/figma.md)
 
 ## Hard Things
 
