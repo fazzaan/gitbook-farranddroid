@@ -24,3 +24,10 @@ I'll put a list of gripes here which are solved simply by _**not using GNOME**_.
   * Guess what happens in GNOME apps?
   * Your drag is converted into a _window-moving drag_. That means that there's no way to deselect the window button without having a different side effect. It also means that the entire paradigm of _deselecting-an-already-half-clicked-button_ is now broken.
   * :clown:
+
+
+
+## examples
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>arch wiki / fcitx5 / <a href="https://wiki.archlinux.org/title/Fcitx5#GNOME">usage #gnome</a> </p></figcaption></figure>
+

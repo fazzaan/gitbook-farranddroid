@@ -130,7 +130,7 @@ Each time Figma successfully launches, you need to check two things.
 
 You will see a page like this. If your files aren't loading, several more of the Features will say <mark style="color:red;">Disabled</mark> in red. Use these to help you research what other launch flags to try, or to diagnose what perhaps may be wrong with your system — it could be a hardware issue, a driver issue, or a software issue.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Keep testing launch flags until you get as many green statuses as possible, and until you are able to open your Figma files for editing.
 {% endstep %}
