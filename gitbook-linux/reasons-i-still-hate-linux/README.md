@@ -25,10 +25,15 @@ So today I took the plunge and installed Garuda Linux, a branch of customised Ar
 Here is a list of shitty things that STILL DON'T WORK PROPERLY:  
 
 * AUDIO VOLUME IS JUST TOO QUIET ON MY LAPTOP
+  * No fix yet; seems like the generic audio driver cannot detect all of the speakers in the laptop.
 * TOUCHPAD SCROLLING IS WAY TOO FAST
+  * "Fixed" with libinput-conf-git package. Chromium/Electron still handles scrolling in its own way, so you have to strike a happy medium between too-slow in apps and too-fast in Chromium/Electron apps.  
+* TOUCHPAD SCROLLING IN CHROMIUM
+  * Unreasonably fast, no idea why this is.
 * CHROM/IUM DOESN'T HAVE MIDDLE-CLICK SCROLL
-* TOUCHPAD SCROLLING IN CHROMIUM&#x20;
+  * There is a Chromium flag you can enable.
 * GOOGLE DRIVE STILL DOESN'T HAVE A NATIVE SYNC APP
+  * No solution still. You can connect using your desktop environment (Gnome, KDE etc)'s file browser app, but the files & directory structure are not synced to your local drive, so accessing things is *always* slow and 
 * INPUT METHOD CONFIGURATION IS HORRIFYING
 * SWITCHING IME TOO FAST ACTIVATES OTHER SHORTCUTS
 * CUSTOM GESTURES REQUIRES SPECIFIC COMMAND LINE
