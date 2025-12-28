@@ -24,6 +24,9 @@ So today I took the plunge and installed Garuda Linux, a branch of customised Ar
 
 Here is a list of shitty things that STILL DON'T WORK PROPERLY:  
 
+* Laptop goes to sleep immediately after waking up from sleep -- sometimes twice in a row. 
+  * I've researched this a bit but haven't found a sensible & useful solution yet. 
+  * (I'm running Garuda, a derivative of Arch, using Zen kernel.)
 * AUDIO VOLUME IS JUST TOO QUIET ON MY LAPTOP
   * No fix yet; seems like the generic audio driver cannot detect all of the speakers in the laptop.
 * TOUCHPAD SCROLLING IS WAY TOO FAST
