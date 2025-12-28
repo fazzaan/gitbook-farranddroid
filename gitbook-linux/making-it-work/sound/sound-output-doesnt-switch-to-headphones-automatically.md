@@ -1,2 +1,3 @@
 # Sound output doesn't switch to headphones automatically
 
+This seems to only be the case when an HDMI output with audio support is also plugged in. So the problem is regarding output selection priority. Clearly if I plug an audio cable into the headphone jack, that means I want the sound to go out of it now. If the system is unsure what I want, it should pop up a question dialog asking which device I want to use. There should also be a method to explicitly set audio output priorities, as well as multi-output configuration. How we reached 2025 and still don't have this kind of configurability is beyond me.
