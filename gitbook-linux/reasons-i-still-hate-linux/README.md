@@ -55,12 +55,14 @@ Here is a list of shitty things that STILL DON'T WORK PROPERLY:
 * MOUSE CURSOR SIZE CANNOT BE INCREASED IN WAYLAND
   * It can if you edit dconf/gsettings, but why do I have to do this in such a hacky way? Is it really that hard or undesirable to put a simple slider setting in the system settings panel?
 * SYSTEM EMOJI PICKER PANEL DOESN'T WORK IN CHROME AND OTHER NON-NATIVE UI APPS
-* GNOME SHELL EXTENSIONS CANNOT BE INSTALLED IN GNOME'S OWN WEB BROWSER
+  * There's a Gnome Shell extension which functions well enough. Unfortunately it passes the chosen emoji through the clipboard, thereby replacing whatever you copied prior to choosing the emoji.
+* GNOME SHELL EXTENSIONS CANNOT BE INSTALLED VIA GNOME'S OWN WEB BROWSER
+  * This is... ridiculous. You literally must install a third-party web browser in order to install the Gnome Shell Extension Connector extension in order to install any Gnome Shell extensions.
 * GNOME DOESN'T UNMOUNT VIRTUAL DRIVE FOLDERS AFTER THE SYSTEM UNMOUNTS THE DRIVE
+  * (if this is specific to my system then it shouldn't be)
+  * (it seems to be inconsistent and not scientifically reproducible)
 
-(if this is specific to my system then it shouldn't be)
 
-* ##
 Do you understand yet why Normal People are never going to use Linux?
 
 [^1]: The Proton compatibility layer developed by/with Valve (Steam), not Proton the digital security services.
