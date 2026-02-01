@@ -6,6 +6,11 @@
   * [GNOME...](reasons-i-still-hate-linux/gnome....md)
   * [KDE](reasons-i-still-hate-linux/kde/README.md)
     * [Sources about all the bugs](reasons-i-still-hate-linux/kde/sources-about-all-the-bugs.md)
+* [My Setup](my-setup/README.md)
+  * [Gnome settings](my-setup/gnome-settings.md)
+  * [Gnome extensions](my-setup/gnome-extensions.md)
+  * [Applications](my-setup/applications/README.md)
+    * [Drawing](my-setup/applications/drawing.md)
 
 ## Making It Work
 
@@ -27,8 +32,9 @@
   * [Input Methods - Fcitx5 (Asian languages)](making-it-work/keyboard/input-methods-fcitx5-asian-languages.md)
   * [Ctrl+Tab doesn't work in desktop apps](making-it-work/keyboard/ctrl+tab-doesnt-work-in-desktop-apps.md)
 * [WiFi Speed](making-it-work/wifi-speed.md)
-* [Admin apps crash during theme change](making-it-work/admin-apps-crash-during-theme-change.md)
 * [Window snap groups](making-it-work/window-snap-groups.md)
+* [Resolved bugs?](making-it-work/resolved-bugs/README.md)
+  * [Admin apps crash during theme change](making-it-work/resolved-bugs/admin-apps-crash-during-theme-change.md)
 
 ## Functional Things
 
