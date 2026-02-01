@@ -1,5 +1,9 @@
 # Gnome extensions
 
+{% hint style="danger" %}
+_Last updated:_ [_2026—02—01_](#user-content-fn-1)[^1]&#x20;
+{% endhint %}
+
 As polished as Gnome is nowadays, there are a tonne of things missing from it.
 
 The devs say that that's by design, and that you can customise it to your preferences & needs with the Gnome Extensions.
@@ -42,9 +46,13 @@ And, finally, [**Save Desktop**](https://github.com/vikdevelop/SaveDesktop). It'
 
 Absolutely necessary if you use any apps that have system tray indicators. Somehow (?) the Gnome devs forgot to include support for this. This extension literally imports the function from KDE and Ubuntu.
 
+* Read more: [#app-indicators-status-tray](../functional-things/desktop-uxui-behaviour.md#app-indicators-status-tray "mention")&#x20;
+
 ### [CHC-E (Custom Hot Corners - Extended)](https://github.com/G-dH/custom-hot-corners-extended)
 
 Gnome Shell is famous for its hot corner: hitting the top-left corner with your mouse cursor activates the overview, exposing open windows and an app launcher dock. However, this hot corner does not work on second monitors — and indeed, if you add a monitor to the left of your primary display, the hot corner moves to the _far left corner_. Obviously ridiculous and obviously an oversight, the devs left it to _someone else_ to create an extension to solve this bug. CHC allows customisation of the hot corners, and CHC-E brings more features. I now have three hot corners.
+
+* _Read more:_ [#hot-corners](../functional-things/desktop-uxui-behaviour.md#hot-corners "mention")&#x20;
 
 ### [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator)
 
@@ -62,6 +70,8 @@ Yeah, this really isn't built into Gnome. There is no way to disconnect from a W
 
 An emoji input panel that works regardless of what app you're in. The system-level inputs are always difficult to sort out properly, because of various teething incompatibilities between display manager (Wayland, X, XWayland, KWin), desktop shell (Gnome, KDE, Hyprland etc), input method (desktop's own, ibus, fcitx5, etc), the app you're trying to use (notable issues with chromium, electron, wine, qt under gnome, gnome under qt), _and_ idk what else but basically it's complicated and messy and you're better off using a desktop shell extension that resides at the user level. **Note that** Emoji Copy works by copying the chosen emoji into your clipboard and pasting it immediately (sometimes doesn't work), so this will replace your most-recently-copied clipboard item.
 
+* _Read more about using emoji in Linux:_ [emoji-input.md](../making-it-work/keyboard/emoji-input.md "mention")&#x20;
+
 ### [Impatience](https://github.com/timbertson/gnome-shell-impatience)
 
 I just use this to slow down the animations slightly. No reason other than I like to see the animations more slowly, which can (sometimes) serve to make me slow down in my mind. **Note that** Gnome's method of handling keyboard inputs as shell function shortcuts seems to depend upon the current state of the animation, which behaves a bit unexpectedly if you make the interface animations _slower_.
@@ -69,6 +79,9 @@ I just use this to slow down the animations slightly. No reason other than I lik
 ### [Input Method Panel](https://github.com/wengxt/gnome-shell-extension-kimpanel)
 
 As with all other Gnome problems, the _fundamentally necessary_ component of typing _any language that doesn't use a simple linear input mode — **so that'd be languages used by several BILLION PEOPLE** (Chinese, Japanese, Korean, Hindi, Indic languages, Brahmic languages, etc etc etc)_ — the language input method panel, **is simply not available in Gnome**. Some kind soul has written an extension to support the one from KDE, _kimpanel_, thankfully. Good job, Gnome Devs. How very White Patriarchal Colonialist of you.
+
+* _Read more about input methods:_ [input-methods-fcitx5-asian-languages.md](../making-it-work/keyboard/input-methods-fcitx5-asian-languages.md "mention")&#x20;
+* [#input-method-panel](../functional-things/desktop-uxui-behaviour.md#input-method-panel "mention")&#x20;
 
 ### [Lilypad](https://github.com/shendrew/Lilypad)
 
@@ -82,6 +95,8 @@ Because — you guessed it — Gnome has no settings for this. This extension al
 
 If you bind a keyboard shortcut to an application and press it when the application is already running, it will either launch a new instance if the app allows it, or — it will do absolutely nothing. This is stupid af. I bound <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Esc</kbd> to the system monitor. Run or Raise fixes this stupidity by checking if the app is already running, launching it if it's not, and switching to it if it is. There are a few other parameters you can set too, like choosing if the workspace switches to the location of the app or if the app comes to your location. It is a bit more manual than other extensions, but read the guide and you'll be fine.
 
+* _Read more:_ [#raise-window-if-app-is-already-running](../functional-things/desktop-uxui-behaviour.md#raise-window-if-app-is-already-running "mention")&#x20;
+
 ### [Tiling Assistant](https://github.com/Leleat/Tiling-Assistant)
 
 Guess what? This enables basic tiling features — snapping windows into quarters — that Windows has had for literally more than 12 years, since Windows 8.1. Linux has also had it since 2014.
@@ -89,6 +104,11 @@ Guess what? This enables basic tiling features — snapping windows into quarter
 ### [Touchpad Gesture Customization](https://github.com/HieuTNg/touchpad-gesture-customization)
 
 Finally an extension that actually brings proper gesture support and functionality to Gnome! There have been a variety of apps and extensions in the past, but I only had limited success with each of them, and all got broken after a Gnome update. This one works perfectly on one laptop, running CachyOS, but the overview and workspace switching doesn't work on my Garuda. Not sure if this is due to a conflict with other extensions though — I'll test it out.
+
+* _Read more:_ [gestures-on-a-touchpad.md](../making-it-work/mouse-and-touchpad/gestures-on-a-touchpad.md "mention")&#x20;
+* _Touchpad scrolling too fast? Using Wayland and Gnome? Read:_ [touchpad-scroll-slower.md](../making-it-work/mouse-and-touchpad/touchpad-scroll-slower.md "mention")&#x20;
+
+
 
 ### [Transparent Window](https://github.com/pbxqdown/gnome-shell-extension-transparent-window/tree/transparent-window-v2) (v2)
 
@@ -112,3 +132,6 @@ Window Navigator is built-in to Gnome's own extensions package. This allows you 
 And, finally, [**Save Desktop**](https://github.com/vikdevelop/SaveDesktop). It's an app, not an extension, but its primary purpose is to back up all your desktop settings, including extensions, wallpapers, and other settings such as those managed by dconf keys. I have installed it but I haven't tested how well it transfers between computers yet. It's available as a flatpak on Flathub, but if you're using Arch then it's also available in the repos (perhaps AUR; I can't check cos the AUR is down while I'm writing this).
 {% endhint %}
 
+
+
+[^1]: the 1st of February, 2026
