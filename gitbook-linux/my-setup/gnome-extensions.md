@@ -76,7 +76,7 @@ Because, yet again, Gnome itself is lacking in settings, so there's literally no
 
 ### [Quick Settings Tweaks](https://github.com/qwreey/quick-settings-tweaks)
 
-— Because, you guessed it, Gnome has no settings for this. This extension allows tweaking of the Quick Settings panel and the Notifications-Date-Time panel. The defaults are "fine" as long as you don't actually _have_ any items in your calendar — if you do, the schedule section is literally too long for the screen. And if you have the Weather app installed, it'll appear here too, on the long side of the panel. This extension lets you move stuff around a bit. It also lets you add things like the media transport widget to the menu.
+Because — you guessed it — Gnome has no settings for this. This extension allows tweaking of the Quick Settings panel and the Notifications-Date-Time panel. The defaults are "fine" as long as you don't actually _have_ any items in your calendar — if you do, the schedule section is literally too long for the screen. And if you have the Weather app installed, it'll appear here too, on the long side of the panel. This extension lets you move stuff around a bit. It also lets you add things like the media transport widget to the menu and a per-app volume control which connects to the system's per-app volume control.
 
 ### [Run or Raise](https://github.com/CZ-NIC/run-or-raise)
 
