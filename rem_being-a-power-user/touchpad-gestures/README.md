@@ -1,2 +1,0 @@
-# Touchpad gestures
-
