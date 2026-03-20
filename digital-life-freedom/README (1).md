@@ -7,7 +7,7 @@ _Modern issues in a technologically hyper-interconnected age._
 * data theft — your private data can be ransomed and sold
 * account theft — your account logins can be ransomed and sold
 * centralization — all your data belong to enormous companies, who sell it and give it to the govts
-  * learn about decentralization in a dedicated section: [Broken link](broken-reference "mention")&#x20;
+  * learn about decentralization in a dedicated section: [Broken link](/broken/pages/qQfis4WTba6pT6PTjd9r "mention")&#x20;
 * Remember that anything you do that could be a threat to capitalism can & probably will be deemed a t\*\*\*\*\*ist threat, either now or some day when you gather enough momentum.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="internet-safety/safety-in-the-surveillance-age/">safety-in-the-surveillance-age</a></td></tr><tr><td><a href="internet-safety/quick-setup-guide.md">quick-setup-guide.md</a></td></tr></tbody></table>

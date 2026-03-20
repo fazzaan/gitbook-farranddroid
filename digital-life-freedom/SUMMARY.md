@@ -30,10 +30,7 @@
 
 * [About encryption](encryption/about.md)
 * [Cloud file storage](encryption/cloud-file-storage.md)
-
-***
-
-* [Messaging](messaging.md)
+* [Messaging](encryption/messaging.md)
 
 ## Decentralization
 
@@ -48,7 +45,7 @@
   * [DeBoot — cloud OS booting](decentralization/projects-using-decentralized-networking/deboot-cloud-os-booting.md)
   * [Swarm / EthSwarm](decentralization/projects-using-decentralized-networking/swarm-ethswarm.md)
 * [Ones to avoid](decentralization/ones-to-avoid/README.md)
-  * [Matrix.org](matrix.org.md)
+  * [Matrix.org](decentralization/ones-to-avoid/matrix.org.md)
   * [Abandonware](decentralization/ones-to-avoid/abandonware.md)
 
 ## External Resources
