@@ -7,22 +7,24 @@ I started this website project nearly 2 years ago, \~December 2024.&#x20;
 
 Since then, I've learned so many things that are honestly overwhelming and there's just been too much info in too-moving a landscape for me to summarise and connect everything together in a usable fashion.
 
-&#x20;
-
 I still plan to continue building this website with info.&#x20;
 
-But, due to its nature, I'd like you to consider it a springboard rather than a repository of knowledge.
-
-&#x20;
+But, due to its nature, I'd like you to consider it a springboard rather than a repository of knowledge.&#x20;
 
 What you see here, use the words & concepts as things to go and explore for yourself.
 
 There's just too much stuff and it's always changing.
 
-&#x20;
-
-_Peace & Freedom aren't acquired through passivity._
+_**Peace & Freedom aren't acquired through passivity.**_
 {% endhint %}
+
+## HomeLabbing
+
+If you're looking for Home Lab stuff, i'm building a new sub-site dedicated to it:
+
+{% content-ref url="https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/XJpdvsUxcBRiPAdYxPY0/" %}
+[HomeLabbing](https://app.gitbook.com/o/HGV4O8QFvR73oXn7Uxww/s/XJpdvsUxcBRiPAdYxPY0/)
+{% endcontent-ref %}
 
 ## Things to accept:
 
