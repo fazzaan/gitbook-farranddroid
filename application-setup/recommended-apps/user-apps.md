@@ -10,7 +10,7 @@ Categories include:
 * text editor
 * office software
 * notes
-* media (jump to dedicated [Broken link](broken-reference "mention") section)
+* media (jump to dedicated [Entertainment](https://app.gitbook.com/s/SvMwDma3YIsN6hmiEFs1/entertainment "mention") section)
 
 ***
 

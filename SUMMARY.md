@@ -15,6 +15,8 @@
     * [During video calls](common-issues/laggy-computer/reasons/during-video-calls.md)
   * [Solutions](common-issues/laggy-computer/solutions/README.md)
     * [Set Processor Affinity](common-issues/laggy-computer/solutions/set-processor-affinity.md)
+* [Chrome/Chromium](common-issues/chrome-chromium/README.md)
+  * [Disable local "AI" model](common-issues/chrome-chromium/disable-local-ai-model.md)
 
 ## Principles of Setup
 
