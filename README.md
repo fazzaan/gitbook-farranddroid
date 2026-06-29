@@ -1,5 +1,9 @@
 # Home
 
+{% hint style="info" %}
+edit test 1
+{% endhint %}
+
 **`🤖 welcome to my site`**
 
 I hope anything on it can support you somehow!
@@ -23,9 +27,9 @@ For a detailed map of this whole website, visit the site map:
 {% hint style="warning" %}
 If you appreciate my work on these GitBook websites and want to support me, you can follow my other accounts on social media, and you can buy me a coffee, or a coconut!
 
-Visit my [https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/support-me](https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/support-me "mention") page to donate so that I can keep working on these things!
+Visit my [Support Me](https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/support-me "mention") page to donate so that I can keep working on these things!
 
-Visit my [https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/store-free](https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/store-free "mention") to buy my digital products if you prefer exchange than donation. (You can also download everything for free, and donate what you want!)
+Visit my [Store (free!)](https://app.gitbook.com/s/4g2MHu9J8li31PmfpbWI/store-free "mention") to buy my digital products if you prefer exchange than donation. (You can also download everything for free, and donate what you want!)
 
 Visit my [LinkTree](https://linktr.ee/fazzaan) website to see all my social media channels.
 
