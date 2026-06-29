@@ -1,8 +1,12 @@
-# Home
+# ARCHIVED
+## WE HAVE MOVED TO GITLAB
+_Migrated and archived on 2026-06-29_  
 
-{% hint style="info" %}
-edit test 1
-{% endhint %}
+[VIEW NEW REPO ON **GITLAB**](https://gitlab.com/fazzaan/gitbook-farranddroid)  
+
+[VIEW WEBSITE ON **GITBOOK**](https://tchspprt.gitbook.io/tech-support)  
+
+# Home
 
 **`🤖 welcome to my site`**
 
